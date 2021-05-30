@@ -1,0 +1,216 @@
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.json
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.exe
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.deps.json
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.json
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.dev.json
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csprojAssemblyReference.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfoInputs.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfo.cs
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cs
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.Manifest.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.xml
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\scopedcss\bundle\HasanAkca-Proje.styles.css
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.input.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.output.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorCoreGenerate.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cs
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CopyComplete
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.genruntimeconfig.cache
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Anasayfa.cshtml.g.cs
+C:\Users\Hasan\source\repos\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\KitapDetay.cshtml.g.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.json
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.exe
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.deps.json
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.json
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.dev.json
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.Manifest.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.xml
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\scopedcss\bundle\HasanAkca-Proje.styles.css
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.input.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.output.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorCoreGenerate.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Anasayfa.cshtml.g.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\KitapDetay.cshtml.g.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cache
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cs
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\Desktop\Csharp\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.genruntimeconfig.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.json
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.exe
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.deps.json
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.json
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.dev.json
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cs
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.Manifest.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.xml
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\scopedcss\bundle\HasanAkca-Proje.styles.css
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.input.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.output.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorCoreGenerate.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Anasayfa.cshtml.g.cs
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\KitapDetay.cshtml.g.cs
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cache
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cs
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CopyComplete
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\Desktop\Yeni klasör (2)\Dersler\Bilişim Yönetim Uygulaması\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.genruntimeconfig.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\appsettings.json
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.exe
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.deps.json
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.json
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.runtimeconfig.dev.json
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csprojAssemblyReference.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfoInputs.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.AssemblyInfo.cs
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorAssemblyInfo.cs
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.Manifest.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\staticwebassets\HasanAkca-Proje.StaticWebAssets.xml
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\scopedcss\bundle\HasanAkca-Proje.styles.css
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.input.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.TagHelpers.output.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorCoreGenerate.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Anasayfa.cshtml.g.cs
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\Razor\Pages\KitapDetay.cshtml.g.cs
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cache
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.RazorTargetAssemblyInfo.cs
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.Views.pdb
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.csproj.CopyComplete
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\ref\HasanAkca-Proje.dll
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.pdb
+C:\Users\Hasan\Documents\GitHub\final-projesi-hasanakca1\HasanAkca-Proje\HasanAkca-Proje\obj\Debug\net5.0\HasanAkca-Proje.genruntimeconfig.cache

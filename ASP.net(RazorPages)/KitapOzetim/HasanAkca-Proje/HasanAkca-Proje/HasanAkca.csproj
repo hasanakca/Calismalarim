@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>HasanAkca_Proje</RootNamespace>
+    <UserSecretsId>a4442c2c-8633-4d73-8d64-01edfb5f72df</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="6.0.0-preview.1.21102.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Resimler\1984.jpg" />
+    <None Include="wwwroot\Resimler\altıncıkoğuş.jpg" />
+    <None Include="wwwroot\Resimler\ateşvegüneş.jpg" />
+    <None Include="wwwroot\Resimler\beyazgeceler.jpg" />
+    <None Include="wwwroot\Resimler\büyükumutlar.jpg" />
+    <None Include="wwwroot\Resimler\cemile.jpg" />
+    <None Include="wwwroot\Resimler\dönüşüm.jpg" />
+    <None Include="wwwroot\Resimler\indir.jpg" />
+    <None Include="wwwroot\Resimler\insannedir.jpg" />
+    <None Include="wwwroot\Resimler\korkuyubeklerken.jpg" />
+    <None Include="wwwroot\Resimler\noFace.jpg" />
+    <None Include="wwwroot\Resimler\olasılıksız.jpg" />
+    <None Include="wwwroot\Resimler\star.png" />
+  </ItemGroup>
+
+</Project>

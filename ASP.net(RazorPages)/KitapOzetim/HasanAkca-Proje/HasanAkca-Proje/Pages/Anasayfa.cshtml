@@ -1,0 +1,78 @@
+﻿@page
+@model HasanAkca_Proje.Pages.AnasayfaModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+        <style>
+            body {
+                background-image: url('https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGlicmFyeXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+                background-size: cover
+            }
+        </style>
+    </head>
+    <body>
+
+        <div class="container-fluid text-center">
+
+
+            <div class="row h-10">
+                <nav class="navbar navbar-light d-flex flex-row-reverse" style="background-color:#177FBF;border-bottom:2px solid #402504 ">
+                    <span class="navbar-brand mb-0 h1 text-white">Hoşgeldin @Model.ad</span>
+                </nav>
+            </div>
+            <div class="row">
+
+
+                @if (Model.KitapListe != null)
+                {
+                    foreach (var item in Model.KitapListe)
+                    {
+
+
+
+                        <div class="col-6 col-sm-4 col-md-3 col-lg-2 mt-3">
+                            <div class="card rounded  " style="height:20rem;width: 10rem;border:5px solid #402504">
+
+                                <div class="card-body h-100 d-flex align-items-start " style="background-color:#177FBF;">
+                                    <form method="post">
+                                        <div class="row d-flex flex-row-reverse" style="height:2rem">
+
+                                            <div class="d-flex justify-content-end col-2 h-50"><img src="~/Resimler/star.png" alt="MISSING GIF" style="width:0.9rem" /></div>
+
+                                            <div class="col-3 d-flex flex-row-start"> <h6 class="" style="color:#E1E6FA">@((item.kitapPuan/item.oylayanSayi).ToString().Substring(0,3))</h6></div>
+
+                                        </div>
+                                        <img src="@item.kitapAdres" class="card-img-top rounded" alt="MISSING GIF" height="150px" width="150px" style="border: 2px solid #402504" />
+                                        @if (item.kitapAd.Length > 13)
+                                        {
+                                            <h6 class="card-title mt-3 justify-content-start" style="color:#E1E6FA;width:auto">@(item.kitapAd.Substring(0,13))...</h6>
+                                        }
+                                        else
+                                        {
+                                            <h6 class="card-title mt-3 justify-content-start" style="color:#E1E6FA;width:auto">@(item.kitapAd)</h6>
+                                        }
+
+
+                                        <a asp-page="KitapDetay" asp-route-Id="@(item.id)" class="btn btn-primary mt-2 " style="background-color:#F25041;border:1px solid #402504">Özet Yaz</a>
+
+
+                                    </form>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                }
+
+
+
+            </div>
+        </div>
+
+
+    </body>
+}

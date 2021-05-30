@@ -1,0 +1,3640 @@
+1,Cabbage,kebic,LAHANA
+2,Puzzle,pazl,BULMACA, PROBLEM
+3,Dial,dayıl,1.GÖSTERGE 2.TELEFON ETMEK
+4,Taxi,teksi,TAKSİ
+5,Faithful,feythful,GÜVENİLİR, SADIK
+6,Science,sayıns,BİLİM
+7,Infinite,ınfinit,SONSUZ
+8,Suspicion,sıspışın,ŞÜPHE
+9,Move,muuv,HAREKET ETMEK, ETTİRMEK
+10,Cocoa,koko,KAKAO
+11,Empty,empti,BOŞ
+12,Begin,begın,BAŞLAMAK
+13,Interrupt,intırapt,DURDURMAK, KESMEK(bir süre için), ARAYA GİRMEK
+14,Error,erır,HATA
+15,Statue,statüü,HEYKEL
+16,Thought,thoot,DÜŞÜNCE
+17,Hobby,hobi,HOBİ
+18,Stick,stik,YAPIŞTIRMAK, DEĞDİRMEK, YAPIŞMAK
+19,Narrow,nerou,DAR
+20,Compliment,komplimınt,İLTİFAT, KOMPLİMAN, HEDİYE
+21,Noble,noubl,SOYLU
+22,Medicine,medisin,İLAÇ, TIP
+23,Guerrilla,gırilı,GERİLLA
+24,Steel,stiil,1)ÇELİK 2)BÜYÜK GÜÇ
+25,Waistcoat,weystkot,YELEK
+26,Official,ofişl,RESMİ
+27,Rice,rays,PİRİNÇ
+28,Identify,aydentifay,BELİRLEMEK, TANIMLAMAK, TANIMAK, BELİRTMEK
+29,Indeed,indiid,GERÇEKTEN
+30,Bear,beır,1.TAŞIMAK, DAYANABİLMEK 2.AYI
+31,Humble,hambl,ALÇAK GÖNÜLLÜ
+32,Those,douz,ONLAR
+33,Freight,freyt,HAMULE, NAVLUN
+34,Punch,panç,1.DELMEK 2.YUMRUKLAMAK
+35,Disturb,distörb,RAHATSIZ ETMEK
+36,Military,militıri,ASKERİ
+37,Default,difolt,İFA ETMEME,HAZIR BULUNMAMA(Default Payment=Ödememe)
+38,Hollow,halou,BOŞ (bir cismin arkası boş olması davul,duvar v.b)
+39,Walk,wolk,YÜRÜMEK, YÜRÜYÜŞ
+40,Toilet,toilıt,TUVALET
+41,Heel,hiıl,TOPUK
+42,Wrong,rong,YANLIŞ
+43,Victimize,viktımayz,KURBAN ETMEK (Grubun su?unu bir kişiye yüklemek.)
+44,Decorate,dekıreyt,DÖŞEMEK, DEKORE ETMEK
+45,Assembly,esembli,1.MONTAJ 2.OTURUM
+46,Touch,taç,DOKUNMAK
+47,Cone,kon,1)KONİ 2)KÜLAH (Dondurma)
+48,Disadvantage,disadvantıc,DEZAVANTAJ
+49,Diplomat,dıplımat,DİPLOMAT
+50,Outline,autlayn,ANA HAT, ÖZETLEMEK
+51,Lie,laı,YALAN, YALAN SÖYLEMEK
+52,Tremendous,trimendıs,ÇOK BÜYÜK, HARİKA
+53,See,sii,1.GÖRMEK 2.FARK ETMEK 3.ANLAMAK
+54,Normal,normıl,NORMAL
+55,Stuff,staf,1.CİSİM , ŞEY 2.TIKIŞTIRMAK
+56,Bloom,bluum,ÇİÇEK, ÇİÇEK AÇMAK
+57,Ram,rem,1)KOÇ 2)VURMAK, TOSLAMAK
+58,Wet,wet,NEMLİ
+59,February,february,ŞUBAT
+60,Bonfire,bonfayır,MEYDAN ATEŞİ, ŞENLİK ATEŞİ
+61,Superb,supörb,HARİKA, ÇOK GÜZEL
+62,Ice-Cream,ays kriim,DONDURMA
+63,Augment,ogment,İLAVE ETMEK, ARTTIRMAK, ZAM YAPMAK
+64,Tradition,tredişin,GELENEK
+65,Snack,snek,KÜÇÜK, HIZLI YENİLEN YEMEK
+66,Commemorate,kımemoreyt,ANMAK (Kötü, üzücü bir olayı)
+67,Flee,flii,KAÇMAK
+68,Clutch,kla?,1) DEBRİJAJ 2) KAVRAMA
+69,Cereal,siyriyıl,TAHIL, MISIR
+70,Favourite,feyvrıt,EN SEVİLEN, FAVORİ
+71,Crowd,kraud,KALABALIK
+72,Bet,bet,İDDİA ETMEK, İDDİAYA GİRMEK
+73,Soon,suun,YAKINDA (zaman açısından)
+74,Baker,beykır,FIRINCI
+75,Loaf,lof,BÜTÜN EKMEK, VAKTİ BOŞA GEÇİRMEK
+76,Meat,miit,ET
+77,Occupation,aküpeyşın,1.MESLEK  2.İŞGAL
+78,Character,kerıktır,KİŞİLİK
+79,Selection,sılekşn,SEÇİM
+80,Union,yunyın,1.SENDİKA  2.BİRLEŞME
+81,Scone,skon,BİR ÇEŞİT ÜZÜMLÜ EKMEK VE TEREYAĞ
+82,Hopeless,houplıs,UMUTSUZ
+83,Campus,kempıs,KAMPÜS
+84,Primarily,pramırili,ANA OLARAK
+85,Undergo,andırgo,KATLANMAK, ÇEKMEK, BİR OLAYIN OLMASI
+86,Swear,sweır,1.YEMİN ETMEK 2.KÜFRETMEK
+87,Bolt,bolt,1)CIVATA2)SÜRGÜ(kapı) 3)ANİ KAÇIŞ(korkuyla) 4)SOMUN
+88,Obey,obey,SÖZ DİNLEMEK, İTAAT ETMEK
+89,Plumber,plamır,MUSLUK TAMİRCİSİ
+90,Certificate,sertıfıkeyt,SERTİFİKA
+91,Possess,pızes,SAHİP OLMAK
+92,Consul,konsl,KONSOLOS
+93,Bay,bey,KOY
+94,Situation,siçueyşn,DURUM
+95,Light,layt,1.IŞIK 2.AÇIK (renklerde) 3.HAFİF
+96,Up-To-Date,ap tı deyt,BUGÜNE KADAR
+97,Sweater,swetır,SÜVETER
+98,Have,hev,SAHİP OLMAK
+99,Sum,sam,TOPLAM
+100,Purchase,pörçıs,SATIN ALMAK
+101,Carbon-Paper,karbın peypır,KARBON KAĞIDI
+102,Positive,pazitiv,1.EMİN, KESİN  2.OLUMLU
+103,Substance,sabstıns,MADDE, CEVHER
+104,Flavour,fleyvır,TAT
+105,Hang,heng,ASMAK
+106,Old,old,ESKİ, YAŞLI
+107,Plain,pleyn,AÇIK, ORTADA, DÜZ
+108,Soldier,soulcır,ASKER
+109,Dizzy,dizi,BAŞ DÖNMESİ
+110,Iron,ayrın,1.DEMİR  2.ÜTÜ
+111,Ex,eks,SABIK, ESKİ (ex-wife, ex-president, ex-gırl friend)
+112,Crisis,kraysız,KRİZ
+113,Fountain,fauntın,FISKİYE
+114,Poet,poıt,ŞAİR, OZAN
+115,God,gad,TANRI
+116,Different,dıfrınt,FARKLI
+117,Gravestone,grıyvıstun,MEZARTAŞI
+118,Warrant,warınt,GARANTİ
+119,Tender,tendır,1.KOLAY ÇİĞNENEBİLEN 2.YUMUŞAK, İYİ HUYLU 3.İHALE
+120,Ache,eyk,AĞRI
+121,Neither...Nor...,naydır..nor..,NE O..NE ÖBÜRÜ
+122,Paste,peyst,BEYAZ TUTKAL, MACUN, HAMUR
+123,Remittance,rimitıns,HAVELE (Para)
+124,Drum,dram,1)DAVUL 2)MAKARA 3)VARİL, BİDON
+125,Against,egeinst,KARŞI, ZIT
+126,Advanced,edvensd,GELİŞMİŞ
+127,Aged,eycd,YAŞINDA
+128,Last,lest,SON, SONUNDA, GEÇMİŞ
+129,Resist,rızist,KARŞI KOYMAK
+130,Other,adır,DİĞER
+131,Camp,kemp,KAMP
+132,Peak,pik,ZİRVE, TEPE
+133,Spit,spit,TÜKÜRMEK
+134,Deed,diid,1.EYLEM  2.TAPU
+135,Splash,splaş,SIÇRATMA
+136,Lick,lik,YALAMAK
+137,Cucumber,küukambır,HIYAR
+138,Rid,rid,ATMAK, FIRLATMAK (To get rid of:başından atmak)
+139,Addict,edikt,TİRYAKİ,MÜPTELA
+140,Disc-Jockey,disk cokey,DİSCOKEY
+141,House,haus,EV
+142,Record,rekord,1.KAYIT 2.PLAK 3.REKOR
+143,Tiny,tayni,ÇOK KÜÇÜK
+144,Operate,opıreyt,ÇALIŞMAK
+145,Anti,anti,KARŞI, ZIT, TERS
+146,Upper,apır,ÜST
+147,Probable,prabıbl,OLASI
+148,Beyond,biyand,ÖTESİNDE
+149,Battery,betıri,PİL
+150,Principal,prinsipl,1.EN ÖNEMLİ 2.PRENSİP  3.ANA PARA (borçta)
+151,Noon,nuun,ÖĞLE ZAMANI
+152,Hero,hiro,KAHRAMAN
+153,Satin,setin,SATEN, ATLAS
+154,Struggle,stragl,1.KAVGA ETMEK 2.ÇABA
+155,Awake,eveyk,UYANIK
+156,Liquidate,likvideyt,TASFİYE ETMEK, ÖLDÜRME, KURTULMAK, BAŞINDAN ATMAK
+157,Easy,iizi,KOLAY
+158,Delightful,dılaytful,HOŞNUT EDİCİ
+159,Farm,fam,ÇİFTLİK
+160,Grain,greyn,TANECİK ( kum,buğday v.s.)
+161,Barrel,berıl,1.VARİL 2.NAMLU
+162,Painful,peynful,AĞRILI
+163,Fair,feır,1.DÜRÜST,ADİL 2.OLDUKÇA İYİ 3.PANAYIR 4.FUAR
+164,Spectacular,spektıkulır,GÖRÜLMEYE DEĞER
+165,Ignition,ignişın,1)TUTUŞMA, ATEŞLEME, ATEŞ ALMA 2)ATEŞLEME TERTİBATI
+166,Bring,bring,GETİRMEK
+167,Rubbish,rabiş,1.ÇÖP 2.SAÇMA
+168,Painter,peyntır,1.RESSAM  2.BOYACI
+169,Wise,wayz,ZEKİ, AKILLI
+170,Rear,rıir,1)YETİŞTİRMEK(insan,kuş,bitki) 2)ARKA,ARKA TARAF
+171,Space,speys,1.UZAY 2.BOŞLUK 3.YER
+172,Needle,niidl,İĞNE, ŞİŞ
+173,Make-Up,meyk ap,1.MAKYAJ  2.UYDURMAK
+174,Dictator,dıkteytır,DİKTATÖR
+175,Representative,reprızentıtiv,TEMSİLCİ
+176,Object,abcekt,NESNE, OBJE, AMAÇ
+177,Anyway,enivey,HER NEYSE
+178,Elder,eldır,YAŞLI (daha yaşlı)
+179,Stretcher,stre?ır,SEDYE
+180,Fugitive,fiucitiv,KANUN KAÇAĞI
+181,Abolish,ebolış,İPTAL ETMEK
+182,Want,wont,İSTEMEK, İSTEK
+183,Plus,plas,ARTI
+184,Tooth,tuuth,DİŞ
+185,Booklet,buklıt,BROŞÜR
+186,Being,biing,VARLIK
+187,Hurt,hört,YARALAMAK, YARALANMAK
+188,Voice,vois,SES
+189,Yacht,yat,YAT (deniz taşıtı )
+190,Paradise,perıdays,CENNET
+191,Product,prıdak,ÜRÜN
+192,Earn,örn,PARA KAZANMAK
+193,Nobody,noubadi,HİÇ KİMSE
+194,Sing,sing,ŞARKI SÖYLEMEK
+195,Down,daun,AŞAĞISI
+196,Burn,börn,YANMAK
+197,Evolution,ivulişın,EVRİM
+198,Lie,laı,YATMAK
+199,Illustrate,ilıstreyt,RESİMLE GÖSTERMEK
+200,Hell,hel,CEHENNEM
+201,Emotion,imoşın,KUVVETLİ DUYGU
+202,Ribbon,ribın,KURDELA, ŞERİT
+203,Caution,koşın,UYARI
+204,Seldom,seldım,ARA SIRA, SIK DEĞİL
+205,Express,ıkspres,İFADE ETMEK
+206,Contrary,kontrıri,TERSİNE, ZIDDINA
+207,Temple,tempıl,TAPINAK
+208,Lake,leyk,GÖL
+209,Operator,opıreytır,OPERATÖR
+210,Major,mecır,1)BÜYÜK, ÖNEMLİ 2)BİNBAŞI (ORDUDA)
+211,Alcohol,elkıhol,ALKOL
+212,Park,park,1.PARK 2.PARK ETMEK
+213,Quarter,kootır,ÇEYREK
+214,What,wat,NE
+215,Perfect,pörfekt,KUSURSUZ, YETKİN
+216,Draught,draaft,HAVA AKIMI, CERYAN
+217,Typist,taypist,DAKTİLODA YAZI YAZAN KİMSE
+218,Plantation,plenteyşn,EKİLİ YER
+219,Clever,klevır,AKILLI
+220,Anywhere,eniveır,HERHANGİ BİR YER
+221,Roast,roust,ROSTO, FIRINDA PİŞİRMEK
+222,Damage,demı?,ZARAR, ZARAR VERMEK
+223,Succession,sıkseşn,ARDARDA ,DEVAMLI
+224,Delight,dılayt,HOŞNUTLUK
+225,Fertile,förtaıl,1)GÜBRE 2)ÜRETKEN
+226,Scheme,skiim,PLAN, PROJE
+227,Tent,tent,TENTE,ÇADIR
+228,Hen,hen,DİŞİ KUŞ, PİLİÇ
+229,Exaggerate,ıgzacıreyt,ABARTMAK
+230,Reduce,rıdyus,AZALTMAK
+231,Missile,misayl,FÜZE, FIRLATILAN CİSİM
+232,Thank,thenk,TEŞEKKÜR ETMEK
+233,Referendum,refırendum,REFERANDUM, HALK OYLAMASI
+234,Clothes,klouthz,GİYSİLER (her zaman çoğuldur )
+235,Brain,breyn,BEYİN
+236,Lock,lok,KİLİTLEMEK, KİLİT
+237,Next,nekst,EN YAKIN, BİR SONRAKİ, ERTESİ
+238,Term,törm,1.ZAMAN DİLİMİ 2.SÖZCÜKLER  3.SÖMESTR
+239,Nephew,nevüuu,YEĞEN (erkek)
+240,Telegram,telıgrem,TELGRAF
+241,Moisture,moıs?ır,NEM
+242,Invoice,invoys,FATURA
+243,Chamber,?embır,ODA (Chamber of commerce = Ticaret odası vb.)
+244,Aerial,eriyıl,ANTEN
+245,Cabin,kebin,KABİN
+246,Diameter,dayametır,ÇAP
+247,Chain,çeyn,ZİNCİR
+248,Officer,ofisır,SUBAY, MEMUR
+249,Occasion,ıkeyjn,VESİLE
+250,Escape,ıskeyp,KAÇMAK
+251,Mean,miin,1.ANLAMINA GELMEK,İSTEMEK,PLANLAMAK 2.CİMRİ
+252,Degree,dıgrii,DERECE
+253,October,oktobır,EKİM (ayı )
+254,Whale,weyl,BALİNA
+255,Fairly,feıli,1.DÜRÜSTÇE 2.EPEYCE
+256,Stapler,steipılr,ZIMBA (Tel)
+257,Answer,ensır,YANIT
+258,Tube,tüub,TÜP
+259,Adventure,edvençur,MACERA
+260,Apart From,epart from,HARİÇ, DIŞINDA
+261,Cancel,kensıl,İPTAL ETMEK
+262,Thunder,thandır,GÖK GÜRÜLTÜSÜ
+263,Assistant,esistınt,YARDIMCI
+264,Roof,ruuf,ÇATI
+265,Observe,ıbzörv,GÖZLEM YAPMAK
+266,Hawk,hovk,1.ATMACA 2.EL ARABASIYLA SATMAK, SEYYAR SATICILIK
+267,Invalid,invelid,GEÇERSİZ
+268,Total,toutıl,TOPLAM
+269,Pity,piti,ACIMAK (What a pity : Ne yazık)
+270,Appoint,eppoint,ATAMAK
+271,Allow,elov,İZİN VERMEK
+272,Gigolo,jigolo,JİGOLO
+273,Patient,peyşnt,1.SABIRLI 2.HASTA
+274,Argue,argüu,TARTIŞMAK
+275,Distinction,dıstingşın,KÜÇÜK FARKLILIK
+276,Step,step,1.ADIM, ADIM ATMAK  2.ÜVEY
+277,Pocket,pakıt,CEP
+278,Grapefruit,greypfruut,GREYFURT
+279,Slope,sloup,EĞİM
+280,Shelter,şeltır,SIĞINMAK
+281,Accommodate,ekomodeyt,YERLEŞTİRMEK
+282,Try,tray,DENEMEK, DENEME
+283,Pigeon,picın,GÜVERCİN
+284,Rescue,reskuu,KURTARMAK
+285,Come,kam,GELMEK
+286,Optimist,aptimist,İYİMSER
+287,Legacy,legisi,MİRAS
+288,Trouble,trabl,DERT, DERT ETMEK
+289,Moon,muun,AY
+290,Souvenir,suuvenır,HATIRA
+291,Canal,knal,KANAL
+292,Receipt,rısiit,MAKBUZ
+293,Couple,kapıl,1.ÇİFT (karı-koca v.b)  2.BİR KAÇ
+294,Toy,toy,OYUNCAK
+295,Quite,kuayt,HEMEN HEMEN, YAKLAŞIK OLARAK
+296,War,wor,SAVAŞ
+297,Index,indeks,İNDEX
+298,Beauty,büuti,GÜZELLİK
+299,Net,net,1.AĞ  2.NET (brütün tersi)
+300,Nowhere,nouweır,HİÇ BİRYER
+301,Knock,nok,VURMAK (kapıya vurmak)
+302,Main,meyn,ANA, ESAS
+303,Toast,toust,1.TOST, TOST YAPMAK  2.KADEH KALDIRMAK
+304,Suspension,sıspenşın,ASMA,ASILMA (Suspensıon Brıdge : Asma köprü)
+305,Suit,suut,1.YAKIŞMAK 2.UYGUN GELMEK 3.TAKIM ELBİSE
+306,Position,pızişn,DURUM, KONUM
+307,Wear,weır,GİYMEK
+308,Nonsense,nonsıs,SAÇMA
+309,Reflect,riflekt,YANSITMAK
+310,Child,çayld,ÇOCUK
+311,Mathematics,methemetiks,MATEMATİK
+312,Thing,thing,ŞEY
+313,Construct,kınstrak,İNŞA ETMEK,YAPMAK
+314,Attendant,ıtendınt,1) HİZMETÇİ, HİZMETKAR 2) REFAKAT EDEN KİMSE
+315,Belt,belt,KEMER
+316,Skin,skin,DERİ
+317,Comfort,kanfırt,KONFOR ,RAHAT
+318,Regular,regulır,DÜZENLİ, OLAĞAN
+319,Might,mayt,1)KUVVET,KUDRET 2)BELKİ (Might be:Az ihtimalli.)
+320,Admission,edmişın,1)KABUL, İTİRAF 2)GİRİŞ
+321,Scruff,skraf,1)ENSE 2)KİRLİ,PASAKLI İNSAN
+322,Overtime,ovırtaym,FAZLA MESAİ
+323,Key,kii,ANAHTAR
+324,Guarantee,garentii,GARANTİ
+325,Fruit,fruut,MEYVE
+326,Swan,swan,KUĞU
+327,Translate,trenzleyt,ÇEVİRİ , TERCÜME
+328,Nut,nat,1.KURUYEMİŞ (fındık v.b) 2.SOMUN
+329,Carryover,keriovır,DEVİR
+330,Refugee,refyucii,TEHLİKEDEN KAÇAN, KAZAZEDE
+331,Consist,kınsist,OLUŞMAK
+332,Mole,mol,1)KÖSTEBEK 2)VÜCUTTAKİ BEN
+333,Flash,fleş,FLAŞ
+334,Immoral,imorıl,AHLAKSIZ, EDEPSİZ
+335,Skateboard,skeytboord,KAY KAY
+336,Earnest,örnıst,CİDDİ
+337,Air,eyr,1.HAVA 2.HAVALANDIRMA
+338,Capture,kepçır,1.ELE GEÇİRMEK  2.HAPSE ATMAK
+339,Clue,klu,İPUCU
+340,Radar,reydır,RADAR
+341,Export,eksport,İHRAÇ MALI, İHRACAT
+342,Shell,şel,1.KABUK 2.BOMBALAMAK
+343,Sad,sed,ÜZGÜN, MUTSUZ
+344,Wonderful,wandıfl,ŞAŞIRTICI, HARİKA
+345,Poverty,povitı,FAKİRLİK
+346,Off,of,YOK OLMAK, EKSİLMEK
+347,Boil,boıl,KAYNAMAK
+348,Mosquito,mıskiito,SİVRİSİNEK
+349,Due,düu,KADAR, VADE( borç )
+350,Know,nou,BİLMEK
+351,Glory,glori,ONUR, HEYECAN, GÜZELLİK
+352,Angel,eyncıl,MELEK
+353,May,mey,1.MAYIS 2.MAY BE = BELKİ
+354,Reside,rizaıd,OTURMAK, İKAMET ETMEK
+355,Disclose,diskloz,AÇIĞA, MEYDANA ÇIKARMAK, BİLİNMESİNİ SAĞLAMAK
+356,Hush,haş,SAKİNLİK,SESSİZLİK,SUS
+357,As,ez,1.GİBİ 2.OLARAK 3.OLARAK
+358,Group,gruup,GURUP, TOPLULUK
+359,Preach,priiç,VAAZ VERMEK
+360,Cancer,kensır,KANSER
+361,Sardine,saadin,SARDALYA
+362,Box,boks,1.KUTU 2.BOKS
+363,Memorize,memırayz,EZBERLEMEK
+364,Leader,liidır,ÖNDER, LİDER
+365,Problem,prablım,SORUN, PROBLEM
+366,Green,griin,1. YEŞİL 2.TECRÜBESİZ ,TOY
+367,Aboard,ebord,(bir taşıtın)İÇİNDE OLMAK
+368,Player,pleyır,OYUNCU, ÇALAN
+369,Trace,treys,İZ, İZ SÜRMEK
+370,Shoot Down,şut daun,İMHA ETMEK, HAYIR CEVABI, OLUMSUZ
+371,Chip,?ip,UFAK PARÇA
+372,Imitate,imiteyt,ÖRNEK ALMAK, TAKLİT ETMEK
+373,Paper,peypır,1.KAĞIT 2.GAZETE 3.EVRAK, KİMLİK
+374,Ideal,aydiıl,YETKİN, İDEAL
+375,Multiply,maltıpılay,ÇARPMAK, ÇOĞALMAK
+376,Beat,biit,1.VURMAK  2.YENMEK
+377,Doll,dol,OYUNCAK BEBEK
+378,Hum,ham,VIZILDAMAK, DUDAK KAPALI ŞARKI SÖYLEMEK
+379,Another,enadır,DİĞER, BİR BAŞKA
+380,Fountain-Pen,fauntın pen,DOLMA KALEM
+381,Strap,strep,TUTACAK, ASKI (Elbise, Ayakkabı)
+382,September,septembır,EYLÜL
+383,Citizen,sitizn,YURTTAŞ
+384,Early,örli,ERKEN
+385,Bowl,boul,TAS
+386,Genius,ciniıs,DAHİ
+387,Pale,peyl,SOLUK,SOLGUN  (renk)
+388,Preparation,prepıreyşn,HAZIRLIK
+389,Brow,brau,ALIN
+390,Religion,rılicın,DİN
+391,Steady,stedi,SABİT
+392,Parliament,parlımınt,PARLAMENTO
+393,Deep,diip,DERİN
+394,Population,papüleyşn,NÜFUS
+395,Debate,dibeyt,TARTIŞMA
+396,Independent,ındıpendınt,BAĞIMSIZ
+397,Container,konteynır,KAP
+398,Boast,boust,ÖVÜNMEK
+399,Lesson,lesn,DERS
+400,Oven,avn,FIRIN
+401,Chapter,?eptır,BÖLÜM, KONU
+402,Tree,trii,AĞAÇ
+403,Token,tokın,1)İŞARET 2)JETON
+404,State,steyt,SÖYLEMEK VEYA YAZMAK(bir şeyi)
+405,Presence,prezns,VARLIK(bir yerde varlığı )
+406,Cable,keybl,1.KABLO 2.TELGRAF
+407,Vanilla,venilı,VANİLYA
+408,Tire,tayır,YORMAK
+409,Basket,baskıt,SEPET
+410,Gay,gey,1)MUTLU, PARLAK, ÇOK RENKLİ 2)HOMO
+411,Attention,etenşın,DİKKAT
+412,Appear,eppiır,GÖRÜNMEK
+413,Control,kontroul,KONTROL ETMEK, YÖNETMEK
+414,Liver,livır,KARACİĞER
+415,Fail,feyl,BAŞARISIZ OLMAK
+416,Flight,flayt,UÇUŞ
+417,Guitar,gitaar,GİTAR
+418,Master,mestır,UZMAN, ŞEF, SAHİP, HOCA
+419,Declare,dikleır,AÇIKLAMAK
+420,Verb,vörb,FİİL
+421,Come Across,kam ekros,TESADÜFEN KARŞILAŞMAK VEYA BULMAK
+422,Carpet,kaarpıt,HALI
+423,Modern,madn,MODERN, ÇAĞDAŞ
+424,Tap,tep,1.MUSLUK 2.TIKLATMAK
+425,Scarf,skaaf,ATKI
+426,Threaten,thretın,TEHTİD ETMEK
+427,So,sou,1.ÖYLEYSE, BU YÜZDEN 2.BU ŞEKİLDE 3.ÇOK
+428,Assurance,eşurıns,GÜVEN,İNANÇ,SÖZ
+429,Tragedy,trejedi,TRAJEDİ
+430,Intangible,intencıbıl,MANEVİ,MADDİ OLMAYAN,INTANGIBLE ASSET=MADDİ,VARLIK
+431,Conclude,konkluud,1.SONUCA ULAŞMAK 2.KARAR VERMEK
+432,Crazy,kreyzi,ÇILGIN
+433,Score,skoor,SKOR
+434,Fiscal,fiskıl,DEVLETİN,PARA,VERGİ,BORÇ İLE İLİŞKİLİ (Fiscal year)
+435,Pin,pin,TOPLU İĞNE
+436,Joy,coy,MUTLULUK,EĞLENCE
+437,Retire,ritayır,EMEKLİ OLMAK
+438,Pear,peır,ARMUT
+439,Choice,?oyıs,SEÇİM, İSTEK, TERCİH
+440,Minimum,minımum,ENAZ
+441,Coupe,kupe,SPOR ARABA
+442,Tick,tik,SAAT SESİ, OKEY İŞARETİ
+443,Saw,soo,1)TESTERE 2)GÖRMEK (See'nin past tens'i)
+444,Broad,brood,GENİŞ
+445,Suck,sak,EMMEK
+446,Match,meç,1.UYMAK, UYUŞMAK 2.MAÇ 3.KİBRİT
+447,Distant,distınt,UZAK
+448,Pretend,pritend,GİBİ GÖZÜKMEK, TAKLİT YAPMAK
+449,File,fayl,1.DOSYA 2.TÖRPÜ 3.SIRA
+450,Means,miins,1.STİL, YOL, YARDIM  2.PARA
+451,Revolution,revolışın,DEVRİM
+452,Loyalty,loyıltiy,SADAKAT,BAĞLILIK
+453,Suggest,sıcest,ÖNERMEK
+454,Achievement,e?ivmınt,BAŞARI
+455,Under,andır,ALTTA, ALTA
+456,Tonight,tınayt,BU GECE
+457,Tissue,tişuu,KAĞIT MENDİL
+458,Matter,metır,1.MESELE  2.ÖNEMLİ OLMAK
+459,Sound,saund,1.SES 2.MANTIKLI 3.TOPLAM
+460,Unfair,anfeyır,ADİL OLMAYAN
+461,Aspect,espekt,GÖRÜNÜŞ, GÖRÜŞ, HAL, ÇEHRE, DURUM
+462,Number,nambır,SAYI, NUMARALANDIRMAK
+463,Sour,sauır,EKŞİ
+464,Jack,cek,1)KRİKO 2)VALE (Oyun kağıdında) 3)TORPİL YAPTIRMAK
+465,Concentrate,konsıntreyt,KONSANTRE,YOĞUN
+466,Mind,maynd,BİRİNE BAKMAK,DERT ETMEK
+467,Knowledge,navlıc,BİLGİ
+468,Wage,weyc,SAAT ÜCRETİ
+469,Exist,ıgzist,OLUŞ, VAR OLMAK
+470,Decide,disayd,KARAR VERMEK
+471,Patron,petrın,1)DESTEKLEYİCİ KİŞİ 2)DEVAMLI MÜŞTERİ
+472,Instant,instınt,HIZLI,DERHAL
+473,Doubt,daut,1.ŞÜPHE 2.EMİN OLMAMAK
+474,Circus,sörkıs,SİRK
+475,Initiative,inişıtiv,İLK HAREKET,BAŞLATMA,İNSİYATİF(Take the initiative)
+476,Cosmetic,kozmetik,KOZMETİK
+477,Whole,houl,TÜM, BÜTÜN  WHOLESALES = TOPTAN SATIŞ
+478,Step Child,step ?ayld,ÜVEY ÇOCUK
+479,Purse,pöös,KÜÇÜK EL ÇANTASI
+480,Soccer,sokır,FUTBOL
+481,Close,klous,YAKIN
+482,Splendid,splendid,NEFİS, HARİKA
+483,Measure,mejır,ÖLÇÜ
+484,Pretty,priti,1.SEVİMLİ  2.OLDUKÇA
+485,Chest,?est,1)GÖĞÜS 2)SANDIK
+486,Equip,ikvip,DONATMAK
+487,Of,ov,İYELİK EKİ, NIN
+488,Use,yuuz,KULLANMAK
+489,Sorrow,sarou,ÜZÜNTÜ
+490,Mice,mays,FARELER
+491,Submit,sıbmit,1)REYİNE,ONAMASINA BIRAKMA 2)TESLİM OLMA,BOYUN EĞME
+492,Wild,wayd,VAHŞİ
+493,Adverse,edvörs,ZIT,KARŞI
+494,Stare,steyr,UZUN SÜRE BAKMAK
+495,Pine,payn,ÇAM
+496,Tummy,tami,MİDE
+497,Promotion,primoşın,TERFİ
+498,Far,far,UZAK
+499,Cruel,kruıl,ZALİM
+500,Conclusion,kınkıluşın,KARAR,SONUÇ
+501,Elsewhere,elsver,BAŞKA BİR YER
+502,Babysitter,beybisitır,ÇOCUK BAKICISI
+503,Mortgage,morgey?,İPOTEK
+504,Please,pliiz,1.LÜTFEN  2.MUTLANDIRMAK
+505,Result,rizalt,SONUÇ
+506,Crown,kraun,TAÇ
+507,Novel,novıl,ROMAN
+508,Diamond,daymınd,1.ELMAS 2.KARO (kağıt oyunlarında)
+509,Topic,tapik,KONU
+510,Evacuate,ıveküueit,1)BOŞALTMA,TAHLİYE ETMEK 2)TEHLİKEDEN UZAKLAŞTIRMAK
+511,Dependent,dıpendınt,BAĞIMLI (In dependent:bağımsız)
+512,From,from,(...DEN,  ...DAN) EKİ
+513,Coffin,kofin,TABUT
+514,Burst,börst,PATLAMAK
+515,Hijacker,haycekır,KORSAN, EŞKIYA
+516,Slide,slayd,DİA, SLAYT
+517,Napkin,nepkin,PEÇETE
+518,Employ,ımploy,ÇALIŞTIRMAK (parayla adam çalıştırmak)
+519,Mushroom,maşrum,MANTAR
+520,Proverb,provörb,ATA SÖZÜ
+521,Plug,plag,FİŞ, BANYO TIKACI
+522,Continent,kontınınt,KITA
+523,Wish,wiş,İSTEK, İSTEMEK
+524,Inspect,inspekt,İNCELEMEK
+525,Alone,elon,1.YALNIZ  2.TEK
+526,Wheel,wiil,TEKERLEK, ÇARK, TEKERLEKLİ BİR ŞEYİ ELLE İTMEK
+527,Tournament,turnımınt,TURNUVA
+528,Tribe,trayb,KABİLE
+529,Central,sentrıl,MERKEZİ
+530,Secure,seküür,EMNİYETLİ, SAĞLAM
+531,Millionaire,milyıner,MİLYONER
+532,Straw,strow,1.SAMAN  2.KAMIŞ (bardak için v.b)  3.HASIR
+533,Stove,stouv,SOBA
+534,Digest,daycest,1)HAZM ETMEK2)OLAYI KAVRAMAK 3)ÖZET,ANA FELSEFE,KURA
+535,Modest,modıst,ALÇAKGÖNÜLLÜ, ILIMLI
+536,Near,niır,YAKIN
+537,Compare,kımpeyr,MUKAYESE ETMEK
+538,Path,peth,PATİKA, KÜÇÜK YOL
+539,Otherwise,adırwayz,1.BAŞKA TÜRLÜ  2.YOKSA,AKSİ TAKTİRDE
+540,Pleasure,plejır,ZEVK
+541,Restrict,rıstrikt,SINIRLAMAK
+542,Worst,wörst,EN KÖTÜ
+543,Short,şort,1.KISA  2.ANİDEN
+544,Vacant,veykınt,1.BOŞ  2.AÇIK (bir iş yerinde)
+545,Vulgar,valgır,KABA, İLKEL
+546,Sufficient,sefişınt,YETERİNCE
+547,Physical,fizıkıl,FİZİKSEL
+548,Important,importınt,ÖNEMLİ
+549,Fire-Brigade,fayı-brigeyd,İTFAİYE
+550,Ought,oot,..MELİ ..MALI EKİ
+551,Install,instol,YERLEŞTİRMEK
+552,Seat-Belt,sit belt,EMNİYET KEMERİ
+553,Crow,kro,1)KARGA 2)HOROZ ÖTÜŞÜ
+554,Regret,rigret,ÜZGÜN OLMAK, PİŞMAN OLMAK
+555,Sail,seyl,DENİZ YOLCULUĞU
+556,Expand,ıkspend,1)BÜYÜMEK,GENİŞLEMEK2)DAHA SAMİMİ VE KONUŞKAN OLMAK
+557,Inflammable,inflemıbıl,ATEŞ ALABİLİR
+558,Satellite,setilayt,UYDU
+559,Caterpillar,ketırpilır,TIRTIL
+560,Flat,flet,1.DÜZ  2.DAİRE (apartman katı)
+561,Patience,peyşns,SABIR
+562,Brass,bras,PİRİNÇ (metal)
+563,Airport,eyirport,HAVA ALANI
+564,Trial,trayıl,1.DENEME,TEŞEBBÜS 2.DURUŞMA 3.TRIALBALANCE = MİZAN
+565,University,yunivörsıti,ÜNİVERSİTE
+566,Previous,priiviıs,ÖNCEKİ
+567,Raw,row,1.HAM 2.ÇİĞ
+568,Darling,daling,SEVGİLİ
+569,Doomsday,duumsdey,AHİRET GÜNÜ
+570,Symbol,simbl,SEMBOL
+571,Inn,in,1.HAN  2.MOTEL
+572,Emphasize,emfısays,ÜZERİNDE DURMAK
+573,Engage,engeyc,1.NİŞANLAMAK  2.İŞ VERMEK
+574,Crisp,krisp,CİBS,KIZARMIŞ KURU PATATES
+575,Content,kontent,TATMİN OLMUŞ
+576,Interpret,intörprıt,ÇEVİRİ, YORUMLAMAK
+577,Within,widin,İÇİNDE
+578,Autumn,otumn,SONBAHAR
+579,Cloud,klaud,BULUT
+580,Place,pleys,YER, YERLEŞTİRMEK
+581,Few,füu,AZ, BİR KAÇ
+582,Sacrifice,sekrıfays,KURBAN, FEDAKARLIK
+583,Cage,keyc,KAFES
+584,Sense,sens,DUYU
+585,Imagination,imecıneyşın,TASAVVUR, HAYAL
+586,Lavatory,levıtri,TUVALET
+587,Among,emong,ARASINDA
+588,Accounting,ekaunting,MUHASEBE
+589,Dig,dig,KAZMAK
+590,Pour,poor,DÖKMEK, AKITMAK
+591,Lamppost,lembpost,SOKAK LAMBASI
+592,Agree,egrii,ANLAŞMAK
+593,Us,as,BİZE
+594,Cool,kuul,1.SERİN 2.SERİNLETMEK, SOĞUTMAK
+595,Apologize,epolocayz,ÖZÜR DİLEMEK
+596,Forge,for?,1)SAHTESİNİ YAPMAK 2)DEMİR METALE ŞEKİL VERMEK
+597,Chop,cop,1)KESMEK,YARMAK 2)PİRZOLA
+598,Recover,rikavır,1.İYİLEŞMEK 2.(kaybedilen bir şeyi) BULMAK
+599,Absence,ebsıns,YOKLUK
+600,Parade,pıreyd,RESMİ GEÇİT
+601,Solid,solid,KATI, SERT
+602,Margin,maacın,MARJ, KATKI
+603,Indefinitely,indefinitli,SONSUZ, SÜRESİZ
+604,Conquer,konkuır,İŞGAL ETMEK
+605,Fish,fiş,BALIK
+606,Purple,pörpıl,MOR
+607,Hold On,hold on,BEKLE
+608,Impolite,impolayt,KABA, NAZİK DEĞİL
+609,Handbag,hendbeg,EL ÇANTASI (kadınların)
+610,Prince,prins,PRENS
+611,Turban,töbın,TÜRBAN
+612,Signal,signıl,SİNYAL VERMEK, SİNYAL
+613,Porter,pootır,1)HAMMAL 2)KAPICI
+614,Technique,teknik,TEKNİK
+615,Transform,trensform,BİR ŞEYİN ŞEKLİNİ DEĞİŞTİRMEK
+616,Alphabet,elfıbit,ALFABE
+617,Sister,sistır,1.KIZ KARDEŞ 2.HEMŞİRE 3.RAHİBE
+618,Miss,mis,BAYAN
+619,Apart,epart,AYRI
+620,Impossible,imposıbl,OLANAKSIZ
+621,Issue,işuu,1.BASKI 2.KONU 3.VERMEK
+622,Rush,raş,ÇABUK DAVRANMAK
+623,Share,şeyr,PAYLAŞTIRMAK, PAYLAŞMAK, PAY
+624,Mouth,mauth,AĞIZ
+625,Feed,fid,BESLEMEK
+626,Dose,dos,BİR SEFERDE ALINAN İLAÇ MİKTARI
+627,Dictionary,dikşınri,SÖZLÜK
+628,Exercise,eksısayz,EGZERSİZ
+629,Territory,teritri,TOPRAK PARÇASI
+630,What's More,wats mor,BUNUN YANISIRA, ÜSTELİK
+631,Shape,şeyp,ŞEKİL, FORM
+632,Stamp,stemp,PUL, DAMGA, DAMGALAMAK
+633,Sky,skay,GÖKYÜZÜ
+634,Explode,ıksploud,PATLAMAK (bomba patlaması)
+635,Top,tap,EN YÜKSEK, EN İYİ, ÜST, KAPAK
+636,Flea,flii,PİRE
+637,Honey,hani,BAL
+638,Applicant,eplikınt,BAŞVURAN
+639,Kind,kaynd,1. İYİ, DOST, SEVGİLİ 2.ÇEŞİT, TÜR
+640,Candidate,kendidıt,ADAY
+641,Frame,freym,ÇERÇEVE
+642,Aunt,aant,TEYZE, HALA
+643,Jar,caar,KAVANOZ
+644,Joke,couk,ŞAKA
+645,Steward,stüvıd,1) ERKEK HOSTES 2) KAHYA (çiflik vb.)
+646,Kin,kin,AİLE, AKRABA
+647,Cordon,kordın,1)POLİS 2)ASKER KORDONU
+648,Precisely,prısayzlı,KESİNLİKLE, TAM MANASIYLA
+649,Almost,olmost,HEMEN HEMEN
+650,Rise,rayz,YÜKSELMEK
+651,Curious,küriyıs,1.MERAKLI 2.OLAĞANDIŞI
+652,Represent,reprızent,TEMSİL ETMEK
+653,Passage,pesıc,PASAJ
+654,Traffic,trefik,TRAFİK
+655,Snore,snoor,HORLAMAK
+656,Horn,horn,1.BOYNUZ 2.KORNA
+657,Elephant,elıfınt,FİL
+658,Sophisticated,sofistikeyt,İNCELİKLİ SOSYAL HAYATTAN BİLGİSİOLAN,UKALA,KARIŞIK
+659,Land,lend,İNİŞ YAPMAK, KONMAK (uçak v.s.)
+660,Theme,thiim,TEMA, KONU
+661,Health,helth,SAĞLIK
+662,Trust,trast,GÜVENMEK
+663,Register,recıstır,1)KÜTÜK,SİCİL,KAYIT 2)REGISTER POST=TAAHÜTLÜ MEKTUP
+664,Alliance,elayıns,BAĞLAŞMA, BİRLİK, MÜTAREKE
+665,Deficit,defisit,AÇIK (budget deficit=bütçe açığı)
+666,Firm,förm,1.SERT 2.FİRMA
+667,Grand,grend,BÜYÜK, ZEVKLİ
+668,Rocket,rokıt,ROKET
+669,Passenger,pesıncır,YOLCU
+670,Beast,biist,CANAVAR
+671,Again,egein,"BİR DAHA
+672,Neck,nek,BOYUN, ENSE
+673,Harvest,harvıst,HASAT
+674,Hear,hiir,DUYMAK
+675,Depress,dıpres,BUNALTMAK
+676,Present,prizent,SUNMAK
+677,Public,pablik,HALK  (puplıc sector=devlet sektörü )
+678,Argument,argümınt,TARTIŞMA
+679,Cheer,çiır,1.NEŞE 2.COŞTURMAK
+680,Custom,kastım,GELENEK
+681,Fox,foks,TİLKİ
+682,Justice,castis,ADALET
+683,Forgive,fıgiv,BAĞIŞLAMAK, AFFETMEK
+684,Wind Screen,wind skriin,ARABA ÖN CAMI
+685,News,nüuz,HABER
+686,New,nuu,YENİ
+687,Stress,stres,BASTIRMAK(üzerine basa basa konuşmak), STRES
+688,Niece,niis,YEĞEN (kız)
+689,Cobweb,kobveb,ÖRÜMCEK AĞI
+690,Condition,kındişın,DURUM, ŞART
+691,Terror,terır,1.BÜYÜK KORKU  2.TERÖR
+692,Extra,ekstrı,FAZLA, EKSTRA
+693,Town,taun,KASABA
+694,Limit,limit,HAT, SINIR, LİMİT
+695,Simplify,simplifay,BASİTLEŞTİRMEK
+696,Ketchup,ket?ıp,KETÇAP
+697,Smash,smeş,ÇARPIP KIRMAK
+698,Fall,fol,1.DÜŞMEK  2.SONBAHAR (AmE)
+699,Face,feys,1.YÜZ, SURAT 2.KARŞISINA ÇIKMAK, BAŞINA GELMEK
+700,Bluff,blaf,BLÖF
+701,Fool,fuul,1.APTAL  2.APTALCA DAVRANMAK  3.KANDIRMAK
+702,Remark,rımark,BELİRTMEK, AÇIKLAMA
+703,Rust,rast,PAS
+704,Annoy,enoy,RAHATSIZ ETMEK, KIZDIRMAK
+705,Deadlock,dedlok,1)ÇIKMAZ 2)AÇMAZ
+706,Range,reync,ARALIK, ALAN
+707,Convince,kınvins,İKNA ETMEK
+708,Same,seym,AYNI, FARKSIZ
+709,Brother,bradır,ERKEK KARDEŞ, AĞABEY
+710,Shy,şay,UTANGAÇ
+711,Bribe,brayb,RÜŞVET
+712,Slang,sleng,ARGO
+713,Apple,epıl,ELMA
+714,Person,pörsın,KİŞİ
+715,Literature,litricır,EDEBİYAT
+716,Station,steyşn,İSTASYON, DURAK
+717,Recipe,resipi,YEMEK TARİFİ
+718,Anchor,enkır,1)ÇAPA 2)DEMİR ATMAK (Gemi)
+719,Detail,diteyl,AYRINTI, DETAY
+720,Inquiry,inkuaıri,SORU
+721,Towel,tauıl,HAVLU
+722,Socket,sakıt,SOKET, PRİZ
+723,Point,point,NOKTA, UÇ
+724,Background,bekraund,1.FON, GERİ PLAN 2.TEMEL
+725,Blockade,blokeyd,ABLUKAYA ALMA
+726,National,neyşınl,ULUSAL
+727,Briefcase,brifkeys,İŞ ÇANTASI
+728,Wipe,wayp,SİLMEK, KURULAMAK (havluyla vs.)
+729,Equipment,ikvıpmınt,TESİSAT,DONANIM
+730,Stick,stik,SOPA, BASTON
+731,Retail,riteil,PAREKENDE, PAREKENDE SATIŞ
+732,Bother,bodır,CAN SIKMAK,ÜZMEK
+733,Crane,kreyn,VİNÇ İLE KALDIRMAK, VİNÇ
+734,Band,bend,1.BANT (şerit)  2.BANDO
+735,Commence,kımens,BAŞLAMAK
+736,Warehouse,weyrhaus,DEPO
+737,Press,pres,BASKI YAPMAK, BASMAK
+738,Chicken,çikın,PİLİÇ
+739,Dice,days,ZARLAR ( Tavla )
+740,Cylinder,siylındır,SİLİNDİR
+741,Thoroughly,thruili,TAMAMIYLA, BÜTÜN İNCE DETAYLARIYLA
+742,Special,speşl,1.ÖZEL 2.EN İYİ
+743,Envelope,ınvılop,ZARF
+744,Grape,greyp,ÜZÜM
+745,Telescope,telıskoup,TELESKOP
+746,Oval,ovıl,OVAL
+747,Lorry,lori,KAMYON
+748,Pillowcase,pilokeys,YASTIK KILIFI
+749,Superior,süperiyır,DAHA İYİ, ÖNEMLİ, AKILLI
+750,Incident,insidınt,OLAY (önemsiz olay)
+751,Power,pauır,GÜÇ
+752,First,först,BİRİNCİ, İLK
+753,Colour,kalır,RENK
+754,Inspector,inspektır,MÜFETTİŞ
+755,Once,wans,1.BİR KEZ 2.BİR AN ÖNCE
+756,Manage,menıc,YÖNETMEK, KONTROL ETMEK
+757,Bind,baynd,BAĞLAMAK
+758,Sleepy,sliipi,UYKULU, SAKİN
+759,Scorpion,skorpion,AKREP
+760,Van,ven,MİNİBÜS
+761,Arrive,erayv,VARMAK
+762,Gamble,gembl,KUMAR OYNAMAK, KUMAR
+763,Confuse,kınfüuz,(kafası) KARIŞMAK, ŞAŞIRMAK
+764,Below,bilov,ALTTA, AŞAĞIDA
+765,Chatter,çetır,GEVEZELİK YAPMAK
+766,In,in,1.İÇİNDE, İÇERİ, İÇERDE, İÇERİYE  2.POPÜLER
+767,Subway,sabwey,ALT GEÇİT , ALT YOL
+768,Cellar,selır,KİLER, BODRUM
+769,Observation,abzıveyşın,GÖZLEM
+770,Desk,desk,"SIRA
+771,Cake,keyk,KEK
+772,Stationery,steyşınery,KIRTASİYE
+773,Young,yang,GENÇ
+774,Thermometer,themomitır,TERMOMETRE
+775,Concept,konsept,GENEL FİKİR,DÜŞÜNCE,ANLAYIŞ-I have no conception why
+776,Motive,motiv,1)MOTİVLENMEK 2)GÜDÜ
+777,Lampshade,lempşeyd,ABAJUR
+778,Choose,çuz,SEÇMEK
+779,Low,lov,ALÇAK, DÜŞÜK
+780,Victory,viktri,UTKU, ZAFER, YENGİ
+781,Recent,riisnt,YAKIN ZAMANDA OLAN
+782,Alarm,alarm,ALARM
+783,Acid,esid,ASİT
+784,Merely,miıli,SADECE, ANCAK
+785,Surround,sıraund,ÇEVRELEMEK
+786,Dock,dok,1.TERSANE(gemi) 2.SANIK İSKEMLESİ 3.DOK
+787,Fertilize,förtılaız,1)GÜBRELEME 2)DÖLLENME (Bees fertilize the flowers)
+788,Excellent,eksılınt,ÇOK İYİ
+789,Receive,rısiiv,1.ALMAK 2.KARŞILAMAK
+790,Loss,los,KAYIP, ZARAR
+791,Selfish,selfiş,BENCİL
+792,Release,rilis,SERBEST BIRAKMAK, GEVŞETMEK
+793,Jet,cet,JET, FIŞKIRMAK
+794,Discuss,dıskas,TARTIŞMAK
+795,Acquaint,ekueynt,TANIMAK,BİLMEK
+796,Dress,dres,1.GİYSİ  2.GİYİNMEK
+797,Tunnel,tanl,TÜNEL
+798,Thirsty,thörsti,SUSAMIŞLIK, SUSATAN
+799,Vest,vest,ATLET, FANİLA
+800,Fist,fist,YUMRUK
+801,Knight,nayt,SİLAHŞÖR, ŞOVALYE, SATRANÇTA AT
+802,Stretch,streç,1.GERİNMEK,GERMEK 2.BİR KEREDE 3.TOPRAK PARÇASI
+803,Wrap,rep,PAKETLEMEK, SARMAK
+804,Fable,feybıl,MASAL, EFSANE
+805,Algebra,alcebra,CEBİR
+806,Barbarous,barbırıs,BARBAR, VAHŞİ
+807,Pepper,pepır,BİBER
+808,Impress,impıres,ETKİLEMEK
+809,Side,sayd,1.KENAR,YAN,TARAF SIDEEFFECT=YAN ETKİ 2.TARAF TUTMAK
+810,Period,periid,1)ÇAĞ, DEVİR, PERİOD 2)ADET (hali)
+811,Ginger,cincır,ZENCEFİL, HAFİF KAHVERENGİ
+812,Remember,rimembır,UNUTMAMAK, ANIMSAMAK
+813,Decrease,dikriis,AZALMAK
+814,Cave,keyv,MAĞARA
+815,General,cenrıl,GENERAL
+816,Laundry,londri,YIKANACAK ÇAMAŞIR, ÇAMAŞIRHANE
+817,Football,futbool,FUTBOL
+818,Spanner,spenir,SOMUN SIKMA ALETİ(Adjustable spanner=İngiliz anahtar
+819,Link,link,BİRLEŞTİRMEK
+820,Practical,prektikl,PRATİK
+821,Last,lest,DEVAM ETMEK, SÜRMEK, YETERLİ OLMAK
+822,Venture,ven?ır,MACERA, RİSK (Genelde iş hayatında)
+823,Annual,enyuıl,YILLIK
+824,Primitive,primitiv,1)İLKEL 2)BASİT, MODASI GEÇMİŞ
+825,One,wan,BİR
+826,Heater,hiitır,ISITICI
+827,Economical,ikınomikl,EKONOMİK
+828,Natural,neçrıl,DOĞAL
+829,Bee,bii,ARI
+830,Delicious,dılişıs,LEZZETLİ
+831,Backbone,bekbon,1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ
+832,Shame,şeym,UTANÇ
+833,Veil,veil,DUVAK
+834,Jealous,celıs,KISKANÇ
+835,Prefer,prıför,YEĞLEMEK, TERCİH ETMEK
+836,Knife,nayf,BIÇAK
+837,For,for,İÇİN
+838,Moderate,madırıt,ILIMLI, ORTADA
+839,Incidentally,insidentli,BUNUN YANINDA (=By the way)
+840,Appearance,eppiırıns,GÖRÜNÜŞ
+841,Employer,ımployır,İŞVEREN
+842,Dance,dens,DANS
+843,Institute,instıtüut,ENSTİTÜ,KURULUŞ
+844,Lung,lang,AKCİĞER
+845,Handsome,hendsım,YAKIŞIKLI
+846,Chairman,çeırmen,YÖNETİM KURULU BAŞKANI
+847,Moment,moumınt,AN
+848,Faultless,foltlıs,KUSURSUZ
+849,Still,stil,1.HAREKETSİZ, SAKİN  2.HALA
+850,Strict,strikt,KATI (katı kuralları olan)
+851,Troops,trups,ASKERLER
+852,Rock,rak,1.KAYA  2.SALLANMAK
+853,Calm,kaam,SAKİN
+854,Disappear,disıpiır,GÖZDEN KAYBOLMAK
+855,Tank,tenk,1.TANK (depo) 2.TANK (silah)
+856,Train,treyn,1.EĞİTMEK  2.STAJ YAPMAK   3.TREN
+857,Bird,börd,KUŞ
+858,Distance,distıns,UZAKLIK
+859,Say,sey,DEMEK, SÖYLEMEK
+860,Minor,maynır,ÖNEMSİZ, UFAK, MİNÖR
+861,Overtake,ovırteyk,GEÇMEK, SOLLAMAK
+862,Odd,od,TUHAF,ACAİP
+863,Ripe,rayp,OLGUN, HAM DEĞİL
+864,Class,klas,SINIF
+865,Savage,sevi?,VAHŞİ,YABANİ,YIRTICI
+866,Fasten,fasn,BAĞLAMAK
+867,Commute,kımyut,EVDEN İŞE HERGÜN UZUN YOL GİDİP GELMEK
+868,Cheese,çiiz,PEYNİR
+869,Tortoise,tootıs,KAPLUMBAĞA
+870,Speedometer,spidamıtır,HIZÖLÇER
+871,Vacuum cleaner,vakuum klinır,ELEKTRİK SÜPÜRGESİ
+872,Apply,eplay,1.BAŞVURMAK 2.UYGULAMAK
+873,Offer,ofır,TEKLİF ETMEK
+874,X-Ray,eks rey,RÖNTGEN IŞINI, X IŞINI
+875,Mat,met,HASIR, PASPAS
+876,Straight,streyt,DÜZGÜN, EN KISA YOLDAN
+877,Sermon,sörmın,VAAZ
+878,Much,maç,ÇOK (miktarca)
+879,Casual,keşuıl,1)PLANLANMIYAN (casual meeting) 2)NORMAL, SADE
+880,Become,bıkam,GELİŞMEK, DEĞİŞMEK
+881,Week,wiik,HAFTA
+882,Significant,sinifıkınt,MANALI, ÖNEMLİ
+883,Taste,teyst,TATMAK, TAD
+884,Return,ritörn,GERİ DÖNMEK
+885,Peel,piil,KABUK SOYMAK (Meyve)
+886,Chair,çeır,İSKEMLE
+887,Manufacture,menufek?ır,ÜRETMEK (Fab. vb)
+888,Salute,selüut,SELAM VERMEK (Asker?)
+889,Brand-New,brend niyu,YENİ MODEL,YEPYENİ
+890,Bound,baund,BAĞLI, SINIRLI,ATLAMAK
+891,Victim,viktım,KURBAN, KAZAZEDE
+892,Smoke,smouk,1.TÜTÜN İÇMEK (sigara vb.) 2.TÜTMEK 3.DUMAN
+893,Equalize,ilkvılayz,EŞİTLEMEK
+894,Essential,ısenşıl,TEMEL, ÇOK ÖNEMLİ
+895,Read,riid,OKUMAK
+896,Necessity,nısesiti,GEREKLİLİK
+897,Unit,yunıt,BİRİM, 1-9 ARASINDAKİ SAYILAR
+898,Greengrocer,gıringırosır,MANAV
+899,Experience,ıkspiriıns,TECRÜBE
+900,String,string,İP,TEL
+901,Walnut,wolnat,CEVİZ
+902,Tuesday,tüuzdey,SALI
+903,Actor,ektır,ERKEK OYUNCU
+904,Queen,kuiin,KRALİÇE
+905,Risk,risk,RİSK
+906,Grumble,grambıl,SIZLANMAK,YAKINMAK
+907,Exclusive,iksklusiiv,UMUMA AÇIK OLMAYAN, BAŞKALARIYLA PAYLAŞILMAYAN
+908,Whip,wip,KIRBAÇ
+909,Assured,eşurıd,1)ÖNCEDEN BELLİ 2)KENDİNE GÜVENEN
+910,Birthday,börthdey,DOĞUMGÜNÜ
+911,Mad,med,DELİ
+912,Indorse,indoos,ÇEKİ CIRO ETMEK,ONAYLAMAK
+913,Jump,camp,SIÇRAMAK, ATLAMAK
+914,Intention,intenşın,PLAN
+915,Afterwards,aftırvördz,(bir olaydan) SONRA
+916,Identical,aydentikl,ÖZDEŞ, ÇOK BENZEYEN, AYNI
+917,Daisy,deyzi,PAPATYA
+918,Star,star,YILDIZ
+919,Peculiar,pıküliır,GARİP
+920,Nowadays,nauıdeyz,BUGÜNLERDE
+921,Vulnerable,valnıbıl,ZAYIF, KORUMASIZ
+922,Write,rayt,YAZMAK
+923,Password,paswörd,PAROLA
+924,Forward,forvıd,İLERİ
+925,Practice,prektis,ALIŞTIRMA
+926,Spend,spend,PARA HARCAMAK, HARCAMAK
+927,Childhood,çayldhuud,ÇOCUKLUK
+928,Respond,rispond,CEVAP VERMEK
+929,Right,rayt,1.HAK 2.DOĞRU,HAKLI 3.SAĞ TARAF
+930,Event,ivent,OLAY
+931,Mark,mark,İŞARETLEMEK, İŞARET
+932,What's What,wats wat,İŞİN ÖNEMİNİ BİLMEK (I know what's what)
+933,Doctor,daktır,DOKTOR
+934,Worker,wörkır,İŞÇİ
+935,Dip,dıp,DALDIRMAK
+936,Accumulate,ekyumyuleyt,TOPLAMAK,BİRİKTİRMEK
+937,Energy,enırci,ENERJİ
+938,Perform,pörform,1.ÇALIŞMAK 2.UYGULAMAK
+939,Emerge,ımörc,ÇIKMAK
+940,Welcome,welkam,1.AĞIRLAMAK, HOŞ GELDİN
+941,Petrol Station,petrıl steyşın,BENZİNCİ
+942,Director,dırektır,DİREKTÖR
+943,Awful,oful,KÖTÜ, BERBAT, ÜZÜCÜ
+944,Edge,ec,KENAR
+945,Museum,müuzım,MÜZE
+946,Reasonable,riiznıbl,MAKUL
+947,Shot,şat,ATIŞ
+948,Cock,kak,1)HOROZ,ERKEK KUŞ 2)ERKEKLİK ORGANI
+949,Dominate,domineyt,HAKİM OLMA
+950,Replace,rıpleys,YENİDEN YERLEŞTİRMEK
+951,Gladly,gledli,ZEVKLE
+952,Secretary,sekrıtri,SEKRETER
+953,Turnkey,törnkiy,ANAHTAR TESLİM (proje vb.)
+954,Earth,örth,1.DÜNYA  2.TOPRAK  3.TOPRAK PARÇASI
+955,Possession,pızeşn,SAHİPLİK
+956,Boss,bos,PATRON
+957,Stall,stool,1)KÜÇÜK DÜKKAN, TEZGAH 2)VAKİT KAZANMA
+958,Decent,disınt,DOĞRU,HAKLI,İYİ
+959,Lovely,lavli,SEVİMLİ
+960,Whistle,wisl,ISLI, ISLIK ÇALMAK, DÜDÜK
+961,Sow,sou,TOPRAĞA EKMEK
+962,Whenever,wenevır,1.HERHANGİ BİR ZAMAN  2.NE ZAMAN Kİ ...
+963,Fast,fast,HIZLI
+964,Little,litıl,KÜÇÜK
+965,Convenience,konvinyıns,UYGUNLUK, KOLAYLIK
+966,Accustomed,ekastımd,ALIŞIK,ALIŞKIN
+967,Wood,wuud,ODUN
+968,Villa,vilı,VİLLA
+969,Tiger,taygır,KAPLAN
+970,Possible,pasıbl,OLASI, MÜMKÜN
+971,Tip,tip,1.BAHŞİŞ, BAHŞİŞ VERMEK  2.ÖNERİ,TAVSİYE 3.UC
+972,These,diiz,BUNLAR
+973,Dead,ded,ÖLÜ
+974,Catch,keç,YAKALAMAK
+975,Cube,küub,KÜP
+976,Article Of Association,artıkıl ıv ısosieyşın,ANA SÖZLEŞME
+977,Common,kamın,1.AVAM, BASİT, SADE 2.ORTAK ,MÜŞTEREK
+978,Passport,pasport,PASAPORT
+979,Heart,hart,1.KALP  2.KUPA (oyun kartlarında)
+980,Eyelid,aylid,GÖZ KAPAĞI
+981,Encourage,ınkarıc,CESARETLENDİRMEK
+982,Someone,samwan,BİRİ
+983,Street,striit,CADDE
+984,Celebration,selibreyşın,KUTLAMA
+985,Full Stop,fulstop,NOKTA
+986,Definition,defineyşın,TANIMLAMA
+987,Parrot,perıt,PAPAĞAN
+988,Happy,hepi,MUTLU
+989,Foreman,formın,USTABAŞI, FORMEN
+990,Anybody,enibadi,HERHANGİ BİRİ
+991,Prevent,privent,KORUMAK
+992,Twice,tways,İKİ KEZ
+993,Summer,samır,YAZ
+994,Excuse,eksküuz,1.AFFETMEK  2.MUAF TUTMAK 3.ÖZÜR, MAZERET
+995,Preserve,prizörv,KORUMAK,KONSERVE YAPMAK
+996,Succeed,sıksiid,1.BAŞARMAK  2.YERİNİ ALMAK
+997,Suburb,sabörb,BANLİYÖ
+998,Achieve,e?iv,ÜSTÜNDEN GELME,ERİŞMEK,BAŞARMAK
+999,Ambush,embuş,TUZAK
+1000,Publicity,pablısiti,İLAN, REKLAM, YAYINLAMA
+1001,Persist,pesist,DEVAM ETMEK
+1002,Relief,rıliif,RAHATLAMA
+1003,Miser,mayzır,HASİS, CİMRİ
+1004,Proof,pruuf,KANIT
+1005,Broom,bruum,SÜPÜRGE
+1006,Freedom,friidım,ÖZGÜRLÜK
+1007,Convenient,konvinyınt,ELVERİŞLİ, UYGUN
+1008,Further,fördır,DAHA
+1009,Work,wörk,ÇALIŞMAK, İŞ
+1010,Interval,ıntıvl,ARALIK, ARA
+1011,Except,ıksept,DIŞINDA, HARİÇ
+1012,Bean,biin,FASULYE
+1013,Contest,kontest,YARIŞMA
+1014,Member,membır,ÜYE
+1015,Lease,liis,BELİRLİ BİR ZAMAN İÇİN KİRALAMA
+1016,Conference,konfırıns,KONFERANS
+1017,Muslim,mazlım,MÜSLÜMAN
+1018,Crash,kreş,ÇARPIŞMAK (sertçe), ÇARPIŞTIRMAK
+1019,Wasp,wasp,ARI (Bal arısı değil)
+1020,Tame,teym,EVCİL, EVCİLLEŞTİRMEK
+1021,Nil,nil,SIFIR, BOŞLUK
+1022,Corruption,kırapşın,RÜŞVETÇİLİK,YOLSUZLUK
+1023,Occur,ıkör,OLMAK
+1024,Cost,kost,MALİYET,  MAL OLMAK
+1025,Primary,praymeri,1)ÖNCELERİ,ESKİDEN 2)ANA,BAŞ-Primary cause 3)İLK OKU
+1026,Structure,strak?ır,YAPI
+1027,Magnificent,megnıfısınt,AZAMET, İHTİŞAM
+1028,Tangerine,tengerin,MANDALİNA
+1029,Blind,blaynd,KÖR
+1030,Along,elong,1.BOYUNCA  2.İLERİ
+1031,Dynamo,daynımu,DİNAMO
+1032,Always,olveys,HER ZAMAN
+1033,Final,faynl,SON
+1034,Lawyer,louyır,AVUKAT
+1035,Stabilize,stebilayz,DENGELEME,SAPTAMA
+1036,Immense,imens,ÇOK BÜYÜK
+1037,Card,kaad,KART
+1038,Sink,sink,1.BATMAK 2.EVYE
+1039,Ware,weyır,EŞYA (Kitchen ware vb.)
+1040,Coffee,kafi,KAHVE
+1041,Steep,stiip,1)HIZLI YÜKSELME veya DÜŞME, GENİŞ AÇI 2)ÇOK FAZLA
+1042,Laundry-Basket,londıribeskıt,ÇAMAŞIR SEPETİ
+1043,Sheet,şiit,1.ÇARŞAF 2.İNCE TABAKA
+1044,Hitch-Hike,hiçhayk,OTOSTOP YAPMAK
+1045,Licence,laysıns,LİSANS (ehliyet v.b )
+1046,Crossword,krosvörd,ÇAPRAZ BULMACA
+1047,Eagle,igıl,KARTAL
+1048,Equality,ikualiti,EŞİTLİK
+1049,Party,paati,PARTİ
+1050,Harm,harm,ZARAR,KÖTÜLÜK
+1051,Slipper,slipır,TERLİK
+1052,Ant,ent,KARINCA
+1053,Beside,bisayd,YANINDA
+1054,Deputy,depyuti,VEKİL
+1055,Assure,eşuır,TEMİN ETMEK,SÖZ VERMEK,İKNA ETMEK
+1056,Saloon,sıluun,1)SALOON CAR = NORMAL ARABA 2)SALON 3)GEMİ SALONU
+1057,Murmur,mörmır,MIRILDANMAK,UĞULTU
+1058,Pot,pot,TENCERE
+1059,Clay,kıley,KİL
+1060,Advertise,edvırtayz,REKLAM YAPMAK, İLAN VERMEK
+1061,Culture,kalçır,KÜLTÜR
+1062,Supreme,süupriim,YÜCE, ÜSTÜN
+1063,Alter,oltır,DEĞİŞTİRMEK
+1064,Cheap,çiip,UCUZ
+1065,Eat,iit,YEMEK YEMEK
+1066,Aim,eym,1.AMAÇ 2.HEDEF ALMAK
+1067,Terrify,terifay,KORKUTMAK
+1068,Police,pıliis,POLİS
+1069,Proper,prapır,UYGUN, DOĞRU
+1070,Print,print,1.BASMAK(harfler vs.) 2.İZ
+1071,Battle,betl,SAVAŞ, MUHAREBE
+1072,Add,ed,TOPLAMAK,EKLEMEK
+1073,Handkerchief,hengırçif,MENDİL
+1074,Draft,draaft,1)SURET, MÜSVEDDE 2)BANKA ÇEKİ, ÖDEME EMRİ
+1075,Impressive,impıresiv,ETKİLİ,ETKİLEYİCİ
+1076,However,hauevır,HER ŞEKİLDE
+1077,Memory,memıri,HAFIZA
+1078,Strike,strayk,1.GREV YAPMAK, GREV  2.VURMAK
+1079,Foreign,forın,YABANCI (ülke veya ırk)
+1080,Publish,pabliş,BASIM (bir yayını)
+1081,Creature,kriiçır,YARATIK
+1082,Refrigerator,refrı?ıretır,BUZDOLABI
+1083,Bake,beyk,PİŞİRMEK
+1084,Plastic,plestik,PLASTİK
+1085,Alike,elaık,HEMEN HEMEN AYNI, BENZER, AYNI YOLDA
+1086,Royal,royıl,KRALİYETE AİT
+1087,Guilt,gilt,SUÇ, KABAHAT
+1088,Fare,feır,ÜCRET (tren,vapur vb. için)
+1089,Report,riport,RAPOR,  RAPOR ETMEK
+1090,Fear,fiır,KORKU
+1091,Consequently,konsikvıntly,BUNDAN DOLAYI,SONUÇ OLARAK,SONUNDA
+1092,Unknown,announ,BİLİNMEYEN
+1093,Seaside,sisayd,DENİZ KENARI
+1094,Scandal,skendıl,SKANDAL
+1095,Meadow,medo,ÇAYIR, MERA
+1096,Wait,weit,BEKLEMEK
+1097,Powder,paudır,TOZ, PUDRA
+1098,Diary,dayri,GÜNLÜK, AJANDA
+1099,Do,do,YAPMAK
+1100,Accelerator,ekselıreytır,GAZ PEDALI
+1101,Scissors,sizız,MAKAS
+1102,While,wayl,BU ARADA
+1103,Suntan,santen,BRONZ RENGİ (ciltte)
+1104,Suspect,sıspekt,ŞÜPHELENMEK
+1105,Strip,strip,SOYMAK, SOYUNMAK
+1106,Surprise,sıprayz,1.ŞAŞIRTMAK 2.SÜRPRİZ
+1107,Emphasis,emfisıs,ÖNEMLİ,ŞİDDETLİ VURGU
+1108,Rail,reyl,RAY
+1109,Male,meyl,ERKEK
+1110,Sand,send,KUM
+1111,Switch,swiç,AÇMAK, KAPATMAK (düğme)
+1112,Daughter,dotır,KIZ ÇOCUK
+1113,Intestines,intestinz,BAĞIRSAKLAR
+1114,Avoid,evoid,KAÇINMAK
+1115,Fleet,fliit,FİLO (gemi vb.)
+1116,Fake,feyk,TAKLİT, SAHTE
+1117,Breast,brest,GÖĞÜS
+1118,Furthermore,fördırmor,YANINDA, AYRICA, ÜSTELİK (=moreover)
+1119,Priority,payoriti,ÖNCELİK
+1120,Sauce,soıs,SALÇA, SOS
+1121,Gipsy,cipsi,ÇİNGENE
+1122,Behind,bihaynd,ARKADA, GERİDE
+1123,Cell,sel,HÜCRE (hapis,beyin v.b)
+1124,Basement,beysmınt,BODRUM
+1125,Puppet,papıt,KUKLA
+1126,Oil,oyl,YAĞ, PETROL
+1127,Stiff,stif,KOLAY BÜKÜLMEYEN, SERT
+1128,Hotel,houtel,OTEL
+1129,Wave,weyv,1.DALGA( deniz,radyo) DALGALANMA  2.EL SALLAMAK
+1130,Curve,körv,EĞRİ
+1131,Vaporize,veipırayz,BUHARLAŞMAK
+1132,Compass,kampıs,1.PUSULA  2.PERGEL
+1133,Mild,mayld,1)HAFİF 2)YUMUŞAK 2)ILIK
+1134,Local,lokıl,BÖLGESEL, YEREL
+1135,List,list,LİSTE
+1136,Immigrate,imigreyt,GÖÇMEN
+1137,Delay,dıley,GECİKTİRMEK, ERTELEMEK
+1138,Respect,rıspekt,SAYGI DUYMAK
+1139,Treatment,triitmınt,1.DAVRANIŞ  2.TEDAVİ
+1140,Meaning,miining,ANLAM
+1141,Doze,doz,UYUKLAMAK, HAFİF UYKU
+1142,Journalist,cönılist,GAZETECİ
+1143,Shadow,şedou,İZLEMEK (gizlice)
+1144,Midnight,midnayt,GECE YARISI (24:00)
+1145,Left,left,1.SOL 2.KALAN
+1146,Chess,çes,SATRANÇ
+1147,Compromise,komprımayz,UZLAŞMA
+1148,Doom,duum,KÖTÜ KADER,KÖR TALİH
+1149,Stair,steyr,MERDİVEN
+1150,Meter,mitır,ÖLÇEK
+1151,Past,pest,GEÇMİŞ
+1152,Will,wil,1.İRADE 2.İSTEK 3. VASİYET 4.GELECEK ZAMAN EKİ
+1153,Needless,nidless,LÜZUMSUZ
+1154,Love,lav,"SEVGİ
+1155,Prepare,prıpeır,HAZIRLAMAK
+1156,Stable,sıteybıl,1)AHIR 2)İSTİKRARLI (Stable goverment)
+1157,Help,help,YARDIM, YARDIM ETMEK
+1158,Collect,kolekt,TOPLAMAK
+1159,Must,mast,ZORUNLULUK
+1160,Process,proses,İŞLEM
+1161,Sabotage,sebıtaj,SABOTAJ
+1162,Suppose,sıpouz,SANMAK
+1163,Epitaph,epitaf,MEZAR TAŞI YAZISI
+1164,None,nan,HİÇBİRİSİ
+1165,Charity,?erıti,HAYIR SEVERLİK,YARDIM SEVERLİK
+1166,Season,siizn,MEVSİM, SEZON
+1167,Job,cab,İŞ
+1168,Roundabout,raundıbaut,1)DOLAMBAÇLI,DOLAYLI 2)ADA-Trafikte 3)YAKLAŞIK OLARA
+1169,Gentleman,centlmın,CENTİLMEN
+1170,Nightmare,naytmeyr,KABUS
+1171,Colleague,koliig,MESLEKTAŞ
+1172,Story,stori,ÖYKÜ ,HİKAYE
+1173,When,wen,NE ZAMAN
+1174,Fuss,faas,TELAŞ, TELAŞLANMAK
+1175,Management,menıcmınt,YÖNETİM, İDARE
+1176,Tide,tayd,GEL-GİT OLAYI
+1177,Require,rikuayır,GEREKSİNMEK
+1178,Affair,effeyır,1.OLAY 2.İŞ 3.İLİŞKİ
+1179,Calf,kaıf,1)FİL veya BALİNA YAVRUSU, BUZAĞI 2)BALDIR
+1180,Student,studınt,ÖĞRENCİ
+1181,Fly,flay,1.UÇMAK  2.SİNEK
+1182,Melt,melt,ERİMEK
+1183,Charlatan,carlıtın,ŞARLATAN
+1184,Offend,ıfend,KIZDIRMAK, İNCİTMEK (birini)
+1185,Complete,kımpliit,BÜTÜN, TÜM, TAMAMI, BİTMİŞ
+1186,Vinegar,vinıgır,SİRKE
+1187,Sit,sit,OTURMAK
+1188,Cop,kap,POLİS
+1189,Co,ko,BERABER (Co-operate,Co-education)
+1190,Perfume,pörfyüüm,PARFÜM
+1191,Carpenter,karpıntır,MARANGOZ
+1192,Shop,şap,DÜKKAN, ALIŞVERİŞ YAPMAK
+1193,Monday,mondey,PAZARTESİ
+1194,Journal,cöönl,GAZETE,DERGİ
+1195,Extinguish,ikstingwişh,IŞIĞI VEYA ATEŞİ SÖNDÜRMEK
+1196,Authority,othoriti,OTORİTE
+1197,Quiz,kuiz,KÜÇÜK TEST
+1198,Fog,fog,SİS
+1199,Profession,profeşn,MESLEK
+1200,Correspondent,korıspondınt,1)MEKTUPLAŞAN,MEKTUBA CEVAP VEREN 2)MUHABİR
+1201,Enterprise,entıprayz,GİRİŞİM
+1202,Morale,mıraal,MORAL
+1203,Dam,dem,BARAJ
+1204,Elect,ılekt,SEÇMEK
+1205,Busy,bizi,MEŞGUL
+1206,Judgement,cacmınt,YARGI
+1207,Admire,edmayr,BEĞENMEK,HAYRAN OLMAK
+1208,Spiral,spiral,SPİRAL
+1209,Approximate,eproksimıt,YAKLAŞIK OLARAK
+1210,Prescription,priskrıpşın,REÇETE
+1211,Research,risör?,ARAŞTIRMA
+1212,Bankrupt,benkrapt,İFLAS
+1213,Bandage,bendı?,BANDAJ,YARA BANDI
+1214,Sun,san,GÜNEŞ
+1215,Table,teybl,1.MASA 2.TABLO,LİSTE
+1216,Pension,penşın,EMEKLİ MAAŞI
+1217,Dustbin,dastbın,ÇÖP TENEKESİ
+1218,Seem,siim,GÖRÜNMEK
+1219,Fearful,fiıfl,KORKUTUCU
+1220,Nose,nouz,BURUN
+1221,Change,çeync,1.DEĞİŞMEK  2.DEĞİŞİM 3.BOZUK PARA
+1222,Many,meni,BİRÇOK
+1223,Tail,teyl,KUYRUK (kedi,uçak v.b)
+1224,Room,ruum,ODA
+1225,Land,lend,KARA,ARAZİ
+1226,Client,klaynt,MÜŞTERİ,MÜVEKKİL
+1227,Draughts,draafts,DAMA OYUNU
+1228,Commercial,kımörşıl,1.TİCARİ 2.REKLAM ( filmi )
+1229,False,fols,1.YANLIŞ, HATALI 2.SAHTE
+1230,Accused,ekyuzıd,1)SANIK 2)SUÇLAMAK
+1231,Mutter,matır,MIRILDANMAK, KISIK SESLE SÖYLENMEK
+1232,Door,door,KAPI
+1233,Most,moust,EN ÇOK
+1234,Chat,?et,ÇENE ÇALMAK,SOHBET
+1235,Strain,streyn,GERMEK, SÜZMEK, İNCİLTMEK, ÇOK GÜÇ, ZOR
+1236,E.G.,i ci,ÖRNEĞİN (kısaltılmışı)
+1237,Repeat,rıpiit,TEKRARLAMAK
+1238,Attach,eteç,BİRLEŞTİRMEK
+1239,Emergency,ımörcınsi,ACİL DURUM
+1240,Feature,fii?ır,ÖZELLİK
+1241,Accessible,eksesıbıl,1)İÇİNE GİRİLEBİLİNİR 2)KOLAY BULUNUR
+1242,Original,arıcınıl,ORJİNAL, İLK, YENİ
+1243,Laugh,laf,GÜLMEK
+1244,Tongue,tang,DİL
+1245,Wind,waynd,SARMAK, KURMAK (saat v.b )
+1246,Poem,poım,ŞİİR
+1247,Fact,fek,GERÇEK
+1248,Date,deyt,1)HURMA 2)RANDEVU
+1249,Hammer,hemır,ÇEKİÇ, ÇEKİÇLEMEK
+1250,Ring,ring,YÜZÜK, HALKA
+1251,Quarrel,kuarıl,TARTIŞMAK, ATIŞMAK
+1252,Agreement,egriimınt,ANLAŞMA
+1253,Mine,mayn,1.BENİM 2.MADEN OCAĞI 3.MAYIN
+1254,Ambition,embişın,HIRS
+1255,Recession,riseşin,DURAKLAMA, GERİLEME, EKONOMİDE DURGUNLUK
+1256,Relate,releyt,ANLATMAK, NAKLETMEK (formal tell)
+1257,Claim,kleym,İLERİ SÜRMEK, SAVLAMAK
+1258,Shock,şak,ŞOK, ŞOK ETMEK
+1259,Duty,düuti,1.GÖREV  2.GÜMRÜK VERGİSİ
+1260,Shore,şoor,KIYI
+1261,Syrup,sırıp,ŞURUP
+1262,Execute,eksikiyut,YAPMAK, YERİNE GETİRMEK, İNFAZ ETMEK, İDAM ETMEK
+1263,Set On,set on,ATAK
+1264,Dew,düu,KIRAĞI (nem)
+1265,Spoon,spuun,KAŞIK
+1266,Lazy,leyzi,TEMBEL
+1267,Exclude,eksklud,DIŞLAMAK
+1268,Dirt,dört,KİR
+1269,Club,klab,1.KLÜP 2.(kağıt oyunlarında) SİNEK
+1270,Cinema,sinıma,SİNEMA
+1271,Metre,mitr,METRE
+1272,Operation,opıreyşın,1.OPERASYON  2.AMELİYAT
+1273,Marvellous,marvılıs,ŞAHANE, HARİKA
+1274,Lower,lovır,AŞAĞIYA İNDİRMEK
+1275,Beg,beg,DİLENMEK
+1276,Fault,folt,KUSUR
+1277,Archbishop,arçbişıp,BAŞPİSKOPOS
+1278,Kidnap,kıdnep,ZORLA KAÇIRMAK (İnsan, hayvan vb.)
+1279,By The Way,bay dı vey,BUNUN YANINDA, AKLIMA GELMİŞKEN
+1280,Hail,heyl,DOLU (yağış)
+1281,Slim,slim,ZAYIFLAMAYA ÇALIŞMAK
+1282,Till,til,1.KADAR 2.YAZAR KASA
+1283,Floor,floor,YAPININ TABANI, KAT
+1284,Throw,throu,FIRLATMAK
+1285,Drug,drag,İLAÇ, UYUŞTURUCU
+1286,Estimate,estımeyt,TAHMİN ETMEK (hesaplayarak)
+1287,Architect,arkitekt,MİMAR
+1288,Payment,peymınt,ÖDEME
+1289,Office,ofis,OFİS
+1290,Angle,engıl,AÇI, KÖŞE
+1291,Watch,woç,1.İZLEMEK, SEYRETMEK, BAKMAK  2.KOL SAATİ
+1292,Permanent,pörmınınt,DEVAMLI,SÜREKLİ
+1293,November,novembır,KASIM
+1294,Tulip,tüulıp,LALE, LALE FİDANI
+1295,Audience,odyıns,İZLEYİCİ (TV,Tiyatro vb.)
+1296,Rich,riç,ZENGİN
+1297,Wing,wing,KANAT (Kuş,uçak)(Left wing:Sol kesimi destekleyenler
+1298,Tend,tend,MEYİLLİ OLMAK
+1299,Customer,kastımır,ALICI, MÜŞTERİ
+1300,Power Of Attorney,pavır ıv atörn,VEKALETNAME
+1301,Cargo,kargo,KARGO
+1302,Suitcase,suitkeys,BAVUL (Elbise i?in)
+1303,Shoe,şuu,AYAKKABI
+1304,Compound,kompaund,BİRLEŞİK, BİLEŞİK
+1305,Disc,disk,DİSK
+1306,Subject,sabcıkt,1.KONU  2.ÖZNE
+1307,Donkey,donki,EŞEK
+1308,Fond,fond,HOŞLANMAK, MEMNUN OLMAK
+1309,Gate,geyt,BAHÇE KAPISI
+1310,Transport,trensport,TAŞIMACILIK
+1311,Quantity,kuantıti,MİKTAR
+1312,Tea,tii,ÇAY
+1313,Dispose,dispouz,ATMAK, BIRAKMAK, ORTAYA ÇIKARMAK
+1314,Habit,hebit,ALIŞKANLIK
+1315,Sheep,şiip,KOYUN, KOYUNLAR
+1316,Jewel,cuıl,MÜCEVHER
+1317,Imitation,imiteyşın,TAKLİT
+1318,Spy,spay,CASUS
+1319,Peach,pii?,ŞEFTALİ
+1320,Conduct,kondakt,DAVRANIŞ, TAVIR,YOL GÖSTERMEK
+1321,Predict,prıdikt,TAHMİN ETMEK
+1322,Really,riıli,GERÇEKTEN
+1323,Magnet,magnit,MIKNATIS
+1324,Stage,steyc,1.EVRE SAFRA 2.SAHNE
+1325,Negotiate,nigoşıeyt,GÖRÜŞMEK,MÜZAKERE
+1326,Resident,rezıdıns,BÖLGEDE YAŞAYAN, OTURAN
+1327,Storm,stoom,FIRTINA
+1328,Festival,festıvıl,FESTİVAL
+1329,Admit,edmit,1.KABUL ETMEK  2.İZİN VERMEK
+1330,Access,ekses,1)GİRİŞ 2)YOL
+1331,Lady,leydi,HANIMEFENDİ
+1332,Troop,trup,İNSAN VEYA HAYVA GRUBU, SÜRÜ
+1333,Stroke,strouk,1.ÇARPIŞ 2.FELÇ 3.OKŞAMAK
+1334,Fuse,füuz,SİGORTA (elektrik vb.)
+1335,Hand,hend,EL
+1336,Clinic,klınik,KLİNİK
+1337,Rub,rab,SÜRMEK, SÜRTMEK, OVMAK
+1338,Great,greyt,BÜYÜK, ÇOK, ÇOK İYİ
+1339,Frighten,fraytn,KORKUTMAK
+1340,General,cenrıl,GENEL
+1341,Escort,eskort,KONVOY,REFAKAT
+1342,Division,divijn,BÖLÜM
+1343,Dragon,dregın,EJDERHA
+1344,Ban,ben,YASAK
+1345,Inevitable,ınevıtıbl,KAÇINILMAZ, HERHALDE OLAN
+1346,Bed,bed,YATAK
+1347,Food,fuud,YİYECEK, BESİN
+1348,Flag,fleg,BAYRAK
+1349,Brother-In-Law,bradır in lo,KAYINBIRADER
+1350,Oxygen,oksıcın,OKSİJEN
+1351,Across,ekros,1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
+1352,League,liıg,BİRLİK, LİG
+1353,Breakfast,brekfıst,KAHVALTI
+1354,Hot,hat,1.SICAK 2.ACI ( yemekte )
+1355,Employment,ımploymınt,İŞ
+1356,Desire,dızayr,ARZU
+1357,Sterile,sterayl,1)AMELİYATLA KISIR ETMEK 2)BAKTERİ
+1358,Runaway,ranıwey,1.KAÇAK 2.KONTROL DIŞI (runaway increase in prices)
+1359,Healthy,helthi,SAĞLIKLI
+1360,Insulate,insuleyt,İZOLE ETMEK
+1361,Application,eplikeyşın,BAŞVURU
+1362,Since,sins,ŞİMDİYE KADAR
+1363,Tray,trey,TEPSİ
+1364,Clock,klok,SAAT
+1365,Mattress,metrıs,YATAK, SEDİR
+1366,Treat,triit,1.DAVRANMAK,MUAMELE ETMEK 2.TEDAVİ ETMEK 3.İKRAM
+1367,Careless,keyrlıs,DİKKATSİZ
+1368,Impair,impeyır,BOZMAK
+1369,Lobster,lobstır,İSTAKOZ
+1370,Hairdresser,herdresır,KUVAFÖR, BERBER
+1371,Hardly,hardli,ZORLA, İYİ DEĞİL
+1372,Failure,feylır,BAŞARISIZLIK,ARIZA,YETERSİZLİK(crop or heart faılure
+1373,Yesterday,yestıdey,DÜN
+1374,Credit,kredit,KREDİ
+1375,Joint,coint,BİRLEŞİK
+1376,Pyramid,piramit,PİRAMİT
+1377,Note,not,1. NOT 2.KAĞIT PARA 3. NOTA
+1378,Deny,dınay,İNKAR ETMEK, YALANLAMAK
+1379,Petrol,petrıl,PETROL
+1380,Grave,greyv,1.MEZAR 2.KÖTÜ, ÖNEMLİ
+1381,Pinch,pin?,ÇİMDİKLEMEK, SIKIŞTIRMAK (Kapıya vb.)
+1382,Horizon,hırayzın,UFUK
+1383,Clerk,klark,MEMUR
+1384,Chest Of Drawers,?est of drewır,ÇEKMECELİ DOLAP, KONSÜL
+1385,Witness,witnıs,TANIK, TANIKLIK ETMEK
+1386,Govern,gavn,YÖNETMEK, HÜKMETMEK
+1387,Explosive,iksplıusiv,PATLAYICI MADDE
+1388,Concern,konsörn,1.İLGİLENDİRMEK  2.ÜZÜLMEK
+1389,Gallery,gelıri,GALERİ
+1390,Boundary,baundri,SINIR
+1391,Sorry,sori,ÜZGÜN
+1392,Extract,ıkstekt,ÇEKİP ÇIKARTMAK
+1393,Free,frii,ÖZGÜR, RAHAT, SERBEST, SERBEST BIRAKMAK
+1394,Diver,dayvır,DALGIÇ
+1395,Together,tıgedır,BİRLİKTE
+1396,Fan,fen,1)HAVA HAREKETİ 2)TARAFTAR
+1397,Scholarship,skılırşip,BURS
+1398,Fed Up,fedap,BIKMAK (I'm fed up:Bıktım)
+1399,Vertical,vörtıkıl,DİKEY
+1400,Coward,kauırd,KORKAK
+1401,Future,füuçır,GELECEK
+1402,Danger,deyncır,TEHLİKE
+1403,Stethoscope,stethıskop,GÖĞÜS DİNLEME CİHAZI, STETESKOP
+1404,Actual,ekçuıl,GERÇEK
+1405,Kill,kil,ÖLDÜRMEK
+1406,Property,prapıti,MAL, MÜLK (bir işinin sahip olduğu), EŞYA
+1407,Cloth,kloth,BEZ ( a piece of cloth )
+1408,Mend,mend,TAMİR ETMEK
+1409,Amaze,emeyz,ŞAŞIRTMAK
+1410,Sea,sii,DENİZ
+1411,Able,eybıl,MUKTEDİR
+1412,Overdue,overduu,VADESİ GEÇMİŞ
+1413,Decline,diklayn,AZALTMAK,GERİLEMEK,DÜŞMEK
+1414,Title,taytl,1.BAŞLIK  2.UNVAN
+1415,Pearl,pörl,İNCİ
+1416,Book,buk,YER AYIRTMAK
+1417,Establish,ıstabliş,KURMAK ,İNŞA ETMEK
+1418,Fix,fiks,YAPIŞTIRMAK, TAMİR ETMEK, SABİT
+1419,Destroy,dıstroy,YIKMAK
+1420,Constitute,konstituut,OLUŞMAK,KURMAK
+1421,Acknowledge,eknolı?,DOĞRULAMAK
+1422,Shelf,şelf,RAF
+1423,King,king,KRAL
+1424,Neighbour,neybır,KOMŞU
+1425,Warn,worn,UYARMAK
+1426,Fold,fould,KATLAMAK
+1427,Contribute,kıntrıbiyut,KATKIDA BULUNMAK
+1428,Tall,tool,UZUN
+1429,Flour,flauır,UN
+1430,Female,fimeyl,DİŞİ
+1431,Slide,slayd,KAYDIRAK (parkta), KAYDIRMAK
+1432,Aeroplane,eıropleyn,UÇAK
+1433,Region,ricın,BÖLGE
+1434,Deadline,dedlayn,MÜHLET,SON TESLİM TARİHİ
+1435,Butter,batır,TEREYAĞ
+1436,Test,test,SINAMAK, DENEMEK, TEST
+1437,Also,olso,HEM DE
+1438,Veto,viitou,VETO, VETO ETMEK
+1439,Wool,wuul,YÜN
+1440,Sergeant,sarcınt,ÇAVUŞ
+1441,Cold,kould,SOĞUK
+1442,Compensation,kompınseyşın,TELAFİ,TAZMİNAT
+1443,Embarrassment,imbarısmınt,1)SIKINTI 2)UTANMAK
+1444,Eventually,ivençuıli,SONUNDA, NİHAİ
+1445,Entrance,entrıns,GİRİŞ
+1446,Dull,dal,1.APTAL 2.KAPALI,SIKICI
+1447,Import,import,İTHAL ETMEK
+1448,Round,raund,YUVARLAK
+1449,Miss,mis,1.ÖZLEMEK 2.KAÇIRMAK,KAYIP
+1450,Lecture,lek?ır,DERS, KONFERANS VERMEK
+1451,Relieve,rıliiv,UZAKLAŞTIRMAK (ağrıyı v.s.)
+1452,Fragile,fre?ayıl,KOLAY KIRILABİR
+1453,Host,houst,EV SAHİBİ (konukları olan)
+1454,Impatient,impeyşınt,SABIRSIZ
+1455,Dive,dayv,DALIŞ
+1456,Bumpy,bampi,ENGEBELİ
+1457,Melon,melın,KAVUN
+1458,Brake,breyk,FRENLEMEK, FREN
+1459,Chimney,?imni,BACA
+1460,Cure,küur,İYİLEŞTİRMEK, TEDAVİ, İŞLEM
+1461,Disappoint,disıpoint,HAYAL KIRIKLIĞINA UĞRAMAK
+1462,Appeal,epiıl,1.HOŞA GİDEN 2.YALVARMAK 3.ÜST MAHKEMEYE BAŞVURMAK
+1463,Championship,çempiınşip,ŞAMPİYONA
+1464,Valuable,velyubl,DEĞERLİ
+1465,Realize,riılayz,FARK ETMEK (idrak etmek )
+1466,Care,keyr,DİKKAT, ÖZEN
+1467,Our,aar,BİZİM
+1468,Reserve,rizörv,1.REZERV 2.REZERVASYON YAPTIRMAK
+1469,Reconcile,rekınsaıl,UZLAŞMA, ANLAŞMA YAPMAK
+1470,Bill,bil,1.MAKBUZ 2.HESAP 3.KANUN TASLAĞI 4.GAGA (KUŞ)
+1471,Close,klouz,1.SON 2.KAPALI 3.KAPATMAK
+1472,It,it,O (cansız ve üçüncü tekil şahıs zamiri)
+1473,Social,soşıl,SOSYAL
+1474,Refuge,refüuc,REFÜJ, GÜVENLİ YER
+1475,Jubilee,cubılii,JÜBİLE
+1476,Raincoat,reynkout,YAĞMURLUK
+1477,Steam,stiim,BUHAR
+1478,Bullet,bulıt,MERMİ
+1479,Cup,kap,1.FİNCAN  2.KUPA
+1480,Segment,segmınt,DİLİM (Pasta, portakal), DİLİMLEMEK, BÖLMEK
+1481,Whatever,watevır,HERNEYSE
+1482,Origin,oricin,KÖKEN, ORİJİN
+1483,Orange,orınc,1.PORTAKAL 2.TURUNCU
+1484,Blank,blenk,BOŞLUK
+1485,Substitute,sabstitüvt,VEKİL TAYİN ETME, YERİNE GEÇME
+1486,Difference,difrıns,AYIRIM, FARK
+1487,Torpedo,torpiido,TORPİL
+1488,Spot,spat,1.KÜÇÜK YUVARLAK İŞARET 2.BEN (ciltteki) 3.LEKE
+1489,Sandal,sendl,SANDALET
+1490,Plan,plen,PLAN, PLANLAMAK
+1491,Race,reys,YARIŞMAK
+1492,Dispatch,dispe?,SEVK ETMEK, YOLLAMAK
+1493,Expire,ikspayır,SÜRENİN DOLMASI
+1494,Camera,kemıra,KAMERA
+1495,Practise,prektis,ALIŞTIRMA YAPMAK
+1496,Gift,gift,1.ARMAĞAN  2.YETENEK
+1497,Accident,eksidınt,KAZA
+1498,Output,autput,ÇIKTI
+1499,Muscle,masıl,PAZU, KAS
+1500,Ambulance,embyulıns,AMBULANS
+1501,Spirit,spırit,1.RUH, RUHSAL DURUM, 2.ALKOLLÜ İÇKİ 3.İSPİRTO
+1502,Merry,meri,MUTLU
+1503,Volume,volyum,HACİM
+1504,Better,better,DAHA İYİ
+1505,Rough,raf,KABA
+1506,Magic,mecik,BÜYÜ
+1507,Win,win,KAZANMAK
+1508,Cover,kavır,KAPLAMAK
+1509,Less,les,DAHA AZ
+1510,Balloon,baluun,BALON
+1511,Vote,vout,OY VERMEK, OY
+1512,Abandon,ebandın,TERK ETMEK
+1513,Rat,ret,SIÇAN
+1514,Grass,gres,1.OT, ÇİM 2.MUHBİR ,İSPİYONCU
+1515,Glorious,gloriıs,PARLAK, ONURLU (parlak tarih)
+1516,Lives,layvz,YAŞAMLAR
+1517,Elapse,ileps,ZAMANIN GEÇMESİ (3 days have elapsed)
+1518,Difficult,dıfıkılt,ZOR
+1519,Grasp,grasp,SIKICA TUTMAK
+1520,Broken,brıukın,KIRIK
+1521,Curse,körs,LANET
+1522,Tear,tiır,1.GÖZYAŞI 2.DELİK (kumaş,kağıtta v.b) 3.YIRTMAK
+1523,Flesh,fleş,ET (derinin altındaki)
+1524,Throat,throut,GIRTLAK, YEMEK BORUSU
+1525,Extraordinary,ıkstrordinıri,OLAĞANDIŞI
+1526,Deliver,delivır,DAĞITMAK, DAĞITIM
+1527,Carriage,keriıc,1.FAYTON 2.VAGON
+1528,Building,bilding,BİNA
+1529,Chuckle,?akıl,KIKIRDAMA
+1530,Sort,sort,SIRALAMAK
+1531,Federal,fedırıl,FEDERAL, FEDERE, GRUP İÇİNDE BİRLEŞMİŞ
+1532,Cartridge,kartrı?,KARTUŞ,ŞARJÖR
+1533,Carry,keri,TAŞIMAK
+1534,Meet,miit,BULUŞMAK, KARŞILAMAK
+1535,Brown,braun,KAHVERENGİ
+1536,Sensible,sensibıl,AKILLI
+1537,Enjoy,ıncoy,EĞLENMEK
+1538,Signpost,saynpost,İŞARET DİREĞİ
+1539,Attack,etek,SALDIRMAK, ATAK
+1540,Owe,ou,BORÇLU OLMAK
+1541,Cigar,sigaar,PURO
+1542,Naughty,noti,YARAMAZ (naughty child = yaramaz ?ocuk)
+1543,Zip,zip,FERMUAR
+1544,Involve,involv,İŞE DALMAK,KARIŞMAK,GEREKTİRMEK,İÇERMEK
+1545,Banana,bınana,MUZ
+1546,Send,send,GÖNDERMEK
+1547,Pioneer,paynır,ÖNCÜ
+1548,Bench,benç,1.TEZGAH  2.BANK
+1549,Fridge,fric,BUZDOLABI
+1550,Tape-Measure,teip-mejır,MEZURA
+1551,Mood,muud,MİZAÇ, RUH HALİ
+1552,Visa,viizı,VİZE
+1553,Calendar,kelindır,TAKVİM
+1554,Foundation,faundeyşın,1.TEMEL 2.VAKIF
+1555,Uniform,yuniform,1.ÜNİFORMA 2.TEK TİP
+1556,Biscuit,biskit,BİSKÜVİ
+1557,Irregular,ıregulır,DÜZENSİZ
+1558,Depart,dıpart,AYRILMAK
+1559,Advise,edvayz,TAVSİYE ETMEK
+1560,Misunderstand,misandırstend,YANLIŞ ANLAMAK
+1561,Fanatic,fınıtik,FANATİK
+1562,Lens,lenz,LENS
+1563,Aware,eveyr,BİLGİLİ, FARKINDA OLMAK, HABERDAR OLMAK
+1564,Company,kampany,1.ŞİRKET, KUMPANYA 2.BERABERLİK, ARKADAŞLIK
+1565,Reject,ricekt,KABUL ETMEMEK
+1566,Paw,poo,HAYVAN PENÇESİ
+1567,Often,ofn,SIK SIK
+1568,Gulf,galf,KÖRFEZ
+1569,Compete,kımpiit,YARIŞMAK
+1570,Zero,zirou,SIFIR
+1571,Duel,duyıl,DÜELLO
+1572,Aside,esayd,BİR YANDA
+1573,Congratulate,kongraçuleyt,KUTLAMAK
+1574,Merit,merit,HAKETMEK, DEĞMEK
+1575,Pistol,pıstıl,TABANCA
+1576,Salt,solt,TUZ
+1577,Debatable,dibeytıbıl,TARTIŞABİLİNİR
+1578,Consign,kınsayn,1)SATIŞ İÇİN GÖNDERME2)BAŞKASINA DEVRETME(sorumluluk
+1579,Afternoon,aftırnuun,ÖĞLEDEN SONRA
+1580,Badly,bedli,1.KÖTÜ 2.ÇOK FAZLA
+1581,Cancellation,kensıleyşın,İPTAL
+1582,Rate,reyt,1.HIZ  2. ORAN
+1583,Show,şou,GÖSTERMEK, GÖSTERİ
+1584,Vegetable,vectıbl,SEBZE
+1585,Never,never,HİÇBİR ZAMAN ,ASLA
+1586,Music,müuzik,MÜZİK
+1587,Expression,ıkspreşın,İFADE
+1588,Friday,fraydey,CUMA
+1589,Wednesday,wenzdey,ÇARŞAMBA
+1590,Disaster,dızastır,FELAKET, AFET
+1591,Advice,edvays,TAVSİYE
+1592,Jail,jeyl,HAPİS
+1593,Target,tergıt,HEDEF
+1594,Instance,instıns,ÖRNEK
+1595,Playground,pleygraund,OYUN SAHASI
+1596,Misery,mısiri,SEFALET
+1597,Actress,ektrıs,KADIN OYUNCU
+1598,Juice,cuis,SU (meyve suyu v.s.)
+1599,Source,soors,KAYNAK
+1600,Diet,dayt,REJİM, DİYET
+1601,Seek,siik,ARAMAK, SORUŞTURMAK
+1602,Maturity,me?uriti,OLGUNLUK ZAMANI, VADE ZAMANI
+1603,Trunk,trang,1.AĞAÇ GÖVDESİ  2.SANDIK  3. FİL HORTUMU
+1604,Boot,buut,1)AYAKKABI,BOT 2)BAGAJ
+1605,Movement,muuvmınt,HAREKET
+1606,Lucky,laki,ŞANSLI
+1607,Bastardize,bestırdayz,1)DEĞERİNİ DÜŞÜRMEK 2)KONUNUN ANLAMINI DEĞİŞTİRMEK
+1608,Protest,protest,PROTESTO
+1609,Stir,stör,1.KARIŞTIRMAK (çay v.b)  2.HAREKET ETTİRMEK
+1610,Business,biznıs,İŞ
+1611,No,no,HAYIR
+1612,Middle,midl,ORTA
+1613,Their,theır,ONLARIN
+1614,Memorial,memoriıl,BİR KİŞİNİN ANISINA YAPILAN YAPIT
+1615,Poison,poizın,ZEHİR
+1616,Caravan,karavan,KARAVAN
+1617,Parachute,perışut,PARAŞÜT
+1618,Drill,dril,1.DELMEK  2.(tekrar tekrar) ÖĞRETMEK
+1619,Ghost,gost,HAYALET,HORTLAK
+1620,Phone,foun,TELEFON
+1621,Coat,kout,PALTO
+1622,Wake,weyk,UYANMAK, UYANDIRMAK
+1623,Best,best,EN İYİ
+1624,Pair,peır,ÇİFT
+1625,Idea,aydiı,FİKİR
+1626,Date,deyt,GÜNÜN TARİHİ
+1627,Permission,pörmişn,İZİN
+1628,Approve,epruv,ONAYLAMAK
+1629,Dry,dray,1.KURU 2.KURUMAK
+1630,Packet,pekıt,PAKET
+1631,All Right,ol rayt,1.TAMAM 2.EVET
+1632,Motor,moutır,MOTOR
+1633,Urban,ööbın,ŞEHİRSEL, KENTE AİT (Urban Life : Şehirsel yaşam)
+1634,Necessary,nesısıri,GEREKLİ
+1635,Broker,brıukır,KOMİSYONCU,SİMSAR
+1636,Pickpocket,pikpakıt,YANKESİCİ
+1637,Swollen,swolın,ŞİŞMİŞ
+1638,Brush,braş,1.FIRÇA  2.FIRÇALAMAK
+1639,Hall,hol,HOL
+1640,Potato,poteyto,PATATES
+1641,Tie,tay,1.BAĞ, BAĞLAMAK, BERABERE 2.BOYUNBAĞI KRAVAT
+1642,Upstairs,apsteız,ÜST KAT, YUKARISI
+1643,Stock Certificate,stok sertifikeyt,HİSSE SENEDİ
+1644,Name,neym,İSİM
+1645,Nude,nüud,ÇIPLAK
+1646,Factory,fektri,FABRİKA
+1647,Goldfish,gouldfiş,AKVARYUM BALIĞI
+1648,Example,ıgzempl,ÖRNEK
+1649,Figure,figır,1.SAYI 2.ŞEKİL, VÜCUT
+1650,Gentle,centl,NAZİK
+1651,Mill,mil,1.DEĞİRMEN 2.İMALATHANE
+1652,Dynamite,daynımeyt,DİNAMİT
+1653,Via,vaı,GEÇEREK,ORADAN (We go from London to Van via Paris.)
+1654,Dismiss,dismis,KOVMAK, YOL VERMEK, SAL VERMEK
+1655,Nevertheless,nevedıles,BUNA RAĞMEN, HALA, AMA
+1656,Recollect,rekılekt,HATIRLAMAK
+1657,Lean,liin,1.İNCE, YAĞSIZ 2.EĞİLMEK YASLANMAK
+1658,Arm,arm,KOL, SİLAH
+1659,All,ol,1.HEP 2.TÜM 3.HER
+1660,Organize,orgınayz,ORGANİZE ETMEK
+1661,Leave,liiv,TERK ETMEK
+1662,Pole,pol,1)KUTUP 2)DİREK, KAZIK
+1663,Ridiculous,ridikulıs,GÜLÜNÇ, SAÇMA
+1664,Holiday,holidey,TATİL GÜNÜ
+1665,Expense,ekspens,MASRAF
+1666,Bias,bays,ÖN YARGI,EĞİLİM
+1667,Evidence,evidıns,DELİL
+1668,Invent,invent,İCAT ETMEK, YARATMAK
+1669,Tailor,teylır,TERZİ
+1670,Flake,fleyk,TANE (snowflake : kar tanesi)
+1671,Favourable,feyvırıbl,İYİ, YARDIMCI
+1672,Indefinite,indefinıt,BELİRSİZ
+1673,Rude,ruud,KABA
+1674,Yield,yiild,1.ÜRÜN VERMEK  2.DIŞARI VERMEK  3.TESLİM OLMAK
+1675,Speech,spiiç,KONUŞMA
+1676,Threat,thret,TEHTİD
+1677,Curl,körl,KIVIRMAK
+1678,Rose,rouz,1.GÜL 2.PEMBE
+1679,Salad,selıd,SALATA
+1680,Yes,yes,EVET
+1681,Terrible,terıbl,KORKUNÇ, KÖTÜ
+1682,Tariff,terif,TARİFE, FİAT LİSTESİ
+1683,Desperate,despırit,UMUTSUZ, ÇOK CİDDİ
+1684,Drunk,drank,SARHOŞ
+1685,Ready,redi,HAZIR
+1686,Confess,kınfes,İTİRAF ETMEK
+1687,Kiss,kis,ÖPÜCÜK, ÖPMEK
+1688,Displace,displeys,YERİNDEN ÇIKARMAK (Kuvvet etkisi ile)
+1689,Asset,eset,VARLIK
+1690,Ally,elay,ANLAŞMA,BİRLEŞME
+1691,Permit,pörmit,1.İZİN VERMEK 2.İZİN KAĞIDI
+1692,Include,inkluud,KAPSAMAK
+1693,Underline,andırlayn,YAZININ, KELİMENİN ALTINI ÇİZMEK
+1694,Jackal,cekıl,ÇAKAL
+1695,Half,half,YARIM
+1696,To,tu,..e KADAR
+1697,Safety-Belt,seyftibelt,EMNİYET KEMERİ
+1698,Scream,skriim,ÇIĞLIK
+1699,Dim,dim,KISIK, SÖNÜK
+1700,Spill,spil,DÖKMEK,SAÇMAK (Sıvı)
+1701,Through,thruu,İÇİNDEN, BAŞTAN SONA
+1702,Queue,küu,SIRA, KUYRUK
+1703,Berry,beri,KÜÇÜK ÇEKİRDEKSİZ MEYVE
+1704,Shake,şeyk,SARSMAK
+1705,Bucket,bakıt,KOVA
+1706,Regard,rigard,1.DİKKAT 2.DÜŞÜNCE 3.BAKMAK 4.İNANMAK
+1707,Oral,orıl,SÖZLÜ
+1708,Jolly,coli,ÇOK
+1709,Rash,raş,1)HIZLI, ACELE 2)ÇİL
+1710,Goose,guus,KAZ
+1711,Recall,rikol,ANIMSAMAK
+1712,Farther,fardır,DAHA UZAK
+1713,Tune,tüun,1.AKORD ETMEK, AYARLAMAK, 2.EZGİ
+1714,Exhibition,ekzıbişın,SERGİ
+1715,Bawl,bavıl,BAĞIRMAK VEYA AĞLAMAK (Seslice)
+1716,Exact,ıgzekt,TAM
+1717,Ox,oks,BOĞA
+1718,Beer,biır,BİRA
+1719,Gaol,jeil,HAPİSHANE
+1720,Bored,bord,CANI SIKILMIŞ
+1721,Lane,leyn,DAR YOL, ŞERİT (Oto yolda vb.)
+1722,Liquid,likuit,SIVI
+1723,Solidarity,soliderıti,DAYANIŞMA
+1724,Guy,gay,ADAM
+1725,Leadership,liidışip,ÖNDERLİK
+1726,Pasta,pesti,MAKARNA (Hamurdan yapılan şeyler)
+1727,Ring,ring,ÇALMAK(zil çalması), TELEFON ETMEK
+1728,Unite,yunayt,BİRLEŞMEK
+1729,Coupon,kuupon,KUPON
+1730,Knee,nii,DİZ, DİZ ÇÖKMEK
+1731,Notice,noutis,DUYURU, DİKKATİNİ ÇEKMEK
+1732,Tin,tin,1.TENEKE 2.KONSERVE
+1733,Tidy,taydi,DÜZENLİ, DERLİ TOPLU
+1734,Vowel,vavıl,SESLİ HARF (a,e,i)
+1735,Champion,çempiın,ŞAMPİYON
+1736,Bicycle,baysikl,BİSİKLET
+1737,Press,pres,1.BASKI 2.ÜTÜLEME 3.BASIN
+1738,Cease,siis,DURDURMAK
+1739,Beetle,biitl,HAMAMBÖCEĞİ
+1740,Dog,dog,KÖPEK
+1741,Various,veırıis,DEĞİŞİK, ÇEŞİTLİ
+1742,Sew,sou,DİKİŞ DİKMEK
+1743,Ladle,leydıl,KEPÇE (Yemek)
+1744,China,?aynı,1) ÇİN 2) ÇİNİ ,porselen v.b
+1745,Silk,silk,İPEK
+1746,Proportion,propoşın,ORANTI
+1747,Empire,empayır,İMPARATORLUK
+1748,Disgust,dısgast,TİKSİNTİ
+1749,Build,bild,İNŞA ETMEK, YAPMAK
+1750,Bless,bles,(Tanrı'dan) KORUNMASINI DİLEMEK, TAKDİS
+1751,Skirt,skört,ETEK
+1752,Join,coin,BİRLEŞTİRMEK, BİRLEŞMEK
+1753,Request,rikuest,RİCA ETMEK, RİCA
+1754,Pay,pey,ÖDEMEK
+1755,Ship,şip,GEMİ, GEMİYLE YOLLAMAK
+1756,Sign,sayn,1.İŞARET 2.İMZALAMAK
+1757,Spice,spays,BAHARAT
+1758,Pack,pek,PAKETLEMEK
+1759,Teacher,tiiçır,ÖĞRETMEN
+1760,Porcelain,poselın,PORSELEN
+1761,Safari,sifaari,SAFARİ, HAYVAN AVLAMA YOLCULUĞU
+1762,Precious,presis,KIYMETLİ, ÇOK SEVİLEN
+1763,Now,nau,ŞİMDİ
+1764,Jazz,cez,CAZ
+1765,Stop,stap,STOP, DURMAK, NOKTA, DURAK
+1766,Set Off, Out,set of,set aut,t  SEYAHATE BAŞLAMK, YOLA ÇIKMAK
+1767,Indoor,indor,EV İÇİNDE, İÇERDE
+1768,Department,dıpartmınt,"BÖLÜM
+1769,Confine,kınfayn,KUŞATMAK,HAPSETMEK,SINIRLAMAK
+1770,Discipline,disiplin,DİSİPLİN
+1771,Allocations,elıkeyşın,TAHSİSAT
+1772,Wash,woş,1.YIKAMAK   2.KİRLİ ÇAMAŞIR
+1773,Prohibit,prıhibit,YASAKLAMAK
+1774,Die,day,ÖLMEK
+1775,Address,edres,ADRES
+1776,Weather,wedır,"HAVA
+1777,Arrival,erayvıl,VARIŞ
+1778,Handwriting,hendrayting,EL YAZISI
+1779,Bargain,bargın,1.PAZARLIK ETMEK 2.KELEPİR
+1780,Pregnant,pregnınt,HAMİLE
+1781,Provoke,prıvok,KIŞKIRTMAK, KIZDIRMAYA NEDEN OLMAK
+1782,Hiccup,hikap,HIÇKIRIK
+1783,Slim,slim,İNCE, ZAYIF
+1784,Warder,woodır,1) BEKÇİ, MUHAFIZ 2) GARDİYAN
+1785,Vase,vaaz,VAZO
+1786,Evil,ivl,KÖTÜ
+1787,Temporary,temprıri,GEÇİCİ
+1788,Embassy,embısi,BÜYÜKELÇİLİK
+1789,Suppress,sıpres,1)BASKI ALTINA ALMA,SİNDİRME 2)YAYINLANMASINI ÖNLEME
+1790,Remain,rımeyn,1.GERİYE KALMAK 2.YERİNDE DURMAK
+1791,Settle,setl,1.DURUP DİNLENMEK 2.ALIŞMAK 3.YERLEŞMEK
+1792,Viable,vaıbıl,GEÇERLİ (But in practice it wouln't be viable)
+1793,Chestnut,?esnat,KESTANE
+1794,Relationship,rıleyşnşip,İLİŞKİ, İLETİŞİM
+1795,Bar,bar,1.ÇUBUK 2.BAR
+1796,International,intıneyşınıl,ULUSLARARASI
+1797,Stadium,stedyum,STADYUM
+1798,Trick,trik,1.HİLE,HİLE YAPMAK  2.OYUN (kağıt oyunları vb.)
+1799,Solemn,salım,1.CİDDİ 2.BAYILTICI
+1800,Postage,postı?,POSTA ÜCRETİ
+1801,Itch,it?i,KAŞINDIRMAK
+1802,Good,gud,1.İYİ 2.DEVAMLI ( uzun periyot )
+1803,Message,mesıc,MESAJ
+1804,Orbit,orbit,YÖRÜNGE
+1805,Repair,ripeır,ONARMAK
+1806,Introduce,intrıdyus,TANIŞTIRMAK
+1807,Platform,pletform,1)PLATFORM, YÜKSEKÇE YER, KÜRSÜ 2)PERON
+1808,Defend,difend,SAVUNMAK
+1809,Settlement,setlmınt,ANLAŞMA
+1810,Folk,folk,HALK
+1811,Appetite,epıtayt,İŞTAH
+1812,Diagram,dayıgrım,ŞEMA, DİYAGRAM
+1813,Mercy,mörsi,MERHAMET
+1814,Banal,bınaal,BANAL,ADİ
+1815,Shortage,sortı?,YOKLUK, KITLIK
+1816,Today,tıdey,BUGÜN
+1817,Weigh,weit,AĞARLIK, TARTMAK
+1818,Vicious Circle,vişıs sörkıl,KISIR DÖNGÜ
+1819,Fiance,fiansey,NİŞANLI
+1820,Anything,enyting,HERHANGİ BİR ŞEY
+1821,Electricity,ılektrisiti,ELEKTRİK
+1822,Thirteenth,thötiith,ONÜÇÜNCÜ
+1823,Centre,sentır,ORTA, MERKEZ
+1824,Why,way,NEDEN, NİÇİN
+1825,Base,beys,1. TABAN 2.ÜS
+1826,Hand Grenade,hend grineid,EL BOMBASI
+1827,Pan,pen,TAVA
+1828,Cause,koz,1.NEDEN  2.NEDEN OLMAK
+1829,Blade,bleyd,USTURA, BIÇAK
+1830,Mystery,mıstri,ESRAR, BİLİNMEZLİK
+1831,Library,laybrıri,KİTAPLIK, KÜTÜPHANE
+1832,Fill,fil,DOLDURMAK
+1833,Spread,spred,YAYILMAK, YAYMAK
+1834,Basin,beysın,1) LEĞEN 2) LEĞEN DOLUSU 3) HAVZA
+1835,Lighter,laytır,ÇAKMAK
+1836,Sharp,şarp,1.KESKİN 2.TAM TAMINA 3.ZEKİ
+1837,Loud,laud,YÜKSEK SESLİ
+1838,Funeral,füunırıl,CENAZE
+1839,Hole,hol,DELİK
+1840,Sport,sport,SPOR
+1841,Ink,ink,MÜREKKEP
+1842,Corn,korn,1. EKİN, MISIR 2.NASIR (tread on someone~s corns)
+1843,Turnover,törnovır,CİRO (SATIS)
+1844,Heritage,heritıc,MİRAS
+1845,Entitle,intaytıl,YETKİ VERMEK, HAK VERMEK
+1846,Accept,eksept,KABUL ETMEK
+1847,Lash,leş,KAMÇI, BİRŞEYİ ANİ VE HIZLI SALLAMAK
+1848,Stay,stey,KALMAK
+1849,Hurry,hari,ACELE ETMEK
+1850,Ruler,ruulır,1.KURAL KOYUCU, YÖNETİCİ  2.CETVEL
+1851,Forbid,forbid,YASAKLAMAK
+1852,Elbow,elbou,DİRSEK
+1853,Famous,feymıs,ÜNLÜ
+1854,Speak,spiik,KONUŞMAK
+1855,Refreshments,rıfreşmınts,SANDOVİÇ, TOST, İÇECEK (Gar,istasyon gibi yerlerde)
+1856,Shadow,şedou,HARANLIK, GÖLGE
+1857,Hope,houp,UMUT
+1858,Mechanic,mikenik,1)MAKİNİST,MAKİNA USTASI2)EL SANATLARINA AİT3)MEKANİ
+1859,Miserable,mizrıbıl,SEFİL
+1860,Importance,importıns,ÖNEM
+1861,Maximum,mexsimum,MAKSİMUM, AZAMİ
+1862,True,truu,DOĞRU, GERÇEK
+1863,Snag,sneg,PÜRÜZ
+1864,Power-House,pauwırhaus,1)ELEKTRİK SANTRALI 2)OLAĞANÜSTÜ ENERJİYE SAHİP ŞEY
+1865,Finger,fingır,PARMAK
+1866,Quota,kwotı,KOTA, KONTENJAN
+1867,Oasis,oesis,VAHA
+1868,Reconciliation,rekınsilieyşin,UZLAŞMA
+1869,Strange,streync,GARİP, TUHAF
+1870,Lunch,lanç,ÖĞLE YEMEĞİ
+1871,Mental,mentıl,ZİHİNSEL
+1872,Enclose,ınklouz,KAPATMAK, ETRAFINI KAPATMAK
+1873,Razor,reyzır,USTURA, TRAŞ MAKİNESİ
+1874,Slot,slot,UZUN, DÜZ DELİK, BOŞLUK, JETON KOYMA YERİ vb.
+1875,Bridge,bric,KÖPRÜ
+1876,Onion,anyın,SOĞAN
+1877,Spite,spayt,1.RAĞMEN 2.BİRİSİNE ZARAR VERME İSTEĞİ
+1878,Ski,skii,KAYAK, KAYAK YAPMAK
+1879,Relevant,relıvınt,BAĞINTILI, KONUYLA İLİŞKİLİ
+1880,Accommodation,ekomıdeyşın,KONAKLAMA YERİ
+1881,Besides,bisaydz,HEM DE
+1882,Method,methıd,METOT
+1883,Hour,auır,SAAT
+1884,Directory,direktiri,REHBER (telefon vb.)
+1885,Jury,cüri,JÜRİ
+1886,Nuisance,nuusıns,SIKINTI, DERT
+1887,Crocodile,krokıdayl,AFRİKA TİMSAHI
+1888,Windscreen Wiper,windskriin way,SİLECEK
+1889,Steer,stiir,DİDON, YÖNLENDİRMEK (bisiklet,motor,sandal,vs.)
+1890,Protect,prıtekt,KORUMAK
+1891,Obtain,ıbtein,TEDARİK ETMEK, SAĞLAMAK
+1892,Frown,fraun,KAŞINI ÇATMAK,MEMNUN OLMAMAK
+1893,Cheat,çiit,1.HİLECİ 2.HİLE YAPMAK, KOPYA ÇEKMEK
+1894,Acquisition,ekwızışın,EDİNME, İSTİMLAK, EL KOYMA
+1895,Capable,keypıbıl,MUKTEDİR
+1896,Third,thöd,ÜÇÜNCÜ
+1897,Value,velyu,DEĞER
+1898,Engine,encin,MAKİNE
+1899,Superstition,supıstişn,BATIL İNANÇ
+1900,Mix,miks,KARIŞTIRMAK, KARIŞMAK
+1901,Tired,tayırd,YORGUN
+1902,Spot,spat,1.LEKELEMEK  2.TANIMAK,AYIRMAK
+1903,Responsible,rıspansıbl,SORUMLU
+1904,Blister,blistır,KABARCIK
+1905,Price,prays,FİYAT
+1906,Cruise,kruuz,1.DENİZ GEZİSİ  2.KITALARARASI SİLAH
+1907,Rubber,rabır,1)LASTİK, KAUÇUK 2)SİLGİ
+1908,Slave,sleyv,KÖLE
+1909,Teenager,tiine?ır,13-19 YAŞ ARASI
+1910,Truck,trak,KAMYON
+1911,Nurse,nörs,HEMŞİRE, HASTABAKICI
+1912,Act,ekt,1.DAVRANIŞ  2.DAVRANMAK
+1913,Affect,efekt,ETKİLEMEK
+1914,Them,them,ONLARI
+1915,Shrink,şringk,ÇEKMEK, KÜÇÜLMEK
+1916,Blow,blou,ÜFLEMEK, PATLAMAK
+1917,Deserve,dızörv,HAKKETMEK, LAYIK OLMAK
+1918,Careful,keyrfıl,DİKKATLİ
+1919,Grill,gril,GRİL
+1920,Pillow,pilow,YASTIK
+1921,By,bay,YANINDA, SIRASINDA, TARAFINDAN, ..E KADAR
+1922,See Over,siovır,İMTİHAN ETMEK, ÇEK ETMEK
+1923,Horse,hors,AT
+1924,Scratch,skreç,1.TIRMALAMAK 2.KAŞIMAK
+1925,Resent,rizent,HOŞLANMAMAK, KIZMAK
+1926,Opposite,apızit,ZIT,TERS
+1927,Concern,konsöön,İLGİ,ÜZÜNTÜ,ENDİŞE
+1928,Ass,es,1.EŞEK 2.APTAL
+1929,Academic,ekıdemik,AKADEMİK
+1930,Style,stayl,SİTİL
+1931,Upon,ıpon,ÜSTÜNDE
+1932,Dish,diş,1.TABAK ÇANAK,BULAŞIK 2.ÖZEL YEMEK
+1933,Contents,kontents,İÇERİK
+1934,Shut,şat,KAPATMAK (kapı,pencere  v.b ) SHUT UP=SUS
+1935,Cut,kat,KESMEK
+1936,Stupid,stüupid,APTAL
+1937,Orchard,or?ıd,BOSTAN
+1938,Full,ful,DOLU, TAMAMEN
+1939,Indemnity,indemniti,TAZMİNAT
+1940,Whim,whim,KAPRİS
+1941,Usual,yujl,OLAĞAN
+1942,Screw,skru,VİDALAMAK, VİDA, KAZIKLAMAK
+1943,Depth,depth,DERİNLİK
+1944,Appreciate,eprişieyt,MÜTEŞEKKİR, DEĞER BİLMEK ,BEĞENMEK
+1945,Race,reys,IRK
+1946,Art,art,SANAT
+1947,Innocent,inısınt,SUÇSUZ, MASUM
+1948,Cottage,kotıc,KÖY EVİ
+1949,Vacation,vekeyşın,TATİL
+1950,More,mor,DAHA FAZLA
+1951,Meal,miıl,YEMEK
+1952,Humour,hüumır,GÜLDÜRÜ, MİZAH
+1953,Some,sam,1.BAZI, BİRKAÇ 2.YAKLAŞIK
+1954,Father,fadır,BABA
+1955,Anniversary,enivörsıri,YILDÖNÜMÜ
+1956,Offence,ıfens,1.YASADIŞI İŞ 2.SALDIRI, OFENS
+1957,Bride,brayd,GELİN
+1958,Bodyguard,badigard,KORUMA GÖREVLİSİ, GORİL
+1959,Remedy,remidi,ÇARE
+1960,Homesick,houmsik,SILA HASRETİ
+1961,Banker,benkır,BANKA YÖNETİCİSİ, BANKER
+1962,Mere,miır,SADECE,YALNIZCA
+1963,They,dey,ONLAR (çoğul üçüncü kişi zamiri)
+1964,Huge,hüy?,ÇOK BÜYÜK
+1965,Community,komüniti,TOPLUM
+1966,Wine,wayn,ŞARAP
+1967,Apartment,epartmınt,APARTMAN DAİRESİ
+1968,Consideration,konsidıreyşın,DÜŞÜNÜŞ, TARTIŞ
+1969,Instrument,instrumınt,ENSTRÜMAN
+1970,Fur,för,KÜRK
+1971,Lay,ley,KOYMAK(bir şeyin üstüne), YATIRMAK
+1972,Chilly,?iliy,RAHATSIZ EDİCİ SOĞUK
+1973,Government,gavınmınt,HÜKÜMET
+1974,Tax,teks,VERGİ
+1975,Bend,bend,EĞMEK, EĞİLMEK
+1976,Production,prodakşn,ÜRETİM
+1977,Pure,püur,SAF, TEMİZ
+1978,Church,çörç,KİLİSE
+1979,Promote,prımot,1)İLERLEME,TERFİ ETME 2)TANITIM(Ürün vb.Satış i?in)
+1980,Accustom,ekastım,ALIŞTIRMAK
+1981,Language,lengwıc,DİL ( yabancı dil v.b )
+1982,Belong,bilong,AİT OLMAK
+1983,Creation,krieyşın,YARATIŞ
+1984,Wagon,wegın,YÜK VAGONU, AT ARABASI
+1985,Guide,gayd,REHBER, REHBERLİK ETMEK
+1986,Ape,eyp,MAYMUN
+1987,Award,iwood,MÜKAFAT
+1988,Breath,breth,NEFES
+1989,Curiosity,küriositi,MERAK
+1990,Enough,inaf,YETER
+1991,Incorrect,ınkırekt,HATALI, YANLIŞ
+1992,Deliberately,dilibirıtli,KASTEN
+1993,Fee,fii,HARÇ, ÜCRET (okul, avukat, doktor v.b)
+1994,Contract,kontrekt,KONTRAT,ANLAŞMA
+1995,Attractive,etrektiv,ÇEKİCİ
+1996,Deposit,dıpozıt,DEPOZİT
+1997,Chef,şef,AHÇI,ŞEF (Yalnız yiyecek konusunda )
+1998,Suspend,sıspend,ASKIYA ALMAK, DURDURMAK
+1999,Wall,wool,DUVAR
+2000,Husband,hazbınd,KOCA, ERKEK EŞ
+2001,Surface,sörfıs,YÜZEY
+2002,Form,form,ŞEKİL, ŞEKİLLENDİRMEK, FORM
+2003,Worry,wöri,ENDİŞELENMEK
+2004,Commitment,komitmınt,1)TAAHHÜT 2)SORUMLULUK
+2005,Supper,sapır,YEMEK (günün son yemeği)
+2006,Valley,veli,VADİ
+2007,Cheque,?ek,ÇEK
+2008,Typical,tipikıl,TİPİK
+2009,Demonstrate,demonstreyt,AÇIKÇA GÖSTERMEK, DEMONSTRE ETMEK
+2010,Shoulder,şouldır,OMUZ
+2011,Curtain,körtn,PERDE
+2012,Atmosphere,etmosfiır,HAVAKÜRE, ATMOSFER
+2013,Fabulous,febulıs,HARİKA, İNANILMAZ
+2014,Litter,litır,ÇÖP,DAĞINIKLIK
+2015,Letter Box,letır baks,MEKTUPLUK
+2016,Replacement,rıpleysmınt,YERLEŞTİRME
+2017,Fantastic,fentestik,HARİKA, OLAĞANDIŞI
+2018,Board,boord,BİNMEK (gemiye,uçağa,vs.) 2.TAHTA 3.KURUL
+2019,Current,karınt,1.AKIM 2.CARİ 3.KUR
+2020,Knot,not,DÜĞÜM, DÜĞÜM ATMAK
+2021,Canteen,kantiin,KANTİN
+2022,Without,widaut,SAHİP OLMAYARAK, YANINDA OLMADAN
+2023,Command,komand,KUMANDA ETMEK
+2024,Bin,bin,KAP
+2025,Artificial,artifişıl,YAPAY
+2026,Skeleton,skelıtın,İSKELET
+2027,Civic,sivik,1.KENTE AİT 2.'CIVIC DUTY': YURTTAŞLIK GÖREVİ
+2028,Fine,fayn,1.İYİ, İNCE, KÜÇÜK  2.PARA CEZASI
+2029,Journey,cööni,YOLCULUK
+2030,Temper,tempır,1.RUHSAL DURUM 2.KIZGIN
+2031,Roar,roor,KÜKREME
+2032,Over,ouvır,1.ÜSTÜNDE  2.BİTMEK
+2033,Incentive,insentiv,TEŞVİK
+2034,Rest,rest,DİNLENMEK
+2035,Lonely,lanliy,YALNIZ, KİMSESİZ
+2036,Goat,gout,KEÇİ
+2037,Worth,wörth,DEĞERİNDE OLMAK, DEĞERDE
+2038,Brick,brik,TUĞLA
+2039,Perhaps,pörheps,BELKİ
+2040,Guest,gest,KONUK
+2041,Liberal,libırıl,LİBERAL
+2042,Inferior,infiıriır,AŞAĞILIK
+2043,Racket,rekit,RAKET
+2044,Ample,empıl,GENİŞ, BOL
+2045,Violent,vaylınt,KABA KUVVET KULLANAN, ŞİDDET
+2046,Industry,indastri,ENDÜSTRİ
+2047,Jeans,ciinz,JİN, KOT PANTOLON (Pamuklu)
+2048,Towards,tıwordz,DOĞRU (ona doğru, akşama doğru)çok yakın sonlarında
+2049,Open,oupın,AÇIK, AÇMAK
+2050,Count,kaunt,SAYMAK
+2051,Subscribe,sebskrayb,1)ABONE PARASI ÖDEME 2)SÜREKLİ PARA YARDIMI YAPMAK
+2052,Rank,renk,1.SIRA 2.RÜTBE 3.SOSYAL SINIF
+2053,Letter,letır,MEKTUP, HARF
+2054,Enemy,enımi,DÜŞMAN
+2055,Article,artikl,1.MAKALE 2.EŞYA
+2056,Look,luuk,BAKMAK, BAKIŞ
+2057,Arise,erayz,KALKMAK, YÜKSELMEK
+2058,Divorce,dıvöös,BOŞANMAK
+2059,Earthquake,örthkweik,DEPREM
+2060,Invite,ınvayt,DAVET ETMEK
+2061,Incredible,inkredıbl,İNANILMAZ, BÜYÜLEYİCİ
+2062,Beef,biif,DANA ETİ
+2063,Attempt,etempt,DENEMEK
+2064,So Far,so far,ŞİMDİYE KADAR (=Up to now)
+2065,Blouse,blauz,BLUZ
+2066,Peace,piis,BARIŞ
+2067,Camel,keml,DEVE
+2068,Section,sekşn,KISIM, BÖLÜM
+2069,Telephone,telıfoun,TELEFON
+2070,Safety-Pin,seyftipin,ÇENGELLİ İĞNE
+2071,Motion,moşın,HAREKET, ÖNERME
+2072,Rapid,repid,ÇABUK, HIZLI
+2073,Acquire,ikwaır,EDİNMEK
+2074,Cracker,krekır,KRAKER
+2075,Intelligent,intelicınt,ZEKİ
+2076,Miracle,mirıkıl,MUCİZE
+2077,Graveyard,greyvyard,MEZARLIK, MEZAR
+2078,Ceremony,serımıni,SEREMONİ
+2079,Instead Of,insted ov,YERİNE
+2080,Accompany,ekampıni,EŞLİK ETMEK
+2081,Auction,okşın,MÜZAYEDE, MEZAT
+2082,Savour,seyvır,TAT, LEZZET, ÇEŞNİ
+2083,Chief,çif,ŞEF
+2084,Pull,pul,ÇEKMEK
+2085,Cook,kuuk,1.AŞÇI 2.YEMEK PİŞİRMEK
+2086,Patrol,petrol,DEVRİYE
+2087,Sure,şuır,EMİN, KESİN
+2088,Emigrate,emıgreyt,GÖÇMEN (kendi ülkesinden göçen)
+2089,Rumble,rambl,GÜRLEMEK
+2090,Horizontal,horizantıl,YATAY
+2091,Pastime,pastaym,HOŞ İYİ ZAMAN
+2092,Clip,klip,KIRPMAK,KESMEK,KLİPS (Kağıt,sa? vb.)
+2093,Smell,smel,KOKU, KOKLAMAK
+2094,June,cuun,HAZİRAN
+2095,Upset,apset,1.ENDİŞELENDİRMEK  2.DEVİRMEK
+2096,Else,els,DAHA, BAŞKA
+2097,Plenty,plenti,ÇOK SAYIDA
+2098,Bomb,bomb,BOMBA
+2099,Goal,gol,HEDEF, GAYE, GOL
+2100,Sweet,swiit,TATLI
+2101,Finally,faynıli,SONUNDA
+2102,Soap,soup,SABUN
+2103,Water Proof,wotır pruf,SU GEÇİRMEYEN
+2104,Discover,diskavır,KEŞFETMEK
+2105,Way,wey,YOL, ROTA, YÖN
+2106,Cycle,saykl,BİSİKLET, TUR
+2107,Nickname,nikneym,TAKILMIŞ AD, LAKAP
+2108,Heat,hiit,ISI
+2109,Marmalade,maamıleyd,MARMELAT
+2110,Extreme,ikstriim,SON DERECE, AŞIRI
+2111,Hang On,hengon,BEKLE
+2112,In Order To,in ordır to,AMACIYLA, MAKSADIYLA
+2113,Taboo,tabuu,AYIP, ARGO, TABU
+2114,Bare,beyr,ÇIPLAK, BOŞ
+2115,Tool,tuul,ALET (Çeki?, Balta vb.)
+2116,Hazard,hezırd,TEHLİKE, RİSK
+2117,Size,sayz,BÜYÜKLÜK
+2118,River,rivır,NEHİR
+2119,Service,sörvis,SERVİS
+2120,Inject,incekt,ŞIRINGA YAPMAK
+2121,Profit,profit,KAR
+2122,Charter,?artır,1)PATENT,BERAT,DEVLET ONAYLI 2)KİRALIK UÇAK,GEMİ vb.
+2123,Sunday,sandey,PAZAR (günü )
+2124,Can,ken,TENEKE KUTU
+2125,Claimant,klemınt,MAHKEMEDEN HAK TALEP EDEN,DAVACI
+2126,Intensive,intensiv,YOĞUN (Labour intensive:Emek yoğun)
+2127,Headline,hedlayn,BAŞLIK (Gazetede)
+2128,Deputation,deputeyşın,VEKİLLİK
+2129,Immediate,immidiıt,ANINDA, DERHAL
+2130,Contain,konteyn,KAPSAMAK
+2131,Flower,flauır,ÇİÇEK
+2132,Single,singl,1.TEK 2.BEKAR 3.TEK KİŞİLİK
+2133,Learn,lörn,ÖĞRENMEK
+2134,Honour,anır,ONUR
+2135,Wound,wuund,YARALAMAK, YARA
+2136,Wife,wayf,KARI (eş)
+2137,Bright,brayt,PARLAK
+2138,Woman,wumın,KADIN
+2139,Crucial,kuruşıl,EN ÖNEMLİ AN (Karar i?in vb.)
+2140,Picnic,piknik,PİKNİK
+2141,Silly,sili,BUDALA, APTAL
+2142,Pineapple,paynepl,ANANAS
+2143,Railing,reiling,BAHCE PARMAKLIKLARI
+2144,Trap,trep,TUZAK, KAPAN, YAKALAMAK
+2145,Than,den,...DEN ...DAN EKİ
+2146,Ladder,ledır,MERDİVEN
+2147,Punish,paniş,CEZALANDIRMAK
+2148,Enter,enter,GİRMEK
+2149,Echo,ekou,EKO, AKİS
+2150,Maid,meyd,KADIN HİZMETÇİ
+2151,Launch,lon?,BİRŞEYE BAŞLAMAK, ROKET FIRLATMAK
+2152,Question,quesçın,SORU, SORMAK
+2153,Trip,trip,1.GEZİ  2.ÇELME TAKMAK
+2154,Suggestion,sıcesşn,ÖNERİ
+2155,Bishop,bişıp,PİSKOPOS
+2156,Camouflage,kamuflaaj,SAKLAMAK
+2157,Mince,mins,KIYMA (Et vb.), KIYMAK
+2158,Body,badi,"GÖVDE
+2159,Tour,tuır,TUR
+2160,Imagine,imecın,TASAVVUR ETMEK, HAYAL ETMEK
+2161,Fence,fens,ÇİT
+2162,Soul,soul,RUH
+2163,Announce,enauns,BİLDİRMEK, ÇAĞRIDA BULUNMAK, ANONS
+2164,Tight,tayt,SIKI, KOLAY AÇILMAZ
+2165,Baggage,begıc,BAGAJ
+2166,Pea,pii,BEZELYE
+2167,Bureau,büuro,BÜRO
+2168,Squash,skwaş,1)BİR ÇEŞİT OYUN 2)SIKIŞMAK
+2169,Pray,prey,DUA ETMEK
+2170,Bra,bra,SUTYEN
+2171,Career,kariır,MESLEK
+2172,Crime,kraym,SUÇ
+2173,Mechanic,mekanik,MEKANİK
+2174,Even,ivın,1.HATTA 2.ÇİFT,BERABERE,DÜZGÜN
+2175,Habitat,hebıtıt,DOĞAL YUVA (hayvan, bitki vb. yaşadığı yer)
+2176,Worse,wörs,DAHA KÖTÜ
+2177,Familiar,fımiliır,TANIDIK, BİLDİK
+2178,Nominate,nomineyd,1)ADAY GÖSTERMEK(Başkan v.b) 2)ATAMAK,GÖREVLENDİRME
+2179,Associate,esoşieyt,İLGİLENMEK, BİRLEŞTİRMEK
+2180,Row,rou,1.SIRA 2.GÜRÜLTÜ
+2181,Fright,frayt,KORKU
+2182,Span,spen,1) İKİ LİMİT ARASINDAKİ ŞEY, ZAMAN VB. 2) KARIŞ
+2183,Out-Of-Date,aut ov deyt,MODASI GEÇMİŞ, ESKİ
+2184,Volleyball,volıbol,VOLEYBOL
+2185,Cousin,kazn,KUZEN
+2186,Shark,şark,KÖPEK BALIĞI
+2187,Unhealthy,anhelthi,SAĞLIKSIZ
+2188,Bottle,botl,ŞİŞE
+2189,Load,loud,YÜK, YÜKLEMEK,SİLAH DOLDURMAK
+2190,Distribute,distribüut,DAĞITMAK
+2191,Piano,pieno,PİYANO
+2192,Visible,vizıbl,GÖRÜNEN
+2193,Majority,mıcorıti,ÇOĞUNLUK
+2194,Think,think,DÜŞÜNMEK
+2195,Separate,seprıt,AYRI, AYIRMAK
+2196,Surgeon,söcın,CERRAH
+2197,Mistake,misteyk,HATA
+2198,There,theer,1.ORADA 2.VAR OLMAK (There is DALLAS on TV today.)
+2199,Jaw,cov,1.ÇENE KEMİĞİ  2.ÇENE ÇALMAK,KONUŞMAK
+2200,Bad,bed,KÖTÜ
+2201,Hit,hit,DARBE, ÇARPMAK, POPÜLER (hit)
+2202,Block,blok,BLOK
+2203,Improvement,impruuvmınt,GELİŞME
+2204,Shift,şift,1)DEĞİŞTİRME 2)VARDİYE
+2205,Bachelor,be?ılır,1)BEKAR 2)ÜNİVERSİTENİN İLK DERECESİ
+2206,Candle,kendl,MUM
+2207,Mountain,mauntın,DAĞ
+2208,Finish,finiş,BİTİM, BİTMEK
+2209,Game,geym,OYUN
+2210,Live,laıv,CANLI
+2211,White,wayt,BEYAZ, AK, BEYAZ TENLİ
+2212,Revenue,revenüü,GELİR
+2213,Song,song,ŞARKI
+2214,Advantage,edventıc,AVANTAJ
+2215,Voluntary,volıntri,GÖNÜLLÜ
+2216,Increase,inkriiz,ARTMAK
+2217,Cash-Register,keş-recıstır,YAZAR KASA
+2218,Serious,siiriıs,CİDDİ
+2219,Border,bordır,SINIR
+2220,Feather,fedır,TÜY (kuş tüyü)
+2221,Bungalow,banglou,BUNGALOV
+2222,Suicide,suisayd,İNTİHAR (Commit suicide : İntihar etmek)
+2223,Criticize,kritisayz,ELEŞTİRMEK
+2224,Plough,plau,TOPRAĞI SÜRMEK
+2225,Brilliant,brilyınt,PARLAK,AKILLI
+2226,Artist,artist,SANATÇI
+2227,Awkward,okvırd,1)ACEMİ,SAKAR 2)KULLANILMASI,ANLAŞILMASI GÜÇ
+2228,Underclothes,andıkloudz,İÇ ÇAMAŞIRI
+2229,Somebody,sambadi,BİRİSİ
+2230,Yellow,yelou,SARI
+2231,Every,evri,HER
+2232,Bumper,bampır,TAMPON (araba)
+2233,Poor,puur,1.YOKSUL 2.ZAVALLI
+2234,Branch,brenç,1)DAL 2)ŞUBE,KOL
+2235,Christian,krisçın,HIRİSTİYAN
+2236,Coin,koin,MADENİ PARA
+2237,Such,saç,1.BUNUN GİBİ  2.BU KADAR
+2238,Graduate,grecueyt,MEZUN (üniversite mezunu)
+2239,Baby,beybi,BEBEK
+2240,Augmentation,ogmentetişın,ZAM, EKLEME
+2241,Sick,sik,HASTA
+2242,Guard,gard,KORUMAK
+2243,Pilot,paylıt,PİLOT
+2244,Vulture,val?ır,1)AKBABA 2)HARİS KİMSE
+2245,Vehicle,viikıl,TAŞIT ARACI ( kamyon,TIR,araba v.b )
+2246,Surgery,söcırı,AMELİYAT
+2247,Seize,siiz,KAPMAK, HIZLA BİR ŞEYİ ELE GEÇİRMEK
+2248,Need,niid,GEREKSİNİM, İHTİYAÇ
+2249,Flock,flok,SÜRÜ
+2250,Strawberry,strowbri,ÇİLEK
+2251,Draw,drov,1.ÇİZMEK (resim) 2.ÇEKMEK (çekmece)
+2252,Sight,sayt,GÖRÜŞ
+2253,Rug,rag,KÜÇÜK HALI, KİLİM
+2254,We,wi,BİZ
+2255,Tablet,teblit,TABLET
+2256,Thoughtful,thootful,DÜŞÜNCELİ,ÖBÜRLERİNİ DÜŞÜNEN
+2257,Champagne,şempeyn,ŞAMPANYA
+2258,Garden,gadn,BAHÇE
+2259,Hose,hoz,HORTUM
+2260,Country,kantri,1.ÜLKE  2.KIRLIK ALAN
+2261,Qualified,kwolifayd,EHLİYETLİ, KALİFİYE
+2262,Expansion,ıkspanşın,1) GENİŞLEME, BÜYÜME 2) GENİŞLEYEN KISIM, EK
+2263,Serial,siiriıl,SERİ (T.V ,radyo,hikaye v.b )
+2264,Second-Rate,sekınd reyt,İKİNCİ DERECE, KALİTE
+2265,Apparently,eparıntliy,BARİZ OLMAK,GÖRÜNMEK
+2266,Leak,liik,AKINTI, SIZMAK
+2267,Indicate,indikeyt,GÖSTERMEK, İŞARET ETMEK
+2268,Forger,forcır,ÜÇKAĞITÇI,TAKLİTÇİ
+2269,Drama,draam,DRAM
+2270,Crack,krek,KIRMAK
+2271,Classic,klesik,KLASİK
+2272,Overwork,ovırvörk,FAZLA ÇALIŞMAK, AŞIRI ÇALIŞMAK
+2273,Cramp,kremp,KRAMP
+2274,Influence,ınfluıns,ETKİ, ETKİLEMEK
+2275,Refuse,refyuz,REDDETMEK
+2276,Saucer,soosır,BARDAK ALTLIĞI
+2277,Sandpaper,sendpeypır,1) ZIMPARA KAĞIDI 2) ZIMPARALAMAK
+2278,Album,elbım,ALBÜM
+2279,Nylon,naylon,NAYLON
+2280,Stain,steyn,LEKELEMEK
+2281,Eyelash,ayleş,KİRPİK
+2282,Mimic,mimik,TAKLİT ETMEK (birini)
+2283,Pants,pents,1)DON 2)PANTOLON (AmE)
+2284,Sleep,sliip,UYUMAK, UYKU
+2285,Object,ıbcekt,İTİRAZ ETMEK
+2286,Comet,kamit,KUYRUKLU YILDIZ
+2287,Mature,me?ur,1)OLGUN,ERGİN(Hayvan,meyve,insan)2)VADESİ GELEN(Ödem
+2288,Water,wotır,SU, SULAMAK
+2289,Deal,diıl,ALIP SATMAK (ticari), İŞ YAPMAK
+2290,Leaf,liif,YAPRAK
+2291,Backward,bekvörd,GERİYE DOĞRU
+2292,Machine,mışiin,MAKİNE
+2293,Cheerful,?iirful,NEŞELİ,ŞEN,MUTLU
+2294,Spring,spring,1.İLKBAHAR 2.YAY 3.ÜSTÜNE ATLAMAK 4.PINAR
+2295,Drawer,drovır,ÇEKMECE, GÖZ
+2296,Association,esuşeytın,CEMİYET,BİRLİK,AYNI ŞEYLE İLGİLİ OLAN
+2297,Just,cast,1.YALNIZ  2.HEMEN ŞİMDİ
+2298,Hire,hayır,KİRALAMAK (taşınabilir nesneleri,araba,TV, v.b )
+2299,Injure,incır,İNCİTMEK
+2300,Opinion,opinyın,DÜŞÜNCE
+2301,Lever,liivır,KALDIRAÇ, MANİVALA
+2302,Bunch,banç,DESTE, DEMET
+2303,Shallow,şelow,SIĞ
+2304,April,eyprıl,NİSAN
+2305,Saddle,sedl,EĞER
+2306,Out,aut,DIŞARI
+2307,Radio,reydio,RADYO
+2308,Formal,formıl,RESMİ, CİDDİ
+2309,Boiler,boylır,KAZAN
+2310,Pass,pes,GEÇMEK, GEÇİRMEK
+2311,Bump,bamp,ÇARPIŞMA
+2312,Siren,saırın,SİREN
+2313,Dismay,dismey,1)SÜPRİZ 2)ÜZÜNTÜ
+2314,Nest,nest,YUVA, KUŞ YUVASI
+2315,Tomato,tımaato,DOMATES
+2316,Thick,thik,1.KALIN 2.SIK
+2317,Sweat,swet,TER,TERLEMEK
+2318,Shortly,şortli,1.KISA BİR ZAMAN SONRA 2.KISACA
+2319,Teach,tiiç,ÖĞRETMEK
+2320,Liar,layır,YALANCI
+2321,Overdo,ovırdu,FAZLA PİŞİRMEK, FAZLA YAPMAK
+2322,Cream,kriim,1.KREMA  2.KREM  3.KİRLİ BEYAZ
+2323,Crush,kraş,KIRMAK (basarak)
+2324,Type,tayp,1.ÇEŞİT, TİP 2.DAKTİLOYLA YAZMAK
+2325,Native,neytiv,YERLİ (her native language)
+2326,Vomit,vamit,KUSMAK
+2327,Son,san,ERKEK ÇOCUK, OĞUL
+2328,Shade,şeyd,GÖLGE, GÖLGELEMEK
+2329,Sunset,sanset,GÜNEŞİN BATIŞI
+2330,Powerful,pauıfl,GÜÇLÜ
+2331,Image,imıc,HAYAL, İMAJ
+2332,Exception,ıksepşın,İSTİSNA
+2333,Keen,kiin,KESKİN (Keen on:hoşlanmak)
+2334,Stool,stuul,TABURE
+2335,System,sistım,SİSTEM
+2336,Hectare,hektar,HEKTAR
+2337,Council,kaunsl,KONSEY
+2338,Length,length,UZUNLUK
+2339,Umbrella,ambrela,ŞEMSİYE
+2340,Legal,ligl,YASAL
+2341,Men,men,ADAMLAR
+2342,Efficient,ıfışınt,ETKİN, İYİ ÇALIŞAN
+2343,Kingdom,kingdım,KRALLIK
+2344,Ceiling,silign,TAVAN
+2345,Search,sörç,ARAŞTIRMAK
+2346,Into,intu,İÇİNE
+2347,Girl,görl,KIZ
+2348,Copper,kapır,BAKIR
+2349,Witch,wi?,CADI
+2350,Frank,frenk,AÇIK SÖZLÜ, SAMİMİ
+2351,President,prezidınt,BAŞKAN
+2352,Dinner,dinır,AKŞAM YEMEĞİ
+2353,Shower,şauır,1.DUŞ, DUŞ ALMAK 2.SAĞANAK YAĞMUR
+2354,Depend,dıpend,BAĞIMLI OLMAK, İHTİYACI OLMAK
+2355,Lend,lend,ÖDÜNÇ VERMEK
+2356,Okay (Ok),okey,PEKİ, TAMAM
+2357,Arrange,ereync,DÜZENLEMEK, AYARLAMAK
+2358,Contact,kontekt,TEMAS, DOKUNMA
+2359,Approach,eproç,1.YAKLAŞMAK 2.YAKLAŞIM 3.GELİŞ
+2360,Distinct,distinkt,AÇIK, ÖZEL, FARKLI
+2361,Soup,suup,ÇORBA
+2362,Antique,entik,ANTİKA
+2363,Several,sevrıl,BİR KAÇ
+2364,Uncle,ankl,DAYI, AMCA
+2365,Coast,kost,KIYI, SAHİL
+2366,Scrape,skreyp,KAZIMAK, SÜRTMEK, ARTIK, PİSLİK
+2367,Particular,pıtikülır,YALNIZ, ÖZEL, TİTİZ
+2368,Chewing-Gum,çuving gam,SAKIZ
+2369,Florist,florıst,ÇİÇEKÇİ, ÇİÇEK YETİŞTİREN KİMSE
+2370,Go,go,GİTMEK
+2371,Wire,wayır,1.TEL 2.TELGRAF
+2372,Pen,pen,1.AĞIL 2.TÜKENMEZ KALEM
+2373,Alligator,aligeytır,TİMSAH
+2374,Fit,fit,1.UYMAK, UYGUN  2.ANİ HASTALIK
+2375,Luggage,lagıc,VALİZ, YÜK
+2376,Avenue,evenyu,CADDE
+2377,Conflict,konflıkt,ÇATIŞMA,ÇELİŞKİ
+2378,Anyone,enivan,HERHANGİ BİRİ
+2379,Smuggle,smagıl,KAÇAKÇILIK (Gümrük,i?ki,esrar v.b.)
+2380,Dash,deş,1.FIRLAMAK ANİDEN KOŞMAK  2.'-'işareti
+2381,Waist,weyst,BEL
+2382,Garage,garaaj,GARAJ
+2383,Eye,ay,GÖZ
+2384,Former,formır,ÖNCEKİ ZAMAN
+2385,Drug,drag,UYUŞTURUCU MADDE,İLAÇ
+2386,Improve,impruuv,GELİŞMEK, İYİYE GİTMEK
+2387,Lack,lek,EKSİKLİK
+2388,Swell,swel,ŞİŞMEK, KALINLAŞMAK
+2389,Waiter,weytır,GARSON
+2390,Direction,dırekşn,YÖN
+2391,Palace,pelıs,SARAY
+2392,Mind,maynd,AKIL
+2393,Pedal,pedıl,PEDAL
+2394,Sake,seyk,HATIR, UĞRUNA
+2395,Swallow,swalou,1.YUTMAK 2. KIRLANGIÇ
+2396,Jaguar,ceguar,JAGUAR
+2397,Investigate,ınvestıgeyt,ARAŞTIRMA YAPMAK,ÇALIŞMAK
+2398,Strainer,streynır,SÜZGEÇ
+2399,Century,sençri,YÜZYIL
+2400,Blue,blu,1. MAVİ 2.MUTSUZ
+2401,Reply,rıplay,YANITLAMAK, YANIT
+2402,Ahead,ehed,ÖNDE
+2403,Obvious,ıbvıyıs,AŞİKAR
+2404,Because,bikoz,ÇÜNKÜ
+2405,Polish,poliş,PARLATMAK
+2406,Absorb,ıbsorb,1)EMMEK, KARŞILAMAK, DENGELEMEK 2)FİKİR ALMAK
+2407,Fashion,feşn,MODA
+2408,Tart,tart,1)TURTA,TART,PASTA 2)ASİT TADI3)SOKAK KADINI,FAHİŞE
+2409,Monkey,manki,MAYMUN
+2410,Hide,hayd,SAKLANMAK, SAKLAMAK
+2411,Politician,polıtişın,POLİTİKACI, POLİTİKAYLA UĞRAŞAN
+2412,Too,tuu,1.ÇOK 2....DE ...DA EKİ
+2413,Generally,cenrıli,GENELLİKLE
+2414,Divide,divayd,BÖLMEK, PAYLAŞTIRMAK
+2415,Spade,speyd,1.MAÇA (oyun kartlarında) 2.KÜREK
+2416,Cattle,ketl,BÜYÜKBAŞ HAYVAN
+2417,Follow,folou,İZLEMEK, TAKİP ETMEK
+2418,Repay,rıpey,GERİ ÖDEMEK
+2419,Adult,edalt,YETİŞKİN
+2420,Imply,implay,İMA ETME
+2421,Diploma,dıploumı,DİPLOMA
+2422,Partner,partnır,1.ORTAK  2.PARTNER
+2423,Guided Missile,gaydıd misayl,yl  GÜDÜMLÜ ROKET
+2424,Railway,reylwey,TREN YOLU
+2425,Alternative,oltörnıtiv,ALTERNATİF, SEÇENEK
+2426,Debt,det,BORÇ
+2427,Poetry,poıtri,ŞİİRLER, ŞAİRLİK, ŞİİRLE İLGİLİ
+2428,Human,huiymın,İNSAN, BEŞERİ
+2429,Grocer,grousır,BAKKAL
+2430,Dentist,dentist,DİŞÇİ
+2431,Insolvent,insolvınt,MÜFLİS
+2432,Germ,cörm,MİKROP
+2433,Mislay,misley,NEREYE KOYDUĞUNU UNUTMAK
+2434,Thin,thin,İNCE
+2435,Paint,peynt,BOYAMAK, BOYA
+2436,Staff,staaf,ELEMAN, MEMUR
+2437,Ash,eş,KÜL
+2438,Team,tiim,TAKIM, GRUP
+2439,Asleep,esliip,UYKUDA
+2440,Slip,slip,YUVARLANMAK, KAYMAK DÜŞMEK
+2441,Bore,bor,CAN SIKMAK
+2442,Escalator,eskıleytır,YÜRÜYEN MERDİVEN
+2443,Anxiety,enzayıti,ENDİŞE
+2444,Recognize,rekıgnayz,TANIMAK
+2445,Communicate,kımyunikeyt,İLETİŞİM
+2446,Loose,luuz,BOL, BAĞSIZ
+2447,Water-Colours,wotır kolırs,SULU BOYA
+2448,Calculate,kalkuleyt,HESAPLAMAK
+2449,Mike,mayk,MİKROFON
+2450,Cease-Fire,siis-fayır,ATEŞ-KES
+2451,Anxiously,enkşıslıy,ENDİŞELİ OLMAK
+2452,Handicap,hendikap,SAKAT
+2453,Neglect,nıglekt,İHMAL ETMEK
+2454,Propeller,prıpelır,1)İLERİYE YÜRÜTEN ŞEY 2)VAPUR VEYA UÇAK PERVANESİ
+2455,Sir,sör,EFENDİ
+2456,Implement,ımplımınt,1)YÜRÜRLÜĞE KOYMAK 2)ALET
+2457,Gang,geng,ÇETE
+2458,Ballet,baley,BALE
+2459,Seashore,siişor,DENİZ KIYISI
+2460,Happen,hepın,OLMAK
+2461,Judge,cac,1.HAKİM  2.YARGILAMAK
+2462,Society,sısayıti,SOSYETE, ÇEVRE, TOPLUM
+2463,Up,ap,1.YUKARI  2.DİKİNE  3.TÜMÜYLE
+2464,Competition,kompitişn,1.YARIŞMA 2.REKABET
+2465,Submarine,sabmıriin,DENİZALTI
+2466,Hunt,hant,AVLAMAK
+2467,Fight,fayt,KAVGA, KAVGA ETMEK
+2468,Bow,bou,YAY
+2469,Peril,peril,BÜYÜK TEHLİKE
+2470,Set,set,AYARLAMAK, YERLEŞTİRMEK, HAZIRLAMAK
+2471,Model,madl,MODEL (model araba,manken v.b)
+2472,Frontier,frantier,SINIR
+2473,Summit,samit,ZİRVE
+2474,Blame,bleym,SORUMLU TUTMAK, SUÇLAMAK
+2475,Wide,wayd,1.GENİŞ  2.KENARDAN KENARA
+2476,Paragraph,perıgraf,PARAGRAF
+2477,Remind,rimaynd,ANIMSATMAK
+2478,Punctual,pank?uıl,TAM ZAMANINDA
+2479,Compose,kımpoz,YAPIM (Şiir,şarkı,sanat eseri)
+2480,Scene,siin,OLAYIN GEÇTİĞİ YER, MANZARA, TİYATRONUN BİR SAHNESİ
+2481,Contrast,kıntrast,KARŞILAŞTIRMAK
+2482,Force,fors,ZORLAMAK, ZOR, FORS
+2483,Though,dou,NEDENSE
+2484,Strength,strength,GÜÇ, KUVVET
+2485,Minister,minıstır,1.BAKAN 2.BÜYÜKELÇİ YARDIMCISI
+2486,Postpone,pospon,ERTELEMEK
+2487,Ferry,feri,FERİBOT, ARABA VAPURU
+2488,Vet,vet,VETERİNER
+2489,Truth,truth,GERÇEK
+2490,Grateful,greytıfıl,MİNNETTAR
+2491,Bury,böri,GÖMMEK
+2492,Hut,hat,KULÜBE, BARAKA
+2493,Thief,thiif,HIRSIZ
+2494,Liberty,libırti,SERBEST OLMAK
+2495,Loyal,loyıl,SADIK
+2496,Road,roud,YOL
+2497,Soak,sok,ISLATMAK
+2498,Civil,sivl,SİVİL
+2499,Gum,gam,1.YAPIŞKAN 2.DİŞ ETİ
+2500,Stocking,stoking,KADIN ÇORABI
+2501,Dynasty,dınısti,HANEDANLIK
+2502,Kick,kik,TEKME, TEKMELEMEK
+2503,Night,nayt,GECE
+2504,Decay,dikey,ÇÜRÜMEK,BOZULMAK
+2505,Mirror,mirır,AYNA
+2506,Donation,doneyşın,BAĞIŞ
+2507,Massacre,mesıkır,KATLİAM, KATLİAM YAPMAK
+2508,Make,meyk,1.YAPMAK  2.ÇEŞİT
+2509,Stomach,stomak,MİDE
+2510,Smart,smart,1)AKILLI 2)AÇIKGÖZ 3)ŞIK
+2511,Circle,sörkl,1.ÇEMBER  2.GRUP (ÇEVRE)
+2512,Boat,bout,"BOT
+2513,Panel,penıl,PANEL
+2514,Dreadfully,dredfıli,ÇOK
+2515,Pride,prayd,ONUR,GURUR
+2516,Field,fiild,ALAN
+2517,July,culy,TEMMUZ
+2518,Pork,pork,DOMUZ ETİ
+2519,Morning,morning,SABAH
+2520,Month,manth,AY (takvim ayı)
+2521,Dozen,dozen,DÜZİNE
+2522,Hook,huuk,ÇENGEL, KANCA
+2523,Pencil,pensl,KURŞUN KALEM
+2524,Upside-Down,apsayd down,TEPE TAKLAK, TERS DÖNMEK
+2525,Age,eyc,1.YAŞ 2.ÇAĞ
+2526,Shopping,şaping,ALIŞVERİŞ
+2527,Ease,iiz,KOLAYLIK
+2528,Standard,standırd,STANDART
+2529,Attachment,eta?mınt,İLAVE, EK
+2530,Piece,piis,PARÇA
+2531,Likely,laykli,BÜYÜK OLASILIKLA
+2532,Sword,sood,KILIÇ
+2533,What's Its (His/Her) Name,,BİLMEM KİM (BİRİSİNİN ADINI UNUTMA)
+2534,Private,prayvıt,ÖZEL
+2535,Dare,deyr,1.CESARETLİ OLMAK,CÜRET GÖSTERMEK 2.MEYDAN OKUMAK
+2536,Cheeky,?iki,YÜZSÜZ,KABA,KİBAR OLMAYAN
+2537,Dear,diır,1.SEVGİLİ, SEVİLEN  2.PAHALI
+2538,Island,aylınd,ADA
+2539,Pile,payl,ÜST ÜSTE KOYMAK
+2540,Resign,rizayn,İSTİFA ETMEK
+2541,Ambassador,embesedır,BÜYÜKELÇİ
+2542,Hesitate,heziteyt,DURAKSAMAK, TEREDDÜT ETMEK
+2543,Bureaucracy,bürakresi,BÜROKRASİ
+2544,Book,buk,KİTAP
+2545,Boom,buum,1)PATLAMAK 2)ÇOK HIZLI GENİŞLEMEK
+2546,Moss,mos,YOSUN (Nemli yerlerde oluşan)
+2547,Clown,klaun,PALYAÇO
+2548,Favour,feyvır,LEHİNDE, TARAF TUTMAK
+2549,Bathe,beth,YIKAMAK (bedenin bir bölümünü)
+2550,Campaign,kempein,KAMPANYA
+2551,Clean,kliin,1.TEMİZLEMEK 2.TEMİZ
+2552,Verdict,vördikt,HÜKÜM
+2553,Palm,paam,1)AVUÇ 2)PALMİYE AĞACI
+2554,Toe,tou,AYAK BAŞ PARMAĞI
+2555,Bounce,bauns,1)YANSITMAK 2)ZIPLATMAK (Top vs.)
+2556,Advance,edvens,1.İLERİ 2.AVANS
+2557,Army,armi,ORDU
+2558,Drag,dreg,SÜRÜKLEMEK
+2559,Meanwhile,miinvayl,BU ARADA, AYNI ANDA
+2560,Ufo,yufo,UNIDENTIFIEND FLYING OBJECT: TANIMLANMAMIŞ UÇAN CİSİ
+2561,Entertainment,entıteynmınt,EĞLENCE
+2562,Not,nat,DEĞİL
+2563,Car,kaar,ARABA
+2564,Unconscious,ankanşıs,BİLİNÇSİZLİK
+2565,Document,dokümınt,DOKÜMAN
+2566,Prove,pruuv,KANITLAMAK
+2567,Duck,dak,1)ÖRDEK 2)BAŞINI EĞMEK
+2568,Budget,bacıt,1.BÜTÇE  2.BÜTÇE YAPMAK
+2569,Long,long,UZUN
+2570,Hat,het,ŞAPKA
+2571,Inflexible,infleksıbıl,EĞİLMESİ ZOR, BÜKÜLMEZ, İNATÇI
+2572,Display,displey,GÖSTERMEK
+2573,Fry,fray,KIZARTMAK
+2574,Super,suupır,SÜPER
+2575,Nation,neyşın,ULUS
+2576,Seat,siit,OTURULACAK YER
+2577,Fiction,fikşın,KURGU (roman)
+2578,Collapse,kıleps,1)ÇÖKMEK 2)KATLAMAK
+2579,According To,ekording tu,GÖRE
+2580,Reluctant,rilanktınt,İSTEKSİZ VE BUNDAN DOLAYI İŞİ YAPMAYI AĞIRDAN ALMAK
+2581,Keep,kiip,KORUMAK, TUTMAK, DEVAM ETMEK
+2582,Lawful,lofl,YASAL
+2583,Frog,frog,KURBAĞA
+2584,Ham,hem,DOMUZ AYAĞINDAKİ ET
+2585,Medical,medıkıl,TIBBİ
+2586,Task,task,GÖREV
+2587,Fun,fan,EĞLENCE
+2588,Bus,bas,OTOBÜS
+2589,Puppy,papi,GENÇ KÖPEK
+2590,Crossing,krosing,GEÇİT
+2591,Port,port,LİMAN
+2592,Defer,diför,GECİKTİRME, ERTELEME
+2593,Faulty,folti,KUSURLU
+2594,Accuse,ekküz,SUÇLAMAK
+2595,Gap,gep,BOŞLUK, FARK
+2596,Drink,drink,İÇMEK
+2597,Square,skueır,KARE
+2598,My,may,BENİM
+2599,Ignore,ignoor,ÖNEMSEMEMEK
+2600,Extent,ıkstent,BOYUT, BÜYÜKLÜK
+2601,Sigh,say,DERİN NEFES ALMAK
+2602,Fundamental,fandımentıl,TEMEL, ÖNEM, ÇOK GEREKLİ
+2603,Magnifying-Glass,megnıfaing-glass,BÜYÜTEÇ
+2604,Noise,noiz,GÜRÜLTÜ
+2605,Unload,anloud,BOŞALTMAK (yük boşaltmak)
+2606,Treasure,trejır,HAZİNE
+2607,Honest,anıst,DÜRÜST
+2608,Manner,menır,TAVIR, GÖRGÜ
+2609,Restore,ristor,1)GERİ VERME 2)YENİDEN KULLANIMA AÇMA
+2610,Hangar,hengır,HANGAR
+2611,Climb,klaymb,TIRMANMAK, YÜKSELMEK
+2612,Entertain,entıteyn,AĞIRLAMAK (konukları)
+2613,Conversation,konverseyşın,SÖYLEŞİ
+2614,Chin,çin,ÇENE
+2615,Unfair,anfeir,ADALETSİZ
+2616,Born,born,DOĞMUŞ
+2617,Silence,saylıns,1.SESSİZLİK 2.SUSTURMAK
+2618,Spare,speyr,EKSTRA, FAZLA, BOŞ, YEDEK
+2619,Collective Agreement,kollektiv egrimınt,TOPLU SÖZLEŞME
+2620,Gain,geyn,KAZANMAK
+2621,Ear,iır,KULAK
+2622,Pupil,püupl,1.ÖĞRENCİ 2.GÖZBEBEĞİ
+2623,Hinge,hin?,1)MENTEŞE 2)DAYANAK NOKTASI, DESTEK, ESAS
+2624,Terminal,termınıl,TERMİNAL
+2625,Quality,kualıti,NİTELİK, KALİTE
+2626,Each,iiç,HER, HER BİRİ
+2627,Whoever,huevır,HERKİMSE
+2628,Brochure,brıuşır,BROŞÜR
+2629,Victor,viktır,GALİP
+2630,Lamb,lemb,KUZU, KUZU, KOYUN ETİ
+2631,Hover,havır,HAVADA KALMAK
+2632,Attitude,etitüud,YAKLAŞIM, DÜŞÜNCE, HAREKET, TAVIR
+2633,Programme,prougrem,PROGRAM
+2634,Home,hom,EV, YUVA
+2635,Youth,yuuth,GENÇLİK
+2636,Embrace,imbreys,SARILMAK
+2637,Haste,heyst,HIZ, ACELE
+2638,Ride,raıd,ATA,BİSİKLETE BİNMEK
+2639,What If,wat if,NE OLURDU..
+2640,Altogether,oltugedır,TÜMÜYLE, HEP BERABER
+2641,Warm,worm,1.ILIK, ILINDIRMAK  2.SEVECEN
+2642,Quiet,kuayıt,SESSİZ, SAKİN, HUZURLU
+2643,Already,olredi,AZ ÖNCE, ZATEN
+2644,Tuition,tuuşın,ÖĞRETİM, ÖZEL DERS
+2645,Cat,ket,KEDİ
+2646,Horrible,haribl,KORKUNÇ
+2647,Break,breyk,KIRMAK
+2648,Clasp,klasp,SIKICA TUTMAK
+2649,Mess,mes,KARGAŞALIK,DAĞINIKLIK
+2650,Medal,medıl,MADALYA
+2651,Choke,?ok,1)BOĞMA,TIKAMA (BOĞARAK ÖLDÜRMEK) 2)JİKLE
+2652,Seal,siil,1)MÜHÜRLEMEK, (Kutu,mektup,kapı vb.) 2)FOK BALIĞI
+2653,Wealth,welth,SERVET
+2654,Rare,reyr,NADİR
+2655,Fancy,fensi,1)HAYAL KURMA 2)HOŞ ZEVKLİ 3)FANTAZİ
+2656,Success,sıkses,BAŞARI
+2657,Quote,kwot,AKTARMA,  SÖYLEME
+2658,Whose,huuz,KİMİN
+2659,Sentence,sentıns,1.CÜMLE 2.HÜKÜM GİYME,MAHKUM OLMA (A Life sentence)
+2660,Year,yiır,YIL
+2661,Deer,diır,GEYİK
+2662,Kid,kid,1.ÇOCUK  2.DALGA GEÇMEK  3.GENÇ KEÇİ
+2663,Sometimes,samtaymz,BAZEN
+2664,Decision,dısijn,KARAR
+2665,August,ogust,AĞUSTOS
+2666,Ruin,ruin,HARABE, YIKIM, MAHVETME
+2667,Circumstances,sörkımstansıs,DURUM, VAZİYET
+2668,Leg,leg,BACAK
+2669,Reputation,reputeyşın,İTİBAR,ÜN
+2670,Second,sekınd,1.SANİYE  2.İKİNCİ
+2671,Thorough,tharou,1.TÜMÜYLE 2.DİKKATLİ
+2672,Unable,aneybl,MUKTEDİR OLMAMAK
+2673,Cow,kau,İNEK
+2674,Charge,çarc,1.DOLDURMAK 2.MASRAFA YAZMAK
+2675,Prison,prizn,HAPİS
+2676,Gold,gould,ALTIN
+2677,Progress,prougres,GELİŞME
+2678,Sack,sek,ÇUVAL
+2679,Spoil,spoil,1.ZARAR VERMEK 2.ŞIMARTMAK
+2680,Bone,boun,KEMİK
+2681,Chalk,çolk,TEBEŞİR
+2682,Provocation,prıvıkeyşın,KIŞKIRTMA
+2683,Down Payment,davn peymınt,PEŞİN (Ödeme)
+2684,Listen,lisın,DİNLEMEK
+2685,Ticket,tikıt,BİLET
+2686,Fluent,flüınt,AKICI
+2687,Exchange,ıksçeync,DEĞİŞ TOKUŞ
+2688,Sterilize,sterilayz,KISIRLAŞTIRMA, MİKROPLARDAN ARITMA
+2689,Deaf,def,SAĞIR
+2690,Prize,prayz,ÖDÜL
+2691,Mention,menşın,BAHSETMEK
+2692,Crossroads,krosroudz,KAVŞAK
+2693,Account,ekaunt,HESAP
+2694,Respectable,rıspektıbl,SAYGIDEĞER
+2695,Bike,bayk,BİSİKLET
+2696,Crude,crud,PETROL  ( Crude oil=Ham petrol)
+2697,Experiment,ıksperımınt,DENEY
+2698,Crisp,krisp,1)İNCE 2)KAŞ
+2699,Erect,irekt,KALDIRMAK
+2700,Rain,reyn,YAĞMUR
+2701,Stream,striim,IRMAK
+2702,Illegal,illigıl,KANUNSUZ
+2703,Fetch,feç,GİDİP GETİRMEK
+2704,Corner,kornır,KÖŞE
+2705,Carefree,keyfri,ÖNEMSEMEYEN
+2706,Revenge,rivenc,ÖÇ ALMAK, İNTİKAM
+2707,Faith,feyth,1.İNANÇ  2.GÜVENMEK
+2708,Skull,skal,KAFATASI
+2709,Sneeze,sniiz,HAPŞIRMAK
+2710,Unhappy,anhepi,MUTSUZ
+2711,Pain,peyn,ACI, AĞRI
+2712,Mission,mişn,ÖZEL BİR GÖREV İÇİN YOLCULUK,MİSYON
+2713,Minute,mınıt,1.DAKİKA 2.ÇOK KÜÇÜK 3.ZABIT
+2714,January,cenueri,OCAK ( ayı )
+2715,Shout,şaut,BAĞIRMAK
+2716,Rabbit,rebit,TAVŞAN
+2717,Salary,selıri,MAAŞ
+2718,Madam,medım,MADAM, BAYAN
+2719,Film,film,FİLM
+2720,Massive,mesiv,ÇOK BÜYÜK VE AĞIR
+2721,Wisdom,wizdım,AKIL
+2722,Detach,dita?,AYIRMAK
+2723,Drive,draıv,ARABA KULLANMAK, SÜRMEK
+2724,Insect,insekt,BÖCEK
+2725,Cross,kros,1.KARŞIDAN KARŞIYA GEÇMEK,ÇAPRAZLAMA GİTMEK 2.HAÇ
+2726,Co-Operate,koopereyt,BİRLİKTE ÇALIŞMAK
+2727,Carrier,keriyır,TAŞIYICI
+2728,Wireless,wayılıs,TELSİZ
+2729,Aloud,elaud,SESLİ
+2730,Disco,disko,DİSKO
+2731,Expect,ekspekt,UMMAK,BEKLEMEK
+2732,Hostel,hastl,ÖĞRENCİ, TURİST KONAKLAMA YERİ
+2733,Abolition,ebolışın,KALDIRMAK
+2734,Mail,meyl,POSTA
+2735,Spell,spel,1.HARFLERİ SÖYLEMEK  2.BÜYÜLÜ SÖZCÜKLER
+2736,Cauliflower,koliflavır,KARNIBAHAR
+2737,Play,pley,1.OYNAMAK 2.ÇALMAK (bir müzik aletini)
+2738,Unfavourable,anfeyvırıbl,HOŞA GİTMEYEN
+2739,Unlikely,anlaykli,AZ İHTİMALLE
+2740,Minus,maynıs,EKSİ  ( - )
+2741,Ankle,enkl,AYAK BİLEĞİ
+2742,Wolf,wulf,KURT
+2743,Double,dabl,ÇİFT
+2744,Silo,saylo,SİLO, DEPO
+2745,Absurd,ebzörd,SAÇMA
+2746,Very,veri,ÇOK, TAM
+2747,Philosophy,fılosıfi,FİZOLOFİ
+2748,Meeting,miiting,TOPLANTI, MİTİNG
+2749,Mask,mesk,MASKE
+2750,Cough,kof,ÖKSÜRMEK
+2751,Lemon,lemın,LİMON
+2752,Skim,skim,KÖPÜK, YAĞINI ALMAK (Süt, yoğurt), ANA FİKRİ ALMAK
+2753,Visitor,vizitır,ZİYARETÇİ, KONUK
+2754,Explain,ıkspleyn,AÇIKLAMAK
+2755,Subsidy,sabsidiy,YARDIM, SÜBVANSİYON (Devletten)
+2756,Confidence,konfidıns,GÜVEN
+2757,Senior,sinyır,YAŞÇA VEYA KIDEMCE BÜYÜK
+2758,Retaliation,ritalieyşın,İNTİKAM, TEPKİ, MİSİLLEME
+2759,Remote,rimuut,UZAK
+2760,Spider,spaydır,ÖRÜMCEK
+2761,Forehead,forıd,ALIN
+2762,Connect,konekt,BİRLEŞTİRMEK
+2763,That,det,O
+2764,Thirtieth,thötith,OTUZUNCU
+2765,Revise,rıvayz,TEKRAR GÖZDEN GEÇİRİP DÜZELTMEK
+2766,Daily,deyli,GÜNLÜK
+2767,Talkative,tolkıtiv,KONUŞKAN
+2768,Per,pör,HER
+2769,Possibility,pasıbilıti,OLASILIK
+2770,Mosque,mosk,CAMİ
+2771,Convict,konvıkt,MAHKUM,SUÇLU
+2772,Locate,lokeyt,KURMAK,YERLEŞTİRMEK
+2773,Your,yoor,SENİN, SİZİN
+2774,Passive,pesiv,PASİF, EYLEMSİZ
+2775,Pull Up,pull ap,ARACI DURDURMAK
+2776,Bald,bold,KEL
+2777,Glass,glas,CAM, BARDAK
+2778,Direct,dırekt,1.DİREKT 2.YÖNLENDİRMEK, YOL VERMEK
+2779,Mean,miin,ORTALAMA
+2780,Pump,pamp,POMPA
+2781,Cushion,kuşın,YASTIK
+2782,V.I.P.,viaypi,(VERY IMPORTANT PERSON), ÇOK ÖNEMLİ KİŞİ
+2783,Grow,grow,BÜYÜMEK, YETİŞMEK
+2784,Mass,mes,KÜTLE, KİTLE, KALABALIK
+2785,Rest,rest,GERİYE KALAN
+2786,Fame,feym,ŞÖHRET, ÜN
+2787,Root,ruut,KÖK
+2788,Finance,faynens,FİNANS
+2789,Ton,tan,TON (1000 kg.)
+2790,Signature,signıçır,İMZA
+2791,Cash,keş,NAKİT
+2792,Dye,day,BOYA, BOYAMAK (Saç,kağıt vb.)
+2793,But,bat,FAKAT
+2794,Picket,pıkıt,GREV GÖZCÜSÜ, FABRİKA ÖNÜNDE BEKLEME
+2795,Impress,impres,ETKİLEMEK
+2796,Course,kors,1.GİDİŞAT  2.KURS
+2797,Afraid,efreid,KORKMAK
+2798,People,piipl,HALK
+2799,Relative,relıtiv,1.AKRABA 2.GÖRECELİ
+2800,Dark,dark,1.KARANLIK 2.KOYU 3.SİYAH TENLİ
+2801,Until,antil,KADAR (belli bir zamana kadar)
+2802,Organ,orgın,1.ORG 2.ORGAN 3.ORGANİZASYON, KURULUŞ
+2803,Pyjamas,pıcaamız,PİJAMA
+2804,Fade,feyd,SOLMAK
+2805,Certainly,sörtınli,KUŞKUSUZ
+2806,North,north,KUZEY
+2807,After,aftır,SONRA
+2808,Reliable,rilaybıl,GÜVENİLİR
+2809,Glad,gled,MEMNUN
+2810,Barber,baabır,BERBER
+2811,Globe,glob,KÜRE, DÜNYA
+2812,Velvet,velvıt,KADİFE
+2813,Stamp,stemp,AYAKLA BASMAK, EZMEK
+2814,Spectator,spekteytır,İZLEYİCİ (Ma? vb.)
+2815,Grip,grip,SIKICA TUTMAK
+2816,Area,eriya,ALAN, BÖLGE
+2817,Rent,rent,KİRALAMAK
+2818,Tower,tauır,KULE
+2819,Studio,stüudio,SÜTÜDYO
+2820,Blast,blast,PATLAYARAK PARÇALANMA, MAHVETMEK
+2821,Forthwith,forthvit,DERHAL, HEMEN
+2822,Leather,ledır,DERİ
+2823,Assume,esuym,VARSAYMAK
+2824,Design,dızayn,DİZAYN
+2825,Fork,fork,ÇATAL
+2826,End,end,SON, BİTİRMEK
+2827,Ordinary,oodnri,SIRADAN, NORMAL
+2828,Irritate,iriteyt,KIZDIRMAK, SİNİRLENDİRMEK, TAHRİŞ ETMEK (deri vb.)
+2829,Tone,ton,TON (SES,IŞIK vs.)
+2830,Pause,poz,MOLA, ARA
+2831,Chemical,kemıkl,KİMYASAL
+2832,Yolk,youk,YUMURTANIN SARISI
+2833,Tyre,tayr,LASTİK
+2834,Donate,doneyt,BAĞIŞ YAPMAK
+2835,Tape,teyp,BANT, SELOTEYP
+2836,Afford,eford,SATIN ALMA GÜCÜ OLMAK
+2837,Cigarette,sigıret,SİGARA
+2838,Agency,eycınsi,ACENTE
+2839,Pumpkin,pampkin,KABAK
+2840,Snub,snab,KÜÇÜMSEMEK,HAKİR GÖRMEK
+2841,Housewife,haus wayf,EV HANIMI
+2842,Hairdryer,herdrayır,SAÇ KURUTMA MAKİNASI
+2843,Bush,buş,ÇALI
+2844,Criminal,kriminl,SUÇLU (yasa önünde)
+2845,Balcony,belkıni,BALKON
+2846,Melody,melodi,EZGİ, MELODİ
+2847,Live,liv,YAŞAMAK
+2848,Prostitution,prostıtuşın,FUHUŞ
+2849,Beneath,bınith,ALTINDA
+2850,Especial,ıspeşl,ÖZEL, ÖNEMLİ
+2851,Chocolate,?aklıt,ÇİKULATA
+2852,Head,hed,BAŞ, KAFA
+2853,Broadcast,broodkast,YAYIN (radyo ve T.V. yoluyla)
+2854,Windpipe,windpayp,NEFES BORUSU
+2855,Thoughtless,thootlıs,DÜŞÜNCESİZ
+2856,Metal,metıl,METAL
+2857,Memorable,memırıbl,UNUTULMAYACAK
+2858,Use,yuus,1.KULLANIM  2.FONKSİYON
+2859,Harbour,harbır,LİMAN
+2860,Intend,intend,PLANLAMAK, MAKSAT, NİYET
+2861,Pill,pil,HAP
+2862,Pulse,pals,NABIZ, VURUŞ
+2863,Sailor,seylır,DENİZCİ
+2864,Shoot,şuut,1.ATEŞ ETME,ŞUT ATMA 2.FİLM ÇEKME 3.TOMURCUK
+2865,Aid,eyd,YARDIM
+2866,Break-Out,brek aut,1)ANİDEN BAŞLAMA,PATLAK VERME(SAVAŞ)2)KAÇMAK(HAPİS)
+2867,Sensitive,sensitiv,DUYARLI, ALINGAN
+2868,Tough,taf,ZOR, GÜÇ, SERT
+2869,Millet,milıt,DARI
+2870,With,with,İLE
+2871,Call,kol,1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET
+2872,Composition,kompızişın,KOMPOZİSYON, BİRLEŞİK
+2873,Interfere,interfir,1)KARIŞMA MÜDAHELE ETME 2)PARAZİT YAPMA (tv,radyo)
+2874,Well-Known,wel noun,ÜNLÜ, BİLİNEN
+2875,Equal,ikuıl,EŞİT
+2876,Transparent,tresperint,SAYDAM
+2877,Voyage,voyıc,DENİZ YOLCULUĞU
+2878,Shoelace,şuu leys,AYAKKABI BAĞI
+2879,Instruction,instrakşn,"YÖNERGE
+2880,Pipe,payp,1.BORU 2.PİPO 3.FLÜT
+2881,Kitchen,kiçın,MUTFAK
+2882,Flame,fleym,ALEV
+2883,Agent,eycınt,TEMSİLCİ, ARACI
+2884,Gas,ges,GAZ
+2885,March,març,1.MARŞ 2.YÜRÜYÜŞ 3.MART (ayı)
+2886,Minority,maynorıti,AZINLIK
+2887,Track,trek,İZ SÜRMEK, TAKİP ETMEK
+2888,Float,flout,YÜZMEK, BATMAMAK (mantar)
+2889,Drop,drop,1.DÜŞÜRMEK, DÜŞMEK, BIRAKMAK  2.DAMLA
+2890,How,haw,NASIL
+2891,Information,infımeyşın,BİLGİ, ENFORMASYON
+2892,Omelette,omlıt,OMLET
+2893,Remove,rimuuv,UZAKLAŞTIRMAK
+2894,Benefit,benıfit,YARARI OLMAK
+2895,Demoralize,dimorılayz,CESARETİNİ KIRMAK, MORAL BOZMAK
+2896,Severe,sıviır,SERT, CİDDİ
+2897,Lot,lot,ÇOK
+2898,Violin,vaılın,KEMAN
+2899,Waterfall,wotırfol,ŞELALE
+2900,Hard,hard,SERT, ZOR, BELALI, KÖTÜ
+2901,Seed,siid,1.TOHUM 2.ÇEKİRDEK
+2902,Late,leyt,1.GEÇ  2.SONU (late september=eylül sonu v.b)
+2903,Withdraw,withdro,1.ÇEKMEK  2.GERİ ÇEKİLMEK  3.SIZMAK
+2904,Jelly,celi,JÖLE
+2905,Sugar,şugır,ŞEKER
+2906,Button,batn,DÜĞME
+2907,Cotton,kotn,PAMUK
+2908,Guess,ges,TAHMİN ETMEK
+2909,Tooth Pick,tuuth pik,KÜRDAN
+2910,Commission,kamişın,1)ATAMAK,GÖREVLENDİRMEK 2)KOMİSYON (kurul,ücret)
+2911,Duckling,dakling,KÜÇÜK ÖRDEK
+2912,Penalty,penılti,CEZA
+2913,Bottom,botım,EN ALT, DİP
+2914,Weapon,wepın,SİLAH
+2915,Tempt,tempt,CEZBETMEK, ŞEYTANA UYDURMAK
+2916,Enormous,inormiyus,KOCAMAN, İRİ
+2917,Regulation,reguleyşın,YÖNETMELİK, YASA
+2918,Steak,steyk,BONFİLE
+2919,Exit,eksit,ÇIKIŞ, ÇIKMAK
+2920,Vice,vays,1)YARDIMCI, LİDERİN YARDIMCISI 2)MENGENE
+2921,Theatre,thiıtır,TİYATRO
+2922,Hair,heyr,1.SAÇ  2.HAYVAN TÜYÜ
+2923,Bank,benk,BANKA
+2924,Anticipate,entisipeyt,1)ÖN GÖRMEK 2)BEKLEMEK
+2925,Jacket,cekıt,CEKET
+2926,Rather,radır,EPEY, ÇOK DEĞİL
+2927,Ask,esk,SORMAK, İSTEMEK
+2928,Hold,hold,TUTMAK, KAVRAMAK
+2929,Hijack,haycek,KORSANLIK YAPMAK (uçak,araba,v.s.)
+2930,Parent,perınt,ANA BABA
+2931,Dad,ded,BABA
+2932,Thumb,tham,EL, BAŞ PARMAĞI
+2933,Window,windou,PENCERE
+2934,Exactly,ıgzekli,KESİN OLARAK
+2935,Critical,kritikıl,KRİTİK
+2936,At,et,DE..DA  eki
+2937,Parcel,paasl,PARÇA
+2938,Polite,pılayt,KİBAR
+2939,Provide,provayd,SAĞLAMAK, TEDARİK ETMEK
+2940,Halt,halt,DUR
+2941,Scare,skeir,KORKUTMAK
+2942,Thread,thred,İP, İPİ İĞNEYE TAKMAK
+2943,Meantime,miintaym,BU ARADA
+2944,This,dis,BU
+2945,Clear,kliır,1.AÇIK, BERRAK, ANLAŞILAN  2.(ortalığı) TOPLAMAK
+2946,Astonish,estoniş,ŞAŞIRMAK (bir kimseye)
+2947,Supply,sıplay,SAĞLAMAK, MİKTAR
+2948,Remit,rimit,1)AFFETMEK,BAĞIŞLAMAK2)POSTAYLA PARA YOLLAMA-Havale
+2949,Saturday,setırdey,CUMARTESİ
+2950,Murder,mördır,CİNAYET
+2951,Policy,palısi,1.POLİÇE  2.YÖNETİM İLKESİ, POLİTİKA
+2952,Accurate,ekürıt,DOĞRU, HATASIZ
+2953,Chilli,ciliy,ÇOK ACI
+2954,Nasty,nasti,PİS, KÖTÜ KOKULU, HOŞ OLMAYAN
+2955,Egg,eg,YUMURTA
+2956,Intense,intens,DERİN ÜZÜNTÜ, GÜÇLÜ DUYGU
+2957,Notorious,nutoriyus,KÖTÜ ÜNLÜ, KÖTÜ ÜN
+2958,Inquire,inkwayr,ARAŞTIRMAK
+2959,Widow,wıdou,DUL
+2960,Prisoner,priznır,1.MAHKUM 2.ESİR
+2961,Coconut,kokonat,HİNDİSTAN CEVİZİ
+2962,Order,oordır,1.EMİR 2.SİPARİŞ 3.DÜZEN, SIRA
+2963,Suffer,safır,ACI ÇEKMEK
+2964,Sort,sort,ÇEŞİT
+2965,Lead,led,1.KURŞUN (metal)  2.KURŞUN KALEM UCU
+2966,Sack,sek,KOVMAK, İSTİFAYA ZORLAMAK
+2967,Forget,fıget,UNUTMAK
+2968,Hug,hag,SARILMAK,KUCAKLAMAK
+2969,Birth,börth,DOĞUM
+2970,Nice,nays,HOŞ
+2971,Milk,milk,SÜT
+2972,Own,on,SAHİP OLMAK
+2973,Sweep,swiip,SÜPÜRMEK
+2974,Backbone,bekbon,1)OMURGA 2)TEMEL TAŞI, EN ÖNEMLİ BÖLÜM
+2975,Bread,bred,EKMEK
+2976,Donor,donır,BAĞIŞ YAPAN,İYİLİK SEVER (organ, okul bağışı vb.)
+2977,Lip,lip,DUDAK
+2978,Educate,ecukeyt,EĞİTİM
+2979,Hill,hil,TEPE, YOKUŞ
+2980,Brief,briif,KISA, ÖZETLİ
+2981,Detective,dıdektiv,DEDEKTİF
+2982,Kidney,kidniy,BÖBREK
+2983,Foolish,fuuliş,APTALCA
+2984,Skill,skil,YETENEK
+2985,Funny,fani,1.KOMİK  2.GARİP
+2986,Manual,menyul,EL İLE YAPILAN
+2987,Bag,beg,ÇANTA
+2988,Abuse,ebyus,KÖTÜYE KULLANMA, SUİSTİMAL ETME,KÖTÜ SÖYLEME
+2989,Beautiful,büutiful,GÜZEL
+2990,Dispute,dıspüut,ANLAŞMAZLIK
+2991,Raise,reyz,1.YÜKSELTMEK 2.ZAM YAPMAK 3.YETİŞTİRMEK
+2992,Part,part,KISIM, BÖLÜM ,AYIRMAK
+2993,Supervise,süpervayz,DENETLEME, GÖZLEM
+2994,Bony,boni,ÇOK ZAYIF
+2995,Anger,engır,KIZMAK
+2996,Despair,dıspeır,ÜMİTSİZLİK
+2997,Forest,forıst,ORMAN
+2998,Pullover,pulouvır,1.KAZAK  2.ARABAYI DURDURMAK, KENARA ÇEKMEK
+2999,Although,oldo,1.GERÇİ 2.OLMAKLA BERABER
+3000,Hate,heyt,NEFRET
+3001,Only,ounli,SADECE, YALNIZCA
+3002,Scramble,skrımbıl,1)ÇIRPMAK 2)HIZLI HAREKET VEYA TIRMANIŞ
+3003,Friend,frend,ARKADAŞ
+3004,Expert,ekspört,BİLİRKİŞİ, UZMAN, EKSPER
+3005,Theory,thiori,TEORİ
+3006,Informal,infoomıl,RESMİ OLMAYAN,GAYRI RESMİ
+3007,Narrate,nıreyt,ANLATMAK, SÖYLEMEK
+3008,Comfortable,kanfırtıbıl,KONFORLU
+3009,Pool,puul,HAVUZ
+3010,Sock,sak,1)ÇORAP 2)VURMAK,KIRMAK 3)PUT A SOCK IN IT = SUSMAK
+3011,Servant,sörvınt,HİZMETÇİ
+3012,Absent,ebsınt,1.YOK 2.EKSİK
+3013,Page,peyc,SAYFA
+3014,Material,metıriıl,MALZEME, KUMAŞ
+3015,Eyebrow,aybrau,KAŞ
+3016,Triumph,trayamf,ZAFER, UTKU
+3017,Election,ılekşın,SEÇİM
+3018,Income,inkım,GELİR
+3019,Angry,engri,KIZGIN
+3020,Despite,dıspayt,RAĞMEN
+3021,High,hay,YÜKSEK
+3022,Ill,il,HASTA, HASTALIK
+3023,Part-Time,part taym,YARIM GÜN
+3024,Twist,twist,ÇEVİRMEK(kuvvetlice), KIVIRMAK,BURKULMAK
+3025,Singular,singulır,ACAİP, TEK, EŞSİZ
+3026,Foam Rubber,fom rabır,SÜNGER
+3027,Buy,bay,SATIN ALMAK
+3028,Cement,sıment,ÇİMENTO
+3029,Defeat,dıfiit,KAYBETMEK (oyunda,savaşta,vs.)
+3030,Rifle,rayfıl,TÜFEK
+3031,Participate,partısipeyt,BAŞKALARIYLA BİRLİKTE ÇALIŞMA, OYNAMA, KATILMA
+3032,Lift,lift,1.ASANSÖR 2.YUKARI KALDIRMAK
+3033,Semi,semi,YARI
+3034,Defence,difens,SAVUNMA, DEFANS
+3035,Allowance,elauıns,DÜZENLİ SAĞLANAN PARA,HARÇLIK
+3036,Administration,edminıstreyşın,İDARE
+3037,Store,stoor,DÜKKAN, DEPOLAMAK
+3038,Conscience,konşıns,VİCDAN, BİLİNÇ
+3039,Life,layf,YAŞAM, HAYAT
+3040,Variety,verayıti,1.FARK  2.ÇEŞİTLİLİK, ÇEŞİT
+3041,Word,wööd,SÖZCÜK, KELİME
+3042,Wig,wig,PERUK
+3043,Small,smol,KÜÇÜK, UFAK
+3044,Certain,sörtın,KESİN,BELİRLİ,  EMİN OLMAK
+3045,Employee,ımployi,ÇALIŞTIRILAN ADAM
+3046,Overcome,ouvıkam,ÜSTESİNDEN GELMEK
+3047,Sausage,sosı?,SOSİS
+3048,Describe,dıskrayb,TANIMLAMAK, BETİMLEMEK
+3049,Propose,propouz,1.PLANINI AÇIKLAMAK 2.EVLİLİK TEKLİF ETMEK
+3050,Domestic,dımestik,EVCİL, EVE AİT, İÇSEL
+3051,Subtract,sabtrekt,ÇIKARMAK (6-3=3)
+3052,Insult,insalt,HAKARET ETME, ONUR KIRMA
+3053,Zone,zon,BÖLGE
+3054,Oar,or,KÜREK
+3055,Copy,kopi,KOPYALAMAK, TAKLİT ETMEK
+3056,Slight,slayt,ÖNEMSİZ, KÜÇÜK
+3057,Arrest,erest,TUTUKLAMAK
+3058,Flood,flad,SEL
+3059,Aggressive,egresiv,SALDIRGAN, KAVGACI
+3060,Axe,eks,BALTA
+3061,Cabinet,kebınıt,KABİNE
+3062,Cannon,kenın,TOP (silah)
+3063,Travel,trevl,YOLCULUK YAPMAK
+3064,History,histri,TARİH
+3065,Components,kımponınt,UNSUR, PARÇA, BİLEŞİMDE BULUNAN
+3066,Role,roul,ROL
+3067,Complicated,komplıkeytıd,KARIŞIK,KOMPLİKE
+3068,Pick,pik,TOPLAMAK, SEÇMEK
+3069,Pardon,paadn,PARDON
+3070,Plane,pleyn,UÇAK
+3071,Turkey,törki,1.HİNDİ  2 TÜRKİYE
+3072,Around,eraund,1.AŞAĞI YUKARI 2.ÇEVRE
+3073,Snail,sneyl,SÜMÜKLÜBÖCEK
+3074,Fate,feyt,KADER
+3075,Code,kod,KOD
+3076,Torch,tor?,1)MEŞALE 2)EL FENERİ
+3077,Cherry,çeri,KİRAZ
+3078,Column,kolım,SÜTUN
+3079,Sore,soor,AĞRI VERİCİ
+3080,Well,wel,1.İYİ 2.KUYU
+3081,Hungry,hangri,AÇ
+3082,Headache,hedeyk,BAŞ AĞRISI
+3083,Court,kort,1.MAHKEME  2.KORT
+3084,Generous,cenrıs,CÖMERT
+3085,Man,men,ADAM
+3086,Ground,graund,YER, TOPRAK
+3087,Bulb,balb,AMPUL
+3088,Since,sins,1.'...DEN BERİ 2.ÇÜNKÜ
+3089,Or,or,VEYA
+3090,Urge,ööc,DÜRTME, (ısrar ederek ) YAPTIRMA ,ZORLAMAK
+3091,Living,living,YAŞAM BİÇİMİ
+3092,Tan,ten,TEN RENGİ
+3093,Absolute,ebsolut,MUTLAK, KESİN
+3094,Disease,diziiz,HASTALIK
+3095,View,viu,GÖRÜNÜM, MANZARA
+3096,Pessimist,pesimist,KÖTÜMSER
+3097,Capital,kepıtl,1.BAŞKENT 2.BÜYÜK HARF 3.SERMAYE, ANAMAL
+3098,Relax,rileks,RAHATLAMAK, GEVŞEMEK
+3099,Eager,iigır,İSTEKLİ
+3100,Sandwich,sendwic,SANDVİÇ
+3101,Front,frant,ÖN
+3102,Holy,holi,KUTSAL
+3103,Purpose,pöpıs,AMAÇ
+3104,Soil,soil,TOPRAK
+3105,Maniac,meniyak,MANYAK
+3106,Penknife,pen nayf,ÇAKI
+3107,Study,stadi,ÇALIŞMAK, OKUMAK, İNCELEMEK
+3108,Oyster,oistır,İSTİRİDYE
+3109,Rob,rob,1.SOYGUN YAPMAK
+3110,Thus,das,BÖYLE, BÖYLECE
+3111,December,dısembır,ARALIK (ayı)
+3112,Sofa,soufı,DİVAN , SOFA
+3113,Interesting,intresting,İLGİNÇ
+3114,Terrace,terıs,BİTİŞİK EVLER
+3115,Nature,neyçır,DOĞA
+3116,Consume,kınsyuum,TÜKETMEK
+3117,Snow,snou,KAR
+3118,Senseless,senslıs,1.APTALCA 2.BİLİNÇSİZ
+3119,Slow,slou,YAVAŞ, YAVAŞLAMAK
+3120,Torture,tor?ır,İŞKENCE, İŞKENCE ETMEK
+3121,Time,taym,1.ZAMAN 2.KERE 3.ZAMANLAMAK
+3122,Soft,soft,YUMUŞAK
+3123,Editor,editır,EDİTÖR
+3124,Pincers,pin?ırs,1)KERPETEN 2)KISKAÇ (Yengecin v.b.)
+3125,Visit,vizit,ZİYARET ETMEK
+3126,Behave,biheyv,DAVRANMAK
+3127,Scarce,skers,KIT
+3128,Volcano,volkeno,VOLKAN,YANARDAĞ
+3129,Golden,gouldın,ALTINDAN
+3130,Gossip,gosip,DEDİKODU YAPMAK, DEDİKODU
+3131,Pie,pay,PASTA, BÖREK
+3132,Serviette,sörviyet,PEÇETE
+3133,Brand,brend,1)MARKA 2)LEKELEMEK,KÖTÜ ÜN
+3134,Arrow,erov,OK
+3135,Surname,sörneym,SOYADI
+3136,Insecure,insikuır,EMNİYETSİZ
+3137,Sale,seyl,SATIŞ
+3138,Any,eni,HERHANGİ
+3139,Author,othır,YAZAR
+3140,Proposal,propouzl,PLAN, ÖNERİ
+3141,Select,sılekt,SEÇMEK
+3142,Ever,evır,HERHANGİ BİR ZAMAN
+3143,Dirty,dörti,KİRLİ
+3144,Computer,kompitür,KOMPÜTÜR,BİLGİSAYAR
+3145,Cultivate,kaltıveyt,TOPRAKLA UĞRAŞMAK
+3146,Slice,slays,DİLİM, DİLİMLEMEK
+3147,East,iist,DOĞU
+3148,Newspaper,nüuspeypır,GAZETE
+3149,Red,red,KIRMIZI, KIZIL
+3150,Admiral,edmirıl,AMİRAL
+3151,Snake,sneyk,YILAN
+3152,Harmful,harmful,ZARARLI
+3153,Smooth,smuuth,DÜZGÜN, YUMUŞAK
+3154,Fat,fet,1.ŞİŞMAN 2.YAĞ (vücut et yağı)
+3155,Understand,andıstend,ANLAMAK
+3156,Brooch,broş,BROŞ, İĞNE
+3157,Timetable,taymteybıl,(zaman) TARİFESİ (gemi,uçak v.b)
+3158,Compensate,kompınseyt,TELAFİ ETMEK,KARŞILAMAK
+3159,Bladder,bledır,1) MESANE, KESE, SİDİK TORBASI 2)İÇ LASTİK
+3160,Above,ebav,YUKARIDAKİ
+3161,Lid,lid,KAPAK
+3162,Customs,kastımz,GÜMRÜK
+3163,Stock,stok,1.STOK, STOK YAPMAK 2.HİSSE SENEDİ
+3164,Check,çek,KONTROL ETMEK
+3165,Sell,sell,SATMAK
+3166,Vain,veyn,GEREKSİZ, BOŞUNA
+3167,Distinguish,distinguwiş,AYIRT ETME ( bir özelliğinden dolayı )
+3168,Footprint,futprint,AYAK İZİ
+3169,Privilege,privılı?,İMTİYAZ
+3170,Unemployment,animploymınt,İŞSİZLİK
+3171,Sleeve,sliiv,ELBİSE KOLU,SLEEVELESS = KOLSUZ (elbise,bluz v.b)
+3172,Accent,eksınt,ŞİVE, AKSAN
+3173,Memorandum,memırendım,NOT
+3174,Luck,lak,ŞANS
+3175,Evening,ivning,AKŞAM
+3176,Wind,wind,RÜZGAR
+3177,Old-Fashioned,old feyşınd,ESKİ MODA
+3178,Found,faund,İNŞA ETMEK VEYA BAŞLAMAK
+3179,Elementary,elımentri,TEMEL, BAŞLANGIÇ İÇİN
+3180,Fever,fivır,ATEŞ (vücut)
+3181,Thunderstorm,thandıstorm,FIRTINA
+3182,Armour,armır,ZIRH
+3183,Thursday,thözdey,PERŞEMBE
+3184,Chase,?eys,KOVALAMAK
+3185,Extension,ıkstenşn,GENİŞLETME, BÜYÜTME
+3186,Reach,riiç,ERİŞMEK
+3187,Idiot,idyıt,APTAL
+3188,Burglar,börglır,HIRSIZ
+3189,Deceive,dısiiv,KANDIRMAK
+3190,Stripe,strayp,1.ŞERİT,ÇİZGİ  2.KIRBAÇ CEZASI
+3191,Post,poust,1.POSTA  2.İŞARET  3.DEVRİYE GEZMEK (askerde)
+3192,Large,larc,GENİŞ
+3193,Circular,sörkulır,YUVARLAK, ÇEMBERSEL, SİRKÜLER (imza v.b)
+3194,Consider,konsidır,1.GÖZ ÖNÜNE ALMAK  2.DÜŞÜNMEK
+3195,Breathe,brith,NEFES ALMAK
+3196,Route,ruut,ROTA
+3197,Excite,ıksayt,HEYECANLANDIRMAK
+3198,Reward,riword,ÖDÜL
+3199,Elastic,ılestik,ELASTİK
+3200,Brave,breyv,KORKUSUZ, CESUR
+3201,Beach,biiç,SAHİL
+3202,Sunshine,sanşayn,GÜNEŞ IŞIĞI
+3203,Channel,?enıl,KANAL (TV, radyo gibi.)
+3204,Correct,korekt,1.HATASIZ  2.DÜZELTMEK
+3205,Headphone,hedfon,KULAKLIK
+3206,Surrender,sırendır,TESLİM OLMAK (To yield)
+3207,Option,opşın,SEÇME, SEÇENEK, OPSİYON
+3208,Consent,kınsent,KABUL ETME,ONAYLAMA
+3209,Alive,elaıv,YAŞAMAK,CANLI
+3210,School,skuul,OKUL
+3211,Radiator,reydieytır,RADYATÖR
+3212,Bell,bel,ZİL, ÇAN
+3213,Pleasant,pleznt,KEYİFLİ, ZEVKLİ
+3214,Swing,swing,1.SALLANMAK  2.GÜÇLÜ RİTİM
+3215,Magazine,magızin,1)SİLAH DEPOSU 2)MAGAZİN 3)ŞARJÜR (SİLAHIN)
+3216,Away,evey,BURADAN, BURADA DEĞİL
+3217,Marry,meri,EVLENMEK
+3218,If,if,EĞER
+3219,Amend,emend,DÜZELME, AYARLAMA
+3220,Rule,ruul,1.YÖNETMEK 2.KURAL
+3221,Heavy,hevi,AĞIR
+3222,Abroad,ebrod,YURT DIŞI
+3223,Insist,insist,ISRAR ETMEK
+3224,Apparent,eperınt,"AÇIK
+3225,Label,leybl,ETİKET
+3226,Lamp,lemp,LAMBA
+3227,Terrific,tırifik,1.KOCAMAN 2.ÇOK GÜZEL
+3228,Boring,boring,SIKICI (I'm bored=Sıkıldım,I'm boring=Sıkıcıyım)
+3229,Exceed,iksid,AŞIRI
+3230,On,an,ÜZERİNDE
+3231,Condemn,kındem,1)CEZALANDIRMAK 2)MAHKUM ETMEK(veya zorunlu kılmak)
+3232,Roll,rol,YUVARLANMAK
+3233,Clap,klep,ALKIŞLAMAK
+3234,Active,ektiv,ETKİN, FAAL
+3235,Outside,autsayd,DIŞARI
+3236,Exhaust,igzoost,1)YORULMA,BİTME 2)EGZOS
+3237,Endorsement,indoosmınt,TASTİK,ONAY,CIRO
+3238,Talent,telınt,1)KABİLİYET (ÜSTÜN) 2)SEKSİ CAZİBESİ OLAN KADIN
+3239,Peanut,pinat,YER FISTIĞI
+3240,Oak,ook,MEŞE
+3241,Groom,gruum,DAMAT
+3242,Take,teyk,TUTMAK,ALMAK,TAKE OFF=elbise çıkarmak,uçak kalkması
+3243,Television,telıvijn,TELEVİZYON
+3244,Totally,toutıli,BÜTÜNÜYLE
+3245,Borrow,borou,ÖDÜNÇ ALMAK
+3246,Who,hu,KİM
+3247,Good-Looking,gud luking,İYİ GÖRÜNÜMLÜ, YAKIŞIKLI
+3248,Heir,eır,MİRASÇI
+3249,Temperature,temprıçır,SICAKLIK
+3250,Big,big,BÜYÜK
+3251,Eel,iil,YILAN BALIĞI
+3252,Row,rou,KÜREK ÇEKMEK
+3253,Butcher,butçır,KASAP
+3254,Unless,anles,OLMADIKÇA
+3255,Maintain,meynteyn,1)BAKIM ONARIM 2)ESKİ HALİNDE KORUMA 3)DESTEKLEME
+3256,Develop,dıvelop,GELİŞMEK, BÜYÜMEK, RESİM BASMAK
+3257,Drawn,droovn,BOĞULMAK
+3258,Gosh,goş,HAYRET!...
+3259,Lettuce,letıs,SALATA, KIVIRCIK
+3260,Inflation,infleyşın,ENFLASYON
+3261,Support,sıport,TAŞIMAK, YARDIM ETMEK, TARAF TUTMAK, DESTEKLEMEK
+3262,Nothing,nathing,HİÇBİR ŞEY
+3263,Carrot,kerıt,HAVUÇ
+3264,Dessert,dızört,TATLI (yiyecek)
+3265,Mutual,müu?ul,MÜŞTEREK,İKİ TARAFLI (mutual friend=ortak arkadaş)
+3266,Like,layk,1. HOŞLANMAK  2.GİBİ
+3267,Worm,wörm,SOLUCAN
+3268,Banknote,benknot,KAĞIT PARA
+3269,Present,preznt,BURADA, MEVCUT, ŞİMDİKİ, ARMAĞAN
+3270,Forever,fırevır,DEVAMLI OLARAK
+3271,Vital,vaytıl,ÇOK ÖNENEMLİ
+3272,Line,layn,ÇİZGİ, SATIR, SIRA
+3273,Wager,wacır,İDDİAYA GİRMEK
+3274,Sound,saund,GİBİ GELMEK
+3275,Basin,beysn,KAZAN
+3276,Boy,boy,ERKEK ÇOCUK
+3277,Costly,kostli,PAHALI
+3278,Steal,stiil,ÇALMAK
+3279,Foul,fol,PİS, KİRLİ
+3280,Peasant,peznt,ÇİFTÇİ, KÖYLÜ KESİM
+3281,Consultation,konslteyşın,TOPLANTI, KONSÜLTASYON
+3282,Captain,keptın,1.KAPTAN  2.YÜZBAŞI
+3283,Occupy,aküpay,İŞGAL ETMEK, OTURMAK, KAPLAMAK, MEŞGUL ETMEK
+3284,Corpse,korps,CESET
+3285,Comparatively,kımpırativli,MUKAYESELİ OLARAK
+3286,Family,femıli,AİLE, FAMİLYA
+3287,Head Quarters,hedkuartırs,MERKEZ,KARARGAH
+3288,Fresh,freş,TAZE
+3289,Persuade,pörsweyd,İKNA ETMEK
+3290,Level,levl,DÜZEY, SEVİYE
+3291,Mute,müut,1)SESİZ 2)DİLSİZ
+3292,Demand,dimend,İSTEK, TALEP, İHTİYAÇ
+3293,Reason,riizn,1.NEDEN  2.AKIL
+3294,Castle,kesl,KALE
+3295,Desert,dezırt,1.ÇÖL 2.TERK ETMEK(haksız yere)
+3296,Apricot,eprikot,KAYISI
+3297,Landlady,lendleydi,EVSAHİBİ BAYAN, EVİNİ KİRAYA VEREN
+3298,Hourly,auıli,SAAT BAŞI
+3299,Destination,destıneyşın,VARIŞ NOKTASI
+3300,Knob,nob,TOKMAK, TUTACAK
+3301,And,end,VE
+3302,Devil,devl,ŞEYTAN
+3303,Network,netwörk,ŞEBEKE,ÇALIŞMA AĞI
+3304,Bath,bath,YIKANMAK
+3305,Capacity,kpasiti,KAPASİTE
+3306,Lead,liid,ÖNDERLİK ETMEK,ÖNDE GİTMEK,  YOL GÖSTERMEK
+3307,Prejudice,precıdis,ÖNYARGI
+3308,West,west,BATI
+3309,Yet,yet,HALA, ŞİMDİYE KADAR, HENÜZ
+3310,Colonel,körlnıl,ALBAY
+3311,Serve,sörv,1.HİZMET ETMEK 2.SERVİS YAPMAK
+3312,Sharp Shooter,şarpşutır,KESKİN NİŞANCI
+3313,Upward,apwıd,YUKARIYA DOĞRU
+3314,Skate,skeyt,BUZ PATENİ, PATEN AYAKKABISI
+3315,Grey,grey,GRİ
+3316,Safe,seyf,1.GÜVENLİ, EMİN 2.KASA
+3317,Examine,ıgzamin,İNCELEMEK, SINAV VERMEK
+3318,Fund,fand,FON, KULLANABİLİNİR MALİ KAYNAK
+3319,Political,pılitikl,POLİTİK
+3320,Damp,demp,NEMLİ
+3321,Assist,esist,YARDIM ETMEK
+3322,Greeting,griiting,KUTLAMA
+3323,Intermediate,intımidiıt,ARADA
+3324,Complain,kımpleyn,YAKINMAK, ŞİKAYET ETMEK
+3325,Luxury,lakşıri,LÜKS
+3326,Freeze,friz,DONMAK
+3327,Feel,fiil,HİSSETMEK
+3328,Secret,sikrıt,GİZ, SIR
+3329,Coal,kol,KÖMÜR
+3330,Elegant,elıgınt,ŞIK
+3331,Photo,foutou,FOTOĞRAF
+3332,Glove,glav,ELDİVEN
+3333,Turn,törn,DÖNMEK, DÖNÜŞ 2.It's your turn=Sıra sende
+3334,Conscious,konşıs,BİLİNÇLİ
+3335,Stone,stoun,1.TAŞ  2.MEYVE ÇEKİRDEĞİ  3.(6.3)Kg.
+3336,Heaven,hevın,CENNET
+3337,Yard,yard,AVLU
+3338,Saucepan,soospen,TAVA
+3339,Nail,neyl,1.TIRNAK  2.ÇİVİ
+3340,Bold,bould,CÜRETKAR, UTANMAZ, KORKUSUZ vs.
+3341,Lame,leym,TOPAL
+3342,Prosecute,prasıkyut,TAKİP ETMEK, KAVUŞTURMAK, DAVA AÇMAK, SUÇLAMAK
+3343,Tobacco,tıbakou,TÜTÜN
+3344,Tomorrow,tımarou,YARIN
+3345,Here,hiır,BURASI, BURADA, BURAYA
+3346,Glue,glu,YAPIŞTIRICI
+3347,Anxious,enkşıs,ENDİŞELİ
+3348,Faint,feynt,1.SOLGUN,ZAYIF 2.BAYILMAK
+3349,Shampoo,şempuu,ŞAMPUAN, BAŞ YIKAMAK
+3350,Mustard,mastırd,HARDAL
+3351,Resume,rızuum,YENİDEN BAŞLAMAK
+3352,Cab,keb,TAKSİ
+3353,Crop,krop,ÜRÜN (toprak ürünü)
+3354,Forecast,forkast,TAHMİN
+3355,Continuous,kontinuıs,SÜREKLİ
+3356,Referee,refiri,HAKEM
+3357,Oblige,ıblayc,1)ZORUNLU KILMAK 2)MİNETTAR KILMAK3)YAPMAK,SAĞLAMAK
+3358,Dream,driim,DÜŞ, HAYAL, RÜYA, RÜYA GÖRMEK
+3359,Remarkable,rımarkıbl,DİKKATE DEĞER
+3360,Reception,risepşn,1.RESMİ DAVET 2.RESEPSİYON
+3361,Impression,impreşn,ETKİ
+3362,Dismay,dismey,KORKU, DEHŞET
+3363,Exclaim,ikskleym,BAĞIRMAK
+3364,Map,mep,HARİTA
+3365,Village,vilıc,KÖY
+3366,Wallet,walıt,CÜZDAN
+3367,Vocabulary,vıkebyulıri,KELİME DAĞARCIĞI
+3368,Cheek,?iik,1)YANAK 2)POPO
+3369,Embark,imbark,1)GEMİ YADA UÇAKLA GİTMEK 2)BİRŞEY YAPMAYA BAŞLAMAK
+3370,Trousers,trauzız,PANTOLON
+3371,Shirt,şört,GÖMLEK
+3372,Restaurant,restrant,RESTORAN, LOKANTA
+3373,Commit,kımit,SUÇ İŞLEMEK (To commit murder)
+3374,Sincere,sinsiır,İÇTEN, SAMİMİ, SAHTE OLMAYAN
+3375,Jam,cem,1.REÇEL 2.SIKIŞIKLIK  (tfaffic jam )
+3376,Friendly,frendli,DOSTÇA
+3377,Whisper,wispır,FISILDAMAK, FISILDAŞMAK
+3378,Inflate,infleyt,ŞİŞMEK
+3379,Tease,tiiz,1)KIZDIRMA,YÜZ VERİP SONRA SIRT ÇEVİRME2)KABARTMA(SA
+3380,Mud-Guard,madgard,ÇAMURLUK
+3381,Urgent,ööcınt,ACİL
+3382,Split,split,İKİYE BÖLMEK
+3383,Mate,meyt,ARKADAŞ
+3384,Inside,insayd,İÇERİSİ
+3385,Cloakroom,kloukrum,VESTİYER, TUVALET
+3386,Coach,kouç,1.ANTRENÖR 2.YOLCU VAGONU 3.ŞEHİRLERARASI OTOBÜS
+3387,Put,put,KOYMAK
+3388,Hop,hap,SIÇRAMAK, ZIPLAMAK ,SEKMEK
+3389,Allocate,elıkeyt,TAHSİS ETMEK, DAĞITMAK,BÖLÜŞTÜRMEK
+3390,Loan,lon,ÖDÜNÇ VERMEK, BORÇ VERMEK, BORÇ
+3391,Tell,tel,ANLATMAK, SÖYLEMEK
+3392,Balance,belıns,1.DENGE 2.BAKİYE
+3393,Inform,infoom,BİLGİ VERMEK
+3394,Average,evirıç,ORTALAMA
+3395,Somewhere,samweır,BİR YER
+3396,Promise,promis,SÖZ VERMEK
+3397,Silent,saylınt,SESSİZ, SAKİN
+3398,Before,bifor,ÖNCE
+3399,Blood,blad,KAN
+3400,Animal,enimıl,HAYVAN
+3401,Believe,bıliiv,İNANMAK
+3402,Waste,weyst,1.ARTIK, GEREKSİNİM DUYULMAYAN  2.BOŞA HARCAMAK
+3403,Cork,kook,MANTAR ,(Cork-screw :mantar açacağı)
+3404,Gun,gan,SİLAH
+3405,Picture,pikçır,RESİM
+3406,Beforehand,bifor hend,ÖNCEDEN
+3407,Delicate,delikıt,NAZİK
+3408,Hospital,haspitl,HASTANE
+3409,Fortune,forçın,1.SERVET  2.ALIN YAZISI 3.TALİH
+3410,Beard,bıed,SAKAL
+3411,Talk,tolk,KONUŞMA, KONUŞMAK
+3412,Proud,praud,GURURLU
+3413,Explanation,eksplıneyşın,AÇIKLAMA
+3414,Strong,strong,GÜÇLÜ
+3415,Amateur,emıtör,AMATÖR
+3416,Vein,veyn,DAMAR
+3417,Cope,kop,BAŞA ÇIKMAK,AYAK UYDURMAK
+3418,Pink,pink,PEMBE
+3419,Comb,kom,TARAK
+3420,Short Cut,şortkat,KESTİRME
+3421,Start,start,BAŞLAMAK, BAŞLANGIÇ
+3422,Estate,ısteyt,1) STEYŞIN ARABA 2) MAL, MÜLK, ARSA
+3423,Smile,smayl,GÜLÜMSEMEK
+3424,Summary,samiri,ÖZET
+3425,Appointment,eppointmınt,1.RANDEVU 2.ATAMA
+3426,Gather,gedır,1.TOPARLAMAK, TOPLANMAK 2.ANLAMAK
+3427,Owl,aul,BAYKUŞ
+3428,Reverse,rivörs,TERS, ARKA (reverse gear = geri vites)
+3429,Carnival,karnivıl,KARNAVAL
+3430,Pressure,preşır,BASINÇ, BASKI
+3431,Fortnight,fortnayt,İKİ HAFTA, ONDÖRT GÜN
+3432,Pity,piti,ACIMAK (What a pity : Ne yazık)
+3433,Run,ran,1.KOŞMAK 2.ÇALIŞTIRMAK (fabrika,şirket v.b)
+3434,Plum,plam,1)ERİK 2)BONBON SEKERİ
+3435,About,ebaut,1.HAKKINDA 2.YAKLAŞIK OLARAK
+3436,Disagree,disıgrii,ANLAŞAMAMAK, UYUŞMAMAK
+3437,Effect,ıfekt,ETKİ
+3438,Manager,menıcır,YÖNETİCİ, MENAJER
+3439,Cardigan,kardigın,HIRKA
+3440,Handle,hendıl,1.TUTACAK 2.ELİNDEN GELMEK, YAPABİLMEK 3.ELLEMEK
+3441,Charming,çarming,ÇEKİCİ
+3442,Aristocrat,eristokrat,ARİSTOKRAT
+3443,Vine,vayn,BAĞ
+3444,Ice,ays,BUZ
+3445,Swim,swim,YÜZMEK
+3446,Neither,niidır,HİÇBİRİ
+3447,Mother,madır,ANNE
+3448,Consult,kınsalt,DANIŞMAK
+3449,Me,mi,BANA, BEN
+3450,Nervous,nörvıs,SİNİRLİ
+3451,Between,bitviin,ARASINDA
+3452,Recommend,rekımend,TAVSİYE ETMEK
+3453,Wreck,rek,HURDA, ENKAZ ,ÇARPIŞMA,MAFOLMA
+3454,Refill,rifıl,DOLDURMAK
+3455,Individual,indivicul,AYRI, BİREY, FERT, KİMSE
+3456,Death,deth,ÖLÜM
+3457,Bonnet,bonıt,1)ÇOCUK BAŞLIĞI 2)ARABANIN KAPUTU
+3458,Foot,fuut,AYAK
+3459,Architecture,arkitekçır,MİMARİ
+3460,Machine-Gun,mışiin gan,MAKİNELİ TÜFEK
+3461,Back,bek,1.ARKA 2.SIRT
+3462,Climate,klaymıt,IKLIM
+3463,Yoghurt,yogıt,YOĞURT
+3464,Unlock,anlok,KİLİDİ AÇMAK
+3465,Challenge,çalınc,MEYDAN OKUMA
+3466,Salmon,semın,1) SOM BALIĞI 2) SARIMSI, PEMBE RENK
+3467,Supplies,sıplayz,ERZAK, MAL
+3468,Chart,?art,TABLO,ÇİZELGE
+3469,Chance,çens,ŞANS, FIRSAT
+3470,South,sauth,GÜNEY
+3471,Demonstration,demonstreyşın,GÖSTERİ
+3472,Squeeze,skwiiz,SIKIŞMAK, SIKIŞTIRMAK, SIKMAK
+3473,Wonder,wandır,1.MERAK ETMEK  2.ŞAŞIRMAK
+3474,Idle,aydl,ATIL, BOŞ
+3475,Indemnify,indemnifaı,1)TAZMİNAT ÖDEMEK, SÖZ VERMEK, ZARARI KARŞILAMAK
+3476,Banish,beniş,1)SÜRGÜNE YOLLAMA 2)DÜŞÜNMEKTEN VAZGEÇME
+3477,Interview,intıvüu,RÖPORTAJ, GÖRÜŞME
+3478,World,wörld,DÜNYA
+3479,Day,dey,GÜN
+3480,Adopt,edopt,1)KABUL ETMEK 2)EVLAT EDİNMEK
+3481,Plant,plent,1.BİTKİ, BİTKİ EKMEK  2.FABRİKA, TESİS
+3482,Honeymoon,hanimuun,BALAYI
+3483,Sniff,snif,BURNUNU ÇEKMEK
+3484,Saxophone,seksifon,SAKSAFON
+3485,Extend,ıkstend,GENİŞLETMEK, BÜYÜTMEK
+3486,Ball,bol,1.TOP 2.BALO
+3487,Trade,treyd,1.TİCARET  2.İŞ
+3488,Wardrobe,wordroop,GARDROP, BÜYÜK DOLAP
+3489,Attend,etend,KATILMAK, (bir yerde)BULUNMAK
+3490,Expensive,ekspensiv,PAHALI
+3491,Politics,palitiks,POLİTİK
+3492,Determined,dıtörmind,AZİMLİ
+3493,Bit,bit,1.PARÇA 2.MATKAP,ANAHTARIN UCU 3.ISIRMANIN PAST ŞEKLİ
+3494,Quick,kuik,ÇABUK
+3495,Plate,pleyt,TABAK
+3496,Ago,ego,ÖNCE
+3497,Destruction,dıstrakşın,YIKIM
+3498,Mud,mad,ÇAMUR
+3499,Wander,wandır,DOLAŞMAK
+3500,Pub,pab,PAB, BİRAHANE
+3501,Sin,sin,GÜNAH
+3502,Agriculture,egrikalçır,TARIM
+3503,Wrist,rist,BİLEK
+3504,Stand,stend,1.AYAKTA DURMAK,BULUNMAK 2.STAND IN=DUBLÖRLÜK YAPMAK
+3505,Consistent,kansıstınt,TUTARLI, UYUMLU (kişi, yazı vb)
+3506,Both,bouth,İKİSİ
+3507,Trigger,trigır,TETİK ( Who pulled triger? )
+3508,Bull,bul,BOĞA
+3509,Hostage,hastıc,ESİR, REHİNE
+3510,Therefore,deırfoor,DOLAYISIYLA
+3511,Consumption,kınsomşın,TÜKETİM
+3512,Item,aytım,BİRİM
+3513,Height,hayt,YÜKSEKLİK
+3514,Tripod,traypod,ÜÇ AYAKLI SEHPA, FOTOĞRAF SEHPASI
+3515,Bite,bayt,ISIRMAK
+3516,Up To You,ap tu yu,SANA KALMIŞ, NASIL İSTERSEN (It's up to you)
+3517,Personality,pörsınelıti,KİŞİLİK
+3518,Worship,wörşip,1)TAPMAK, TAPINMAK, İBADET 2)HAYRANLIK, SAYGI
+3519,Opportunity,aporçüniti,FIRSAT
+3520,Gear,giır,VİTES
+3521,Ugly,agli,ÇİRKİN
+3522,Dust,dast,TOZ
+3523,Concert,kansıt,KONSER
+3524,Armchair,armçeir,KOLTUK
+3525,Effort,efıt,EFOR
+3526,Blanket,blenkıt,BATTANİYE
+3527,Laboratory,lıborıtri,LABORATUVAR
+3528,Amount,emaunt,MİKTAR
+3529,Ironically,ayronikli,TAM AKSİ OLMA,İNADINA(İnadına tatilde yağmur yağdı.)
+3530,District,distrikt,BÖLGE (toprak,ülke)
+3531,Shield,şiild,KALKAN, KILIF
+3532,Invade,inveyd,İSTİLA ETMEK
+3533,Shine,şayn,PARLAMAK, PARLATMAK
+3534,Performance,pörformıns,PERFORMANS
+3535,Vision,vijn,GÖRÜŞ, İMGE
+3536,Ballerina,belıriinı,BALERİN
+3537,Jockey,cokey,COKEY
+3538,Jellyfish,celifiş,DENİZANASI, MEDÜS, SU MEDÜSÜ
+3539,Dangerous,deyncrıs,TEHLİKELİ
+3540,Pronounce,pronauns,OKUNUŞUNU ÇIKARTMAK, TELAFFUZ ETMEK
+3541,State,steyt,1.DEVLET 2.DURUM
+3542,Break Down,brek davn,1)ÇÖKÜŞ 2)AYIRMA,SINIFLAMA,DETAYLANDIRMA
+3543,Black,blek,SİYAH
+3544,Then,then,1.ÖYLEYSE 2.O ZAMANDA 3.ONDAN SONRA,DAHA SONRA
+3545,City,siti,"KENT
+3546,Speed,spiid,HIZ, HIZLI GİTMEK
+3547,Moral,morıl,AHLAK
+3548,Inspire,inspayır,AKLA, FİKRE GETİRME, ESİNLEME, İLHAM GELMESİ
+3549,Cry,kray,BAĞIRMAK, AĞLAMAK
+3550,Disobey,disıbey,İTAAT ETMEMEK
+3551,Drain,dreyn,LAĞIM, SU YOLU
+3552,Screen,skriin,1.EKRAN 2.PERDE, PERDELEMEK
+3553,Omit,ımit,ATLAMAK, HARİÇ BIRAKMAK
+3554,Produce,prodyus,ÜRETMEK
+3555,Coma,komı,KOMA, KOMA HALİ
+3556,Republic,rıpablik,CUMHURİYET
+3557,Exhibit,igzıbit,TEŞHİR ETMEK, GÖSTERMEK
+3558,Curry,köri,HAFİF ACILI
+3559,Pedestrian,pidestriın,YAYA GİDEN
+3560,Winter,wintır,KIŞ
+3561,Tenant,tenınt,KİRACI
+3562,Owner,ounır,SAHİP
+3563,Foam,fom,KÖPÜK
+3564,Lose,luuz,KAYBETMEK
+3565,Sex,seks,CİNSİYET, CİNS
+3566,Least,liist,EN AZ
+3567,Training,treyning,EĞİTİM,ÖĞRETİM
+3568,Priest,priist,RAHİP
+3569,Packed,pekt,KALABALIK, BİR SÜRÜ İNSAN
+3570,Pig,pig,DOMUZ
+3571,Furnish,förniş,DÖŞEMEK
+3572,Constitution,konstituşın,ANAYASA
+3573,Give,giv,VERMEK
+3574,Definite,defınit,KESİN, BELİRLİ
+3575,Push,puş,İTMEK
+3576,Canary,kıneri,1) KANARYA KUŞU 2)KANARYA SARISI
+3577,Mouse,maus,FARE
+3578,Market,maakıt,PAZAR, PİYASA
+3579,Merchant,mörçınt,TÜCCAR
+3580,Labour,leybır,İŞ(elle yapılan zor iş),İŞGÜCÜ
+3581,Available,eveylıbl,HAZIR, SERBEST, BOŞTA
+3582,Ability,ebılıti,YETENEK
+3583,Scale,skeyl,1.ÖLÇEK 2.TART
+3584,Law,lou,YASA, KANUN
+3585,Shave,şeyv,TIRAŞ
+3586,Mobile,mobayl,OYNAK,HAREKETLİ
+3587,Garlic,gaalik,SARIMSAK
+3588,Flipper,flipır,1) YÜZME PALETİ, 2) YÜZGEÇ
+3589,Sample,sempıl,ÖRNEK, NUMUNE
+3590,Stutter,statır,KEKELEMEK, KEKEME
+3591,Corridor,koridoor,KORİDOR
+3592,Development,dıvelopmınt,GELİŞME
+3593,Risky,riski,RİSKLİ
+3594,Interest,interest,1.İLGİ DUYMAK, ENTERESE OLMAK 2. FAİZ
+3595,Charm,çarm,ÇEKİCİLİK
+3596,Senate,senit,SENATO
+3597,Emphatic,imfetic,KESİNLİKLE,MUTLAK,KESİN(Emphatic victory=Kesin Zafer
+3598,Ashamed,eşeymd,UTANMIŞ
+3599,Subsidize,sabsidayz,YARDIM ETME (In scholl you can buy subsidized meats)
+3600,Solve,solv,ÇÖZÜM BULMAK, ÇÖZMEK
+3601,Dreadful,dredfl,KORKUNÇ, KÖTÜ
+3602,Ocean,ouşın,OKYANUS
+3603,Invest,invest,YATIRIM YAPMAK
+3604,Money,mani,PARA
+3605,Fig,fig,1)İNCİR 2)ÇOK ÖNEMSİZ KONU
+3606,Collar,kolır,YAKA, TASMA
+3607,Case,keys,1.KUTU,KAP 2.DAVA
+3608,Monument,monımınt,ANIT, ABİDE
+3609,Where,weır,NEREYE, NEREDE
+3610,Find,faynd,BULMAK
+3611,Rope,roup,HALAT, İP
+3612,Merge,mörc,BİRLEŞEREK KAYBOLMA, KONSOLİDASYON (Şirket, devlet)
+3613,Free,frii,BEDAVA, ÜCRETSİZ
+3614,Circuit,sörkıt,DEVRE(Close cırcuıt TV,Short-cırcuıt=Kısa devre vb)
+3615,Satisfy,setısfay,TATMİN ETMEK
+3616,Transfer,trensför,TRANSFER
+3617,Icy,aysi,ÇOK SOĞUK, BUZLU
+3618,Fire,fayır,1.YANGIN, ATEŞ ETMEK, ATEŞ 2.İŞTEN KOVMAK
+3619,Save,seyv,1.KORUMAK  2.TASARRUF ETMEK
+3620,Sudden,sadn,ANİ
+3621,Baneful,beynful,KÖTÜ, KÖTÜ ŞEY (A Baneful ınfluence=Kötü etki)
+3622,Pickle,pıkıl,TURŞU
+3623,Praise,preyz,ÖVMEK
+3624,Bale,beyl,BALYA (Halı,Tütün vs.)
+3625,Rib,rib,KABURGA
+3626,Let,let,BIRAKMAK
+3627,Costume,kostiyum,KOSTÜM
+3628,Initial,inişıl,İLK HARF, BİRİNCİ, BAŞTAKİ,PARAF
+3629,Courage,karıc,CESARET
+3630,Hubbub,habab,GÜRÜLTÜ
+3631,Relation,rıleyşn,1.İLİŞKİ 2.AKRABALIK
+3632,Fellow,felıu,ARKADAŞ (kendisine benzeyen), ADAM
+3633,Demolish,dımoliş,YIKMAK, PARÇALAMAK
+3634,Useful,yuusfl,KULLANIŞLI
+3635,Explore,ıksplor,ARAŞTIRMAK (bir yeri)
+3636,Either.....Or....,aydır ... or,YA.....YA.....
+3637,Amuse,emüuz,GÜLDÜRMEK
+3638,Get,get,1.ALMAK 2.ELDE ETMEK 3.ANLAMAK
+3639,Panic,penik,PANİK
+3640,Weak,wiik,ZAYIF,ERKSİZ

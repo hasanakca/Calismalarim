@@ -1,0 +1,8 @@
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\bin\Debug\twitter.exe.config
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\bin\Debug\twitter.exe
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\bin\Debug\twitter.pdb
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\bin\Debug\WebDriver.dll
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\bin\Debug\WebDriver.xml
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\obj\Debug\twitter.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\obj\Debug\twitter.exe
+C:\Users\Hasan\Desktop\Csharp\twitter\twitter\obj\Debug\twitter.pdb

@@ -1,0 +1,52 @@
+c:\users\90554\documents\visual studio 2015\Projects\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\90554\Documents\Visual Studio 2015\Projects\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\bin\Debug\Proje.exe.config
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.exe
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.pdb
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\bin\Debug\Proje.exe
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\bin\Debug\Proje.pdb
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\90554\Desktop\2020-2021 Bahar Dönemi\Biyomedikal Tasarım ve Uyg\Proje2\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\bin\Debug\Proje.exe.config
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\bin\Debug\Proje.exe
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\bin\Debug\Proje.pdb
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.exe
+C:\Users\Hasan\Desktop\Proje2\Proje2\Proje\obj\Debug\Proje.pdb
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\bin\Debug\Proje.exe.config
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\bin\Debug\Proje.exe
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\bin\Debug\Proje.pdb
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.exe
+C:\Users\Hasan\Desktop\Csharp\Mırtıf\Proje2\Proje\obj\Debug\Proje.pdb

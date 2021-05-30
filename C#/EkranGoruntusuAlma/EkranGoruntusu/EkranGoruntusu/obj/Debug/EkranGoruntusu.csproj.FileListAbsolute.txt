@@ -1,0 +1,11 @@
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.Properties.Resources.resources
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\bin\Debug\EkranGoruntusu.exe.config
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\bin\Debug\EkranGoruntusu.exe
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\bin\Debug\EkranGoruntusu.pdb
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.Form1.resources
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.exe
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.pdb
+C:\Users\Hasan\Desktop\Csharp\EkranGoruntusu\EkranGoruntusu\obj\Debug\EkranGoruntusu.Form2.resources

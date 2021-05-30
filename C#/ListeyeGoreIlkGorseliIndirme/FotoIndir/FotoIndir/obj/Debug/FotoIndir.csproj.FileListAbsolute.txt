@@ -1,0 +1,13 @@
+C:\Users\Hasan\Desktop\FotoIndir\FotoIndir\bin\Debug\FotoIndir.exe.config
+C:\Users\Hasan\Desktop\FotoIndir\FotoIndir\bin\Debug\FotoIndir.exe
+C:\Users\Hasan\Desktop\FotoIndir\FotoIndir\bin\Debug\FotoIndir.pdb
+C:\Users\Hasan\Desktop\FotoIndir\FotoIndir\obj\Debug\FotoIndir.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\FotoIndir\FotoIndir\obj\Debug\FotoIndir.exe
+C:\Users\Hasan\Desktop\FotoIndir\FotoIndir\obj\Debug\FotoIndir.pdb
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\bin\Debug\FotoIndir.exe.config
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\obj\Debug\FotoIndir.exe
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\obj\Debug\FotoIndir.pdb
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\bin\Debug\FotoIndir.exe
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\bin\Debug\FotoIndir.pdb
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\obj\Debug\FotoIndir.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Flutter\FotoIndir\FotoIndir\obj\Debug\FotoIndir.csproj.CoreCompileInputs.cache
